@@ -1,4 +1,6 @@
 
+# golang freecodecamp
+[[golang]]
 - strong and statically typed
 	- strong typing - type of a variable cannot change over time
 	- static typing - variable have to be defined at compile time
@@ -23,3 +25,38 @@ i = 42
 var j float32 = 91
 // autodetect type
 i := 42
+
+// global variables
+// have to use full declaration
+var i int = 91
+
+// block of var to define together
+var (
+	actor string = "Sou"
+	season int 11
+)```
+
+- can't declare the same variable multiple times
+- innermost scope takes precedence -> **shadowing**
+- variables always have to be used
+
+visibility / scope
+- lowercase and package - scoped to package
+- uppercase -> globally outside world
+- block scope
+
+rules for variable names
+- length of name proportional to the lifetime
+- acronyms all uppercase
+
+type casting variables
+```go
+var i int = 42
+var j float32
+j = float32(i)
+```
+
+reverse is not allowed as you will lose info
+
+string is an alias to a stream of bytes
+use strconv to convert strings to other data
