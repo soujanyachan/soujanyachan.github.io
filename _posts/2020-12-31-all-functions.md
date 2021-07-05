@@ -4,6 +4,7 @@ title: Extracting all the functions from a Node/Express project
 tags: [tech]
 comments: true
 ---
+[[cs_learning]]
 I wanted to extract all the functions from a Node.js project for documentation and testing reasons. 
 I first thought that it would be a simple search / awk / grep task, however due to the many ways in which 
 Node functions can be written (arrow), it was going to be harder than I expected.

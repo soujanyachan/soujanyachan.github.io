@@ -1,3 +1,5 @@
+[[work_self_dev]]
+[[psychology]]
 # Trust
 - types:
 	- cognitive - for rational reasons

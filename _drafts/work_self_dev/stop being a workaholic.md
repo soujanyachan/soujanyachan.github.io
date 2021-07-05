@@ -2,7 +2,7 @@
 created: 2021-05-29T19:16:06+05:30
 modified: 2021-05-29T19:16:23+05:30
 ---
-
+[[work_self_dev]]
 A couple of years ago I used to work for 9 hours at work and 4 hours on my side project at night for 4 months. My wife supported me. One day she said we hadn't been able to talk like a couple for months, what did I think about my role in our family. At first, I denied that it's an issue. I just really enjoyed working and thinking I was creating value. But what value am I really creating if my life and my family is screwed up?
 
 So it's great that you already see that you need to stop doing it. 

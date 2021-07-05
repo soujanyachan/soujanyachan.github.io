@@ -3,7 +3,7 @@ created: 2021-04-20T19:19:46+05:30
 tags: [work]
 modified: 2021-04-20T19:20:14+05:30
 ---
-
+[[work]]
 do a lot of L2 application support work which requires me to ask questions to multiple app dev partners (L3 support resources) and business analyst (who have deep product knowledge). 
 
 I'm a believer of the what, when, why, who and how methodology of asking questions. Here is the escalation ladder and some of my recommendations:

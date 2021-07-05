@@ -1,3 +1,5 @@
+[[learning]]
+
 struggling in certain targeted ways—operating at the edges of your ability, where you make mistakes—makes you smarter.
 
 The more we fire a particular circuit, the more myelin optimizes that circuit, and the stronger, faster, and more fluent our movements and thoughts become.

@@ -1,3 +1,6 @@
+[[self_care]]
+[[psychology]]
+
 But it shouldn’t take work just to be noticed.
 
 Children who feel they cannot engage their parents emotionally often try to strengthen their connection by playing whatever roles they believe their parents want them to. Although this may win them some fleeting approval, it doesn’t yield genuine emotional closeness.

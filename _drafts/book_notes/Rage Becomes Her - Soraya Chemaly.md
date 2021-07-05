@@ -1,3 +1,6 @@
+[[feminism]]
+[[book_notes]]
+
 tends to get angry quickly, known as “trait anger”;
 
 slower to anger and experience it mainly when provoked. That is called “state anger.”
