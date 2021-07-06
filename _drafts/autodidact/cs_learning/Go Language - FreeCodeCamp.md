@@ -17,7 +17,7 @@
 	- [[Effective Go]]
 	- https://www.callicoder.com/docker-golang-image-container-example/
 
-# variables
+## variables
 ```go
 // not ready to init
 var i int
@@ -62,7 +62,7 @@ reverse is not allowed as you will lose info
 string is an alias to a stream of bytes
 use strconv to convert strings to other data
 
-# primitives
+## primitives
 - types
 	- boolean type
 	- numeric types
@@ -103,7 +103,7 @@ r:='a' // single quotes, type alias for int32
 var r rune = 'a'
 ```
 
-# constants
+## constants
 - naming convention
 - typed constants
 - untyped constants
@@ -123,7 +123,7 @@ const myConst int = 42
 	- so use the first in the enum as the error value / __
 	- fixed offset ofr enums can be done
 
-# arrays and slices
+## arrays and slices
 - arrays
 	- creation
 	- builtin functions
@@ -171,7 +171,7 @@ a = append(a, 1,2,3,4)
 a = append(a, []int{1,23,4}...)
 ```
 
-# maps and structs
+## maps and structs
 - maps
 	- what they are
 	- creation
@@ -253,7 +253,7 @@ field,_:= t.FieldByName("Name")
 field.Tag // required max: "100"
 ```
 
-# if and switch statements
+## if and switch statements
 - if
 	- operators
 	- if else, if else if
@@ -284,7 +284,7 @@ lazy eval of the tests
 switch
 falling through is not there, but multiple case checks in single block
 tagless syntax for case, full comparisons, they are allowed to overlap, and first returns
-break is implied
+break is implied, but can also be explicitly said 
 can use the keyword fallthrough, logicless
 
 type switch
@@ -296,6 +296,103 @@ case int:
 case string:
 	fmt.Println("string")
 default:
-	fmt.Println()
+	fmt.Println("another type")
+}
+```
+
+## looping
+for statement
+- simple loops
+- exiting early
+- looping through collection
+
+```go
+for i:=0; i< 5; i++ {
+	fmt.Println(i)
+}
+// go has no comma op to init two in the same loop but can use
+// go's ability to init multiple
+for i,j:=0,0;i<5;i,j=i+1,j+2{
+	fmt.Println(i,j)
+}
+// increment is not an expression so inside statement cannot
+// can manip i inside the loop
+for {
+	fmt.Println(i)
+	i++
+	if i==5 {
+		break
+	}
+}
+// can also use continue
+// labels - (almost like a goto)
+s:= []int{1,2,3}
+for k,v:=range s {
+	fmt.Println(k,v)
+}
+```
+
+
+## defer panic and recover
+defer functions are called in LIFO order
+after fn is done but before it returns
+associate the opening and closing of a resource
+check twice if open in a loop
+
+defer variables take the value at the time the function is called and not at execution time
+
+panic -> throwing a fatal error, program cannot continue at all
+panics after it finishes the deferred statements
+recover ->
+- catching panics, can either continue panic or recover for the higher functions in the call stack
+- only useful in deferred functions
+
+## pointers
+
+- creating pointers 
+- dereferencing pointers
+- new function
+- nil
+- internal pointers
+
+```go
+var a int = 42
+var b *int = &a
+fmt.Println(a,b) // value, addr
+fmt.Println(&a,b) // addr addr
+fmt.Println(a,*b) // value, value
+
+//ptr arithmetic
+// no pointer arithmetic in go for simplicity
+
+// dont need to have any underlying data
+type myStruct struct {
+	foo int
+}
+
+var ms *myStruct
+ms = &myStruct{foo: 42}
+fmt.Println(ms) // &{42}
+
+ms = new(myStruct) // zero values
+(*ms).foo = 43 // deref operator has lower precedence that the dot operator so brackets are required
+ms.foo // syntactic sugar for (*ms).foo
+
+// internal rep of slice contains pointer
+// similarly maps contain pointers
+```
+a pointer that you dont init will be holding the value `nil`
+
+## functions
+- syntax
+- params
+- returns values
+- anonymous fns
+- functions as types
+- methods
+
+```go
+func main() {
+	fmt
 }
 ```
