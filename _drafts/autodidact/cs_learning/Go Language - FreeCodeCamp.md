@@ -124,3 +124,18 @@ const myConst int = 42
 	- fixed offset ofr enums can be done
 
 # arrays and slices
+- arrays
+	- creation
+	- builtin functions
+	- working with arrays
+- slices
+	- creation
+	- built ins
+	- working with slices
+
+```go
+grades := [3]int
+
+
+
+```

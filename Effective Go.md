@@ -34,15 +34,15 @@ All Go code in the standard packages has been formatted with `gofmt`.
 
 Some formatting details remain. Very briefly:
 
-Indentation
+1. Indentation
 
 We use tabs for indentation and `gofmt` emits them by default. Use spaces only if you must.
 
-Line length
+2. Line length
 
 Go has no line length limit. Don't worry about overflowing a punched card. If a line feels too long, wrap it and indent with an extra tab.
 
-Parentheses
+3. Parentheses
 
 Go needs fewer parentheses than C and Java: control structures (`if`, `for`, `switch`) do not have parentheses in their syntax. Also, the operator precedence hierarchy is shorter and clearer, so
 
