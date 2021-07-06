@@ -393,6 +393,26 @@ a pointer that you dont init will be holding the value `nil`
 
 ```go
 func main() {
-	fmt
+	fmt.Println("hello playground")
+}
+
+func sayMessage(msg string, idx int) {
+	fmt.Println(msg, idx)
+}
+
+func sayGreeting(msg, name string) {
+	fmt.Println(msg, name)
+}
+
+// pass by value and reference
+sayGreetingPtr(&greeting, &name);
+func sayGreetingPtr(msg, name *string) {
+	fmt.Println(msg, name)
+}
+
+//variadic params - has to be at end and only one
+func sum(msg string, values ...int) {
+	fmt.Println(values)
+	// values acts like a slice
 }
 ```
