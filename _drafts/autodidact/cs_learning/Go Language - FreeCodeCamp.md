@@ -103,4 +103,24 @@ r:='a' // single quotes, type alias for int32
 var r rune = 'a'
 ```
 
+# constants
+- naming convention
+- typed constants
+- untyped constants
+- enumerated constants
+- enumerated expressions
 
+```go
+const myConst int = 42
+// can't assign computed value
+```
+- constants can be shadowed, changing type
+- implicit conversions when working with constants as compiler directly replaces
+
+- enumerated const
+	- `iota` starts at zero
+	- the default value of a variable is the zero value of it, so may cause errors
+	- so use the first in the enum as the error value / __
+	- fixed offset ofr enums can be done
+
+# arrays and slices
