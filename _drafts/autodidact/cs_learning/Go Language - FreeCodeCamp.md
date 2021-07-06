@@ -415,4 +415,102 @@ func sum(msg string, values ...int) {
 	fmt.Println(values)
 	// values acts like a slice
 }
+
+// return values
+// return a local variable as a pointer, return &result
+// golang autopromotes the variables to heap memory from the local stack
+// named return values (result int) -> that value is implicitly returned -> slightly difficult to read
+// return error obj fmt.Errorf("cannot") // value, nil
+
+
+// anon fn
+func() {
+	fmt.Println("ejkn")
+}() // IIFE
+// for anon fns pass the input params by value to prevent issues when running async code
+
+f:=func() {
+	fmt.Println("sdf")
+}
+f()
+
+// method (fn inside known context)
+func (g greeter) greet(){
+	// copy of g greeter obj by default, you can pass pointer if reqd
+	fmt.Println(g.greeting, g.name)
+} 
 ```
+
+## interfaces
+- how make
+- composing
+- type conv
+	- empty
+	- type switches
+- implementing value vs ptr
+- best practices
+
+```go
+func main() {
+	var w Writer = ConsoleWriter{}
+	w.Write([]byte("Hello go"))
+}
+
+type Writer interface {
+	Write([]byte) (int, error)
+}
+
+type ConsoleWriter struct {}
+
+func (cw ConsoleWriter) Write(data []byte) (int, error) {
+	n, err := fmt.Println(string(data))
+	return n, err
+}
+// advantage of this is that we get polymorphic behaviour
+// implicit implementation
+// single method interface should be name by the method + 'er'
+// composing interface
+type Writer interface {
+	Write([]byte) (int, error)
+}
+
+type Closer interface {
+	Close() error
+}
+
+type WriterCloser interface {
+	Writer
+	Closer
+}
+
+//interface conversion 
+// empty interface -> then do conversion
+// write method has pinter receiver
+// methodset associated with the type, but for interfaces 
+
+```
+
+An interface is two things: it is a set of methods, but it is also a type.
+
+Since there is no `implements` keyword, all types implement at least zero methods, and satisfying an interface is done automatically, _all types satisfy the empty interface_. That means that if you write a function that takes an `interface{}` value as a parameter, you can supply that function with any value.
+
+An interface value is constructed of two words of data; one word is used to point to a method table for the value’s underlying type, and the other word is used to point to the actual data being held by that value. [^1]
+
+To implement an interface in Go, we just need to implement all the methods in the interface.[^2]
+
+Go's interfaces let you use duck typing (In duck typing, an object's suitability is determined by the presence of certain methods and properties, rather than the type of the object itself.[^3]) like you would in a purely dynamic language like Python but still have the compiler catch obvious mistakes like passing an `int` where an object with a `Read` method was expected, or like calling the `Read` method with the wrong number of arguments.[^4]
+
+A golang interface is a lens through which you can view different type definitions. If the type has the methods in the interface it implicitly implements the interface. A single type can "implement" many such interfaces.[^5]
+
+interfaces decouple different types from each other. The interface only describes the expected behaviour. All types are concrete except interface.
+bigger the interface, weaker the abstraction.
+![[Screenshot 2021-07-06 at 20.06.38.png]]
+[^6]
+
+
+[^1]: https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go
+[^2]: https://gobyexample.com/interfaces
+[^3]: https://en.wikipedia.org/wiki/Duck_typing
+[^4]: https://research.swtch.com/interfaces
+[^5]: https://www.youtube.com/watch?v=lh_Uv2imp14 - Golang Tutorial #22 - Interfaces - Tech with Tim
+[^6]: https://www.youtube.com/watch?v=qJKQZKGZgf0 - Learn Go Programming - interfaces
