@@ -486,9 +486,19 @@ type WriterCloser interface {
 //interface conversion 
 // empty interface -> then do conversion
 // write method has pinter receiver
-// methodset associated with the type, but for interfaces 
-
+// methodset associated with the type -> all methods regardless of receiver types, but for interfaces -> the method set for a value is any method that has a value as the receiver. methodset for a pointer is the sum of all the value receiver and all of the pointer receiver methods
+// 
 ```
+
+implementing interfaces with values vs pointers
+- method set of value is all method with value receivers
+- method set of pointer is all methods regardeless of receiver type - this gives access to the underlying data
+
+Best practices
+- many small interface >>> fewer bigger ones, io.Writer, io.Reader, interface{}
+- don't export interface for types that will be consumed, allows the consumer to expose the methods they want
+- but if you are using it, then export an interface, you can defer the creation of the interface
+- design functions and methods to receive interface wherever possible
 
 An interface is two things: it is a set of methods, but it is also a type.
 
@@ -507,6 +517,179 @@ bigger the interface, weaker the abstraction.
 ![[Screenshot 2021-07-06 at 20.06.38.png]]
 [^6]
 
+## goroutines
+- concurrent programming
+- creation
+- sync
+	- waitgroups
+	- mutexes
+- parallelism
+- best practices
+
+```go
+
+func main() {
+	func sayHello () {
+		fmt.Println("hello")
+	}
+	// go creates a green thread -> abstraction of a trhead
+	// in the go runtime, there is a scheduler that maps goroutine onto os threads, for periods of time. scheduler takes turns with every cpu thread that's available and assigns the goroutines some processing time on those threads
+	// goroutines can start with very small stack spaces, reallocated very quickly cheap to create and destroy
+	// main fn is also running in a goroutine, spawned a thread and died, without calling sayHello at all
+	// get around by bad practice
+	1.  go sayHello()
+		time.Sleep(100*time.Millisecond)
+	
+	2.  // closures are available in go, anon has access to outer scope variables
+		// dependency bw outside and the goroutine
+		// most of the time, the goroutine wont interrupt the main thread until the sleep call -> race condition
+		var msg = "hello"
+		go func() {
+			fmt.Println(msg)
+		}()
+		time.Sleep(100*time.Millisecond)
+	3.  // can use call by value to decouple the goroutine and rest of the program in terms of variables
+	4.  // using time.sleep is bad as we are coupling the program time to the real world time
+	
+	// waitGroup
+	var wg = sync.WaitGroup()
+	// syncs multiple goroutines together
+	var msg = "hello"
+	wg.Add(1)
+	go func() {
+		fmt.Println(msg)
+		wg.Done()
+	}()
+	wg.Wait()
+	
+	// multiple wgs
+	// race conditions are continuously happening
+	var wg = sync.WaitGroup()
+	var counter = 0
+	
+	func main() {
+		for i:=0; i<10; i++ {
+			wg.Add(2)
+			go sayHello()
+			go increment()
+		}
+		wg.Wait()
+	}
+	
+	func sayHello () {
+		fmt.Println("hello", counter)
+		wg.Done()
+	}
+	
+	func increment() {
+		counter++
+		wg.Done()
+	}
+	
+	// mutex
+	// 
+	var wg = sync.WaitGroup()
+	var counter = 0
+	var m = sync.RWMutex{}
+	
+	func main() {
+		runtime.GOMAXPROCS(100)
+		for i:= 0; i< 10; i++ {
+			wg.Add(2)
+			go sayHello()
+			go increment()
+		}
+		wg.Wait()
+	}
+	
+	func sayHello() {
+		m.Rlock()
+		fmt.Println("hello", counter)
+		m.RUnlock()
+		wg.Done()
+	}
+	
+	func increment() {
+		m.Lock()
+		counter++
+		m.Unlock()
+		wg.Done()
+	}
+	
+	// mutex 2
+	// locking the mutexes in the same context that is the main fn
+	// unlocks are happening async
+	var wg = sync.WaitGroup()
+	var counter = 0
+	var m = sync.RWMutex{}
+	
+	func main() {
+		// by default the go program allows OS threads equal to the number of cores in the machine
+		// tuning variable
+		runtime.GOMAXPROCS(100)
+		for i:= 0; i< 10; i++ {
+			wg.Add(2)
+			m.Rlock()
+			go sayHello()
+			m.Lock()
+			go increment()
+		}
+		wg.Wait()
+	}
+	
+	func sayHello() {
+		fmt.Println("hello", counter)
+		m.RUnlock()
+		wg.Done()
+	}
+	
+	func increment() {
+		counter++
+		m.Unlock()
+		wg.Done()
+	}
+}
+```
+
+best practices
+- don't create goroutines in libraries
+	- let consumer control concurrency
+- know how it will end
+	- avoids subtle memory leaks
+- check for race conditions at compile time
+	- `go run -race src/main.go` - go compiler race flags
+
+## channels
+- channel basics
+- restrict data flow
+- buffered channels
+- closing channels
+- for..range loops with channels
+- select statements
+
+```go
+var wg = sync.WaitGroup()
+
+func main() {
+	ch := make(chan int) // can only send int ie of the given type
+	wg.Add(2)
+	go func() { // receiving
+		i:= <- ch
+		fmt.Println(i)
+		wg.Done()
+	}()
+	go func() { // sending
+		// when we pass data into the channel we are passing a deep copy of that data
+		ch <- 42
+		wg.Done()
+	}()
+	wg.Wait()
+}
+
+//
+var wg = sync.WaitG
+
+```
 
 [^1]: https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go
 [^2]: https://gobyexample.com/interfaces
