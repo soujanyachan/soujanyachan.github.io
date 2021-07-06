@@ -15,6 +15,7 @@
 - resources
 	- golang.org
 	- [[Effective Go]]
+	- https://www.callicoder.com/docker-golang-image-container-example/
 
 # variables
 ```go
@@ -60,3 +61,46 @@ reverse is not allowed as you will lose info
 
 string is an alias to a stream of bytes
 use strconv to convert strings to other data
+
+# primitives
+- types
+	- boolean type
+	- numeric types
+		- integers
+		- floating point
+		- complex numbers
+	- text types
+```go
+var n bool = true
+var k := 1 == 1 // true
+var j := 2 == 1 // false
+var l bool // 0 value is false
+
+// int depends on system but at least 32 bits
+var n int16 = 42
+var n1 uint16 = 42
+
+//(byte)
+// bit operator
+// & , | , ^ , &^
+// <<, >> bitshifts
+n := 3.q4
+n = 13.7e72
+n = 2.1E14
+// always float64 by default
+// complex type
+var n complex64 = 2i
+real(n), imag(n)
+complex(5,12) // real, imag 5+12i
+
+//text
+s := "string"
+s[2] // 105 uint8 
+b:=[]byte(s) // array of uint8s byte slices
+
+//rune - utf32
+r:='a' // single quotes, type alias for int32
+var r rune = 'a'
+```
+
+
