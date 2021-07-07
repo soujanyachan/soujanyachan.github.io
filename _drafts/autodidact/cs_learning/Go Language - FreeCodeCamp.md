@@ -687,9 +687,114 @@ func main() {
 }
 
 //
-var wg = sync.WaitG
+var wg = sync.WaitGroup()
 
+func main() {
+	ch := make(chan int)
+	
+	for j:=0; j <5; j++ {
+		wg.Add(2)
+		go func() { // receiving
+			i:= <- ch
+			fmt.Println(i)
+			wg.Done()
+		}()
+		go func() { // receiving
+			ch <- 42
+			wg.Done()
+		}()
+	}
+	// if one receiver and multiple senders
+	// receive 1 and send 5
+	// all goroutines are asleep - deadlock
+	// we keep sending msg but nothign is there to receive
+	// reason: sending data to the channel will pause the execution of this goroutine until theres space in the channel
+	// only one msg in the channel at one time as its unbuffered channel
+	// often dedicated goroutines for reading and writing
+	
+	//accept vars in the goroutine
+	ch := make(chan int)
+	
+	for j:=0; j <5; j++ {
+		wg.Add(2)
+		go func(ch <- chan int) {
+			i:= <- ch
+			fmt.Println(i)
+			wg.Done()
+		}(ch)
+		go func(ch chan <- int) {
+			ch <- 42
+			wg.Done()
+		}(ch)
+		// looks like plymorphics behaviour spl to channels go casts bidir channel to unidir
+	}
+	
+	// get around deadlocks by using buffered channels
+	// internal store to receive multiple message out 
+	ch:= make(chan int, 50)
+	wg.Add(2)
+	go func(ch <- chan int) {
+		i:= <-ch
+		i = <-ch
+		wg.Done()
+	}(ch)
+	
+	go func(ch chan<-int) {
+		ch<-42
+		ch <- 27
+		wg.Done()
+	}(ch)
+	wg.Wait()
+	
+	
+	// buffered channel if the sender and receiver are at a different speed to prevent blocking
+	
+	// for loop for buffered channel
+	ch:= make(chan int, 50)
+	wg.Add(2)
+	go func(ch <- chan int) {
+		for i:= range ch {
+			fmt.Println(i)
+		}
+		// deadlock we dont know when to exit
+		// because there is no end to a channel, we need to signal that the data stream has ended, so we close the channel on the sender side once done sending
+		// how does for range loop know when the channel closes?
+		// more than one piece of info from the channel data
+		// can use the , ok syntax
+		------
+		for {
+			if i, ok:= <- ch, ok {
+				fmt.Println(i)
+			} else {
+				break
+			}
+		}
+		------
+		wg.Done()
+	}(ch)
+	
+	go func(ch chan<-int) {
+		ch<-42
+		ch <- 27
+		close(ch)
+		// closing too early can panic -> send on closed channel
+		// can't check if channel is closed
+		wg.Done()
+	}(ch)
+	wg.Wait()
+}
+
+// select statement
+// can also use a deferred channel close in the logger example to gracefully shutdown the channel (always have an exit strategy for channels)
+// struct with no fields is spl in go because it requires no memory allocations
+// signal only channel
+// better than bool as bool requires some allocations
+// struct{} type sig {} -> empty value
+// can have a default in the select -> for a non blocking select statment
 ```
+
+select statements only for channels
+![[Screenshot 2021-07-07 at 00.17.11.png]]
 
 [^1]: https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go
 [^2]: https://gobyexample.com/interfaces
