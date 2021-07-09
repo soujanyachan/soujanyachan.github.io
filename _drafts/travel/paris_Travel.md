@@ -56,7 +56,7 @@ DO NOT book a dinner on the river. the food is shitty. If you do want a decent d
 - **Day trips outside of Paris**: If the weather is good, think about going to Giverny (Monet's japanese garden and villa) but book in advance.  
 You can also go to Auvers-sur-Oise which is the place where Van Gogh spent his last days, and where he's buried along with Theo.  
 Another cool day trip is Fontainebleau with its large forest and grand royal/imperial palace.  
-Think also of going to Chantilly castle (largest classical art collection in France after the Louvre), beautiful palace and gardens, plus royal stables. If you go, do me the favor of checkout the most gorgeous medieval manuscript we have around here "Les très riches heures du Duc de Berry". It's in there.  
+Think also of going to Chantilly castle (largest classical art collection in France after the Louvre), beautiful palace and gardens, plus royal stables. If you go, do me the favor of check out the most gorgeous medieval manuscript we have around here "Les très riches heures du Duc de Berry". It's in there.  
 Do not miss the first ever Gothic church in the world: the Basilica of St Denis, located north of Paris and reachable by metro. It's full of secrets, served as the blueprint for the earliest Gothic buildings and is the royal necropolis of the French kings & queens. 
 The city of Sceaux (40 min by RER B train) has a gorgeous park with a open air swimming pool.  
 

@@ -6,5 +6,5 @@ tags: [checkout]
 
  Unfortunately the creator has recently announced a (semi?)retirement of this desperately needed blog, but https://theuntranslated.wordpress.com/ 
 
-#checkout
+#[[checkout]]
 [[checkout]]

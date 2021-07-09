@@ -5,4 +5,4 @@ modified: 2021-04-05T12:55:05+05:30
 ---
 [[cs_learning]]
 semantic commits 
-#checkout 
+#[[checkout]] 
