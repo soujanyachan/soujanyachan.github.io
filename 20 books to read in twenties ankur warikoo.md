@@ -1,6 +1,6 @@
 ---
 created: 2021-07-10T17:48:17+05:30
-modified: 2021-07-10T17:52:55+05:30
+modified: 2021-07-10T17:54:09+05:30
 ---
 
 # 20 books to read in twenties ankur warikoo
@@ -13,4 +13,5 @@ win friends and influence people
 quiet
 wait how do i write that email
 linchpin
-start with why
+start with why (golden circle)
+mindset
