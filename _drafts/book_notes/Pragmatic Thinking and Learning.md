@@ -1,3 +1,5 @@
+[[cs_learning]]
+
 systems thinking, one tries to envision an object as a connection point of several systems, rather than as a discrete object unto itself.
 
 it’s easy to get so swamped under the daily demands of our jobs that we have no chance to advance our careers.

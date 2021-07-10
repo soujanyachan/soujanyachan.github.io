@@ -1,3 +1,4 @@
+[[feminism]]
 From early childhood, girls are taught that their well-being and ultimate success is contingent upon acting in certain stereotypical ways, such as being polite, soft-spoken, compliant, and relationship-oriented.
 
 Attempts to act counter to this socialized role are met with ridicule, disapproval, and scorn.
