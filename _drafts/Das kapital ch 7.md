@@ -21,3 +21,4 @@ why does capitalist get the money when it is created in the labour time througho
 profit for capitalist is only possible if the labourer is paid less than his own added use value
 
 because he controls both the labourers and the means of prodction
+

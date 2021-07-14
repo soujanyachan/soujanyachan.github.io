@@ -4,6 +4,7 @@ modified: 2021-04-01T18:08:15+05:30
 tags: [tech]
 ---
 [cs_learning]]
+
 https://news.ycombinator.com/item?id=26650721
 
 For fast iteration with pipes, using only basic unix tools, and arguably less risky to fat-fingering, I write it in a file, and use watch -n1. Easy to modify, temporarily comment parts of it, etc...
