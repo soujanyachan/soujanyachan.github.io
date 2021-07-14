@@ -1,3 +1,4 @@
+[[work_self_dev]]
 # Trust
 - types:
 	- cognitive - for rational reasons

@@ -1,3 +1,4 @@
+[[feminism]]
 I was often given a response straight out of Plato’s Symposium, the famous dialogue about eternal and unchanging ideals: something like, “Women have always suffered for beauty.”
 
 The stronger women were becoming politically, the heavier the ideals of beauty would bear down upon them, mostly in order to distract their energy and undermine their progress.
