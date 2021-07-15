@@ -14,7 +14,14 @@ tags: #flashcards
 - http.HandlerFunc and http.Handle
 - mux and router
 
-
 # echo
 - strconv.Atoi -> converts
-- 
+- use reflect pkg to get the tags in the structs for validation
+- bind, struct
+- validator package
+- https://github.com/go-playground/validator
+
+
+- cleanenv
+- init db connection ?, logger ?
+-  
