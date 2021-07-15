@@ -16,4 +16,5 @@ tags: #flashcards
 
 
 # echo
+- strconv.Atoi -> converts
 - 
