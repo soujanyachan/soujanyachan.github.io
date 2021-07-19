@@ -1,3 +1,15 @@
 checkout 
 - QUIC
+- https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims
+- FinCEN Files
+- https://bellard.org/textsynth/
+- https://wayfinder.nfb.ca/
+- https://freestuff.dev/
+- https://manifesto.softwarecraftsmanship.org/
+- https://www.eksworkshop.com/
+- https://openjsf.org/
+- https://gist.github.com/jeb5/da22862e469dea21e873acabb562f638
+- https://www.turingcollege.com/admissions
+- https://whitelist.sh/
+- https://www.reddit.com/gallery/obiagq
 - 

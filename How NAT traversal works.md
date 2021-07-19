@@ -3,7 +3,7 @@ name:
 topic:
 author:
 tags:
-
+#todo
 # How NAT traversal works
 
 establishing a peer-to-peer connection between two machines.
