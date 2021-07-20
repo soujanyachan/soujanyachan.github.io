@@ -57,4 +57,6 @@ There are four main questions you need to ask of every book:
 -   Is this book true in whole or in part?
 -   What of it?
 
-The goal of reading determines how you read.
+
+what kind of book is it? what is it about? and what is the structure, or blueprint, of the book “whereby the author develops his conception or understanding of that general subject matter?”
+

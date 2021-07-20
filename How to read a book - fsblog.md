@@ -7,14 +7,14 @@ tags:
 **Anything easily digested is reading for information.**
 ## The Four Levels of Reading
 1.  Elementary Reading
-2.  Inspectional Reading - gives you the gist of things.
+2.  Inspectional Reading - gives you the gist of things. Inspectional reading should be able to answer the questions, what kind of book is it? what is it about? and what is the structure, or blueprint, of the book “whereby the author develops his conception or understanding of that general subject matter?”
 	1. **Systematic skimming —** This is meant to be a quick check of the book by 
 		1. (1) reading the preface; 
 		2. (2) studying the table of contents; 
 		3. (3) checking the index; and 
 		4. (4) reading the inside jacket. 
 		5. This should give you sufficient knowledge to understand the chapters in the book, pivotal to the author’s argument. Dip in here and there, but never with more than a paragraph or two. Skimming helps you reach to a decision point: Does this book deserve more of my time and attention? If not, you put it down.
-	2. **Superficial reading —** This is when you just read. Don’t ponder the argument, don’t look things up, don’t write in the margins. If you don’t understand something, move on. What you gain from this quick read will help you later when you go back and put more effort into reading. You now come to another decision point. Now that you have a better understanding of the book’s contents and its structure, do you want to understand it?
+	2. **Superficial reading —** This is when you just read. Don’t ponder the argument, don’t look things up, don’t write in the margins. If you don’t understand something, move on. What you gain from this quick read will help you later when you go back and put more effort into reading. You now come to another decision point. Now that you have a better understanding of the book’s contents and its structure, do you want to understand it? You might only understand 25% of what’s going on but that’s better than nothing. Should you decide to go back and re-read the book, a lot of the things that gave you pause the first time would have been resolved.
 3.  Analytical Reading - thorough reading
 	1.  Classify the book according to kind and subject matter.
 	2.  State what the whole book is about with the utmost brevity.

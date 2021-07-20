@@ -12,4 +12,6 @@ checkout
 - https://www.turingcollege.com/admissions
 - https://whitelist.sh/
 - https://www.reddit.com/gallery/obiagq
+- Enemy of the Reich - movie
+- Very Short Introductions
 - 
