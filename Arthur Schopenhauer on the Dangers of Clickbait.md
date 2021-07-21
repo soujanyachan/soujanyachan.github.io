@@ -18,3 +18,8 @@ The author is cheating the reader as soon as he writes for the sake of filling u
 
 **The bad drives out the good.** - bad writers monopolize the time and attention of people that could be otherwise spent on more profitable pursuits.
 
+We often forget **the existence of words is no statement on their truth.**
+
+> Remember rather that the man who writes for fools always finds a large public: and only read for a limited and definite time exclusively the words of great minds, those who surpass other men of all time and countries, and whom the voice of fame points to as such. These alone really educate and instruct.
+
+> It is because people will only read what is the newest instead of what is the best of all ages, that writers remain in the narrow circle of prevailing ideas, and that the age sinks deeper and deeper in its own mire.
