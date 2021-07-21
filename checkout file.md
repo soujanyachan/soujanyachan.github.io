@@ -16,3 +16,6 @@ checkout
 - Very Short Introductions
 - https://github.com/ardanlabs/gotraining/tree/master/reading#interviews
 - https://capacitorjs.com/
+- https://fermatslibrary.com/journal_club
+- https://mixpanel.com/blog/tech-stack-examples/
+- 
