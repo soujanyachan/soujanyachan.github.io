@@ -15,4 +15,4 @@ checkout
 - Enemy of the Reich - movie
 - Very Short Introductions
 - https://github.com/ardanlabs/gotraining/tree/master/reading#interviews
-- 
+- https://capacitorjs.com/
