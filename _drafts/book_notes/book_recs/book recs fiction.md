@@ -467,3 +467,33 @@ The Glamour by Christopher Priest - A man awakens after a terrorist attack with 
 Hugo Award Nominee for Best Novel 1983.
 
 > Jo Walton remarked that Courtship Rite "is about a distant generation of colonists on a planet with no usable animals. This is the book with everything, where everything includes cannibalism, polyamory, evolution & getting tattoos so your skin will make more interesting leather when you’re dead."
+
+ The Destructives by Matthew De Abaitua. I would put him under the sci-fi with more of a literary prose bent category. I liked this book because I thought it had a weird but well thought out post-singularity plot. That being said, it's been a while since I read it, so I'm fuzzy on the plot. It's got super intelligence's destroying most of the world (accidentally), weird drugs, advertising in the post singularity world, and pre singularity Silicon Valley types surviving out in Neptune I think. I guess I should probably reread it.
+ 
+ VURT
+ 
+ "Dancers at the End of Time." - Michael Moorcock
+ 
+ “Ware Tetralogy” by Rudy Rucker
+ 
+ _The Fortunate Fall_ by Raphael Carter. It's a cyberpunk novel set in a 22nd-century Russia that is apparently run not by AI, but by unconscious algorithms that no one understands or is able to resist. Such a well-written and profoundly unsettling novel. 
+ 
+ Spider Robinson’s Callahan’s Crosstime Saloon series.
+ 
+ Remnant Population by Elizabeth Moon.
+
+When a colony is abandoned and its human population relocated back to Earth, the elderly Ofelia prefers to remain behind, eventually making contact with an intelligent native species. When the human authorities discover the existence of the natives and return, Ofelia has to step in to help humans and aliens reach an understanding.
+
+Total Eclipse by John Brunner
+
+An expedition to a nearby star seeks to discover what killed off the native species, in hopes of preventing the destruction of humanity. Xenoarchaeology & psychology take center stage, while the colonists fight to convince the Earth authorities to continue funding the expedition and allow the team to work unfettered, while struggling to survive in an alien environment.
+
+Total Eclipse sounds a lot like _The Engines of God_ by Jack McDevitt, right up my alley
+
+ Mike Resnick Tales of the Galactic Sideshow series,  [Santiago](https://en.wikipedia.org/wiki/Santiago:_a_Myth_of_the_Far_Future), the best space western ever written.
+ 
+ [Half Past Human](https://www.goodreads.com/book/show/1773848.Half_Past_Human?ac=1&from_search=true&qid=JCjej8RMii&rank=1) and [The Godwhale](https://www.goodreads.com/book/show/1788107.The_Godwhale?ac=1&from_search=true&qid=NzzBcODUkp&rank=1) by TJ Bass
+ 
+ Silver Metal Lover by Tanith Lee.
+ 
+ Michael Flynn book to the list, The Wreck of the River of Stars
