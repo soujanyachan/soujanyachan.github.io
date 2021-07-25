@@ -3,7 +3,7 @@ created: 2021-05-16T14:43:46+05:30
 modified: 2021-05-16T14:47:38+05:30
 ---
 [[feminism]]
-
+#feminism 
 swaddle women so emotional
 
 uncontrollable desires equal emotion

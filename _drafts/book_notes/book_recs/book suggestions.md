@@ -626,3 +626,23 @@ Book by Marc Brackett
 - [ ] The Kite Runner & A Thousand Splendid Suns, Khaled Hosseini   
 - [ ] Dark Matter, Blake Crouch   
 - [ ] East of Eden, John Steinbeck
+- [ ] Tuesdays with morrie
+- [ ] subtle art
+- [ ] alchemist
+- [ ] search for meaning
+- [ ] win friends and influence people
+- [ ] quiet
+- [ ] wait how do i write that email
+- [ ] linchpin
+- [ ] start with why (golden circle)
+- [ ] mindset
+- [ ] defining decade
+- [ ] freakonomics
+- [ ] a short history of nearly everything
+- [ ] sapiens
+- [ ] rich dad poor dad
+- [ ] thinking fast and slow
+- [ ] winfs of fire
+- [ ] beyond the last blue mountain
+- [ ] aromic habits
+- [ ] ikigai
