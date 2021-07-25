@@ -497,3 +497,5 @@ Total Eclipse sounds a lot like _The Engines of God_ by Jack McDevitt, right up 
  Silver Metal Lover by Tanith Lee.
  
  Michael Flynn book to the list, The Wreck of the River of Stars
+ 
+ Exercised: Why Something We Never Evolved to Do Is Healthy and Rewarding
