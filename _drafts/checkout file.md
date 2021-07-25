@@ -1,4 +1,4 @@
-checkout 
+#checkout_MOC
 - QUIC
 - https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims
 - FinCEN Files
@@ -69,3 +69,21 @@ https://gochronicles.com/project-structure/
 https://medium.com/golang-learn/go-project-layout-e5213cdcfaa2
 https://nodejs.dev/learn/introduction-to-nodejs
 https://blog.golang.org/json
+
+# zettelkästen
+https://fortelabs.co/blog/a-complete-guide-to-tagging-for-personal-knowledge-management/
+https://stangarfield.medium.com/personal-knowledge-management-how-to-do-it-with-25-resources-and-10-books-on-pkm-2adce0e1d05c
+https://willemharmsen.com/personal-knowledge-management-systems/
+https://nesslabs.com/the-state-of-personal-knowledge-management
+https://github.com/MaggieAppleton/digital-gardeners
+https://old.reddit.com/r/Zettelkasten/comments/oqvy1c/any_insights_on_how_i_should_gather/
+https://zk.zettel.page/getting-started
+https://zk.zettel.page/types-of-notes
+https://zettelkasten.de/posts/overview/#the-introduction-to-the-zettelkasten-method
+https://zettelkasten.de/posts/no-categories/
+https://www.google.com/search?client=firefox-b-d&q=using+obsidian+for+zettelkasten
+https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C&stackedNotes=z2ZAGQBHuJ2u9WrtAQHAEHcCZTtqpsGkAsrD1&stackedNotes=z8V2q398qu89vdJ73N2BEYCgevMqux3yxQUAC&stackedNotes=z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc&stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z2uXyfV67dnWLUKg1iDbsrHk3DGjtNWTxSTah&stackedNotes=z6Mx6PrJjGCf2akGM9pvoZ5Nk3EozcZcc9zHx&stackedNotes=z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1&stackedNotes=z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC
+https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6
+https://mentalpivot.com/zettelkasten-101-a-reading-list-for-beginners/
+https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1
+https://notes.andymatuschak.org/z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm
