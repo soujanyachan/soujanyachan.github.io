@@ -4,7 +4,6 @@ modified: 2021-04-01T18:07:11+05:30
 tags: [work]
 ---
 [[work_self_dev]]
- If this is a career position, here is my advice
 
 1) Learn as much as you can.  If they offer paying for education, take advantage of it.
 2) Learn a variety of skills.  Be useful across a wide range of tasks.  Don't get pigeon-holded.

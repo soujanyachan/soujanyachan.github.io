@@ -2,7 +2,7 @@
 created: 2021-05-13T18:43:21+05:30
 modified: 2021-05-13T18:49:15+05:30
 ---
-
+[[book_notes]]
 body keeps the score
 attitude to exercise
 emotional un wellness = body

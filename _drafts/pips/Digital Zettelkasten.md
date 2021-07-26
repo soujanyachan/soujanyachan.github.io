@@ -1,3 +1,4 @@
+[[learning]]
 ![[Screenshot 2021-07-26 at 03.05.58.png]]
 
 “Fleeting Notes: Notes you take "on the fly."

@@ -3,7 +3,7 @@ created: 2021-03-31T17:54:30+05:30
 modified: 2021-04-01T00:03:24+05:30
 tags: [work]
 ---
-
+[[work_self_dev]]
 noidea.dog
 Being Glue — No Idea Blog
 

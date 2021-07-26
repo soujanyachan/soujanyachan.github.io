@@ -1,3 +1,5 @@
+[[book_notes]]
+
 Do not include months when you add dates for your jobs.
 
 Show your skill, the problem you solved, and how it benefited the project.

@@ -1,3 +1,5 @@
+[[book_notes]]
+
 People experiencing everything at a remove through the eyes of a consumer (actual or potential), a future audience to judge.
 
 Open-plan offices are conceptually cool, but they do not work cool. Everyone is visible to everyone. Just another way to breed competition, plus worry, disturbance, and procrastination.

@@ -1,3 +1,6 @@
+[[Das Kapital]]
+[[philosophy]]
+
 constant and variable capital
 constant is past labour already present in the raw material and means of prod
 

@@ -1,3 +1,5 @@
+[[book_notes]]
+
 100 percent coverage: it means nothing about the quality of your code or your tests.
 
 When you’re looking at a problem, do it wrong first.

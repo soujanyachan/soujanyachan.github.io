@@ -3,7 +3,7 @@ created: 2021-01-04T01:44:49+05:30
 modified: 2021-01-04T01:58:21+05:30
 tags: [work]
 ---
-
+[[work]]
 # job dissatisfaction survey
 
 I am a software engineer at a startup. I worked my ass off for around a year and then I started wondering what I was doing. I had so many aspirations and now they're all gone. 

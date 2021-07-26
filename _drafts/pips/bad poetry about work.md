@@ -3,7 +3,7 @@ created: 2020-12-28T03:28:45+05:30
 modified: 2020-12-28T03:49:40+05:30
 tags: [writing]
 ---
-
+[[writing]]
 my job is my choker
 shopping is in my veins
 

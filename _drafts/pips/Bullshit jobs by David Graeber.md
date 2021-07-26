@@ -1,3 +1,4 @@
+[[book_notes]]
 careful budgeting of time was the essence of morality.
 
 The middle classes came to see the poor as poor largely because they lacked time discipline; they spent their time recklessly, just as they gambled away their money.

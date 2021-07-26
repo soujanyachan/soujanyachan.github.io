@@ -4,7 +4,7 @@ tags: [travel]
 ---
 
 # Paris travel
-
+[[travel]]
 #travel
 As a tour guide in Paris, here's my time to shine and help you save time and money**:  
 Avoid Paris In June and July, August. September is best, May comes in second.    

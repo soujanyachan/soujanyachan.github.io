@@ -1,3 +1,5 @@
+[[book_notes]]
+
 What we are dealing with now is not the incorporation of materials that previously seemed to possess subversive potentials, but instead, their precorporation: the pre-emptive formatting and shaping of desires, aspirations and hopes by capitalist culture.
 
 ‘interpassivity’: the film performs our anti-capitalism for us, allowing us to continue to consume with impunity.

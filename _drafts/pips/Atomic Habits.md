@@ -1,3 +1,4 @@
+[[book_notes]]
 A habit is a routine or behavior that is performed regularly—and, in many cases, automatically.
 
 four-step model of habits—cue, craving, response, and reward—

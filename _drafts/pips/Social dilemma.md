@@ -7,3 +7,8 @@ Social dilemma
 your behavioural changes are the product of social media
 
 selling attention to advertisers
+
+![Image](./media/IMG_1620892318763.jpg)
+
+[[philosophy]]
+internet is the stream of consciousness for most people

@@ -4,6 +4,8 @@ topic:
 author:
 tags:
 
+[[cs_learning]]
+
 1.  How to read a [CVE](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures) announcement and assess the impact based on its [CWE](https://en.wikipedia.org/wiki/Common_Weakness_Enumeration) / [CVSS](https://en.wikipedia.org/wiki/Common_Vulnerability_Scoring_System) score and description. Understand that CVSS scores are relative and impact in _your_ environment may be different.
 2.  How to read a hyped, name- and logo branded, corporation backed vulnerability announcement -- as well as the relevant RFCs and actual research paper, if any, instead of just the breathless webpage -- and distill the actual, realistic threat to your environment.
 3.  The difference between a vulnerability, a threat, risk, an exploit, and attack surface; the likelihood of an exploit based on an adversary's motivation, goals, and capabilities; being able to ballpark the cost of defense within a given scope.

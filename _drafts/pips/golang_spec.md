@@ -1,3 +1,6 @@
+[[cs_learning]]
+[[golang]]
+
 Go is a general-purpose language designed with systems programming in mind. It is 
 - strongly typed 
 - garbage-collected 

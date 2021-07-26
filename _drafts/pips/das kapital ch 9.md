@@ -1,3 +1,6 @@
+[[Das Kapital]]
+[[philosophy]]
+
 rate of surplus value
 degree of exploitation of labourers
 

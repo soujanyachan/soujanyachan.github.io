@@ -4,6 +4,7 @@ modified: 2021-03-29T17:59:35+05:30
 type: Checklist
 tags: [books]
 ---
+[[book_recs]]
 # book suggestions
 1. - [ ] The Power of Habit by Charles Duhigg 
 2. - [ ] Awaken the Giant Within by Anthony Robbins.

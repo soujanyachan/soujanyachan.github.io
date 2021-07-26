@@ -1,3 +1,6 @@
+[[Das Kapital]]
+[[philosophy]]
+
 wages
 surplus depends on how long
 long day implies more surplus value

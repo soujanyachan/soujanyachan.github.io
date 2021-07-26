@@ -3,7 +3,7 @@ name: why an obsession with saftey creates sick minds and a sick society
 topic:
 author: academy of ideas
 tags:
-
+[[psychology]]
 young people are socialised to feel fragile and overawed by uncertainty.
 the defining feature of personhood is vulnerability
 self-determination and autonomy are still valorised but overridden by perceived human weakness

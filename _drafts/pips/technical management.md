@@ -2,7 +2,7 @@
 created: 2021-06-07T11:48:48+05:30
 modified: 2021-06-07T11:48:50+05:30
 ---
-
+[[work_self_dev]]
 I don't find a lot of material specific to technical management since it's no different than normal management for skilled workers. (Edit: I lied. The first two books in the reading list are EM specific.)
 
 An engineering background helps you gain the team's trust if you can demonstrate competency, identify risk or ask good clarifying questions in planning or design, and more thoroughly understand tradeoffs as it pertains to priorities and roadmaps.

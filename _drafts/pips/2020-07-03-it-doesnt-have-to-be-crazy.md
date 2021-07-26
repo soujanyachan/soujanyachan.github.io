@@ -1,3 +1,4 @@
+[[book_notes]]
 I fully and wholehearted support the idea of a calm workplace. That's why I was intrigued when I saw the title of this book. Although I don't have prior experience with Basecamp, I googled it and realised that it was a trusted startup.
 
 I found that I largely agree with this book. I agree with the values of the authors / cofounders of the company and I agree that there is more to life than work.

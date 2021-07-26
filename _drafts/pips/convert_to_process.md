@@ -3,7 +3,7 @@ created: 2021-04-01T18:06:24+05:30
 modified: 2021-04-01T18:07:11+05:30
 tags: [tech]
 ---
-
+[[work]]
  I love this.
 
 I recently came across a completely unrelated quote from an engineer: Turn everything into a process, because processes can be studied, and optimized!

@@ -1,1 +1,2 @@
+[[book_notes]]
 the quarterlife crisis is a response to overwhelming instability, constant change, too many choices, and a panicked sense of helplessness.

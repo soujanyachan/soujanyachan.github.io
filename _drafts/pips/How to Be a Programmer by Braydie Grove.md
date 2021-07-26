@@ -1,5 +1,4 @@
-[[Pragmatic Programmer]], [[Code Complete]] [CodeC93], [[Rapid Development]] , and [[Extreme Programming Explained ]]
-
+[[book_notes]]
 Paul Graham and Eric Raymond
 
 Idealists, those who think design, analysis, complexity theory, and the like are more fundamental than debugging, are not working programmers.

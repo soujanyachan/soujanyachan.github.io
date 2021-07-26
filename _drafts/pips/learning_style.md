@@ -4,7 +4,7 @@ modified: 2021-07-10T17:46:57+05:30
 ---
 
 # learning style
-
+[[learning]]
 vark
 visual auditory reading/writing kinesthetic
 do learning styles even exist? 

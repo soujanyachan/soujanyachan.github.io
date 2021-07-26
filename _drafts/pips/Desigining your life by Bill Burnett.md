@@ -1,3 +1,4 @@
+[[book_notes]]
 Dysfunctional Belief: Your degree determines your career.
 Reframe: Three-quarters of all college grads don’t end up working in a career related to their majors.
 

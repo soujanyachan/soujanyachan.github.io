@@ -1,3 +1,6 @@
+[[Das Kapital]]
+[[philosophy]]
+
 formula of capital
 money that is cmc is not NEC capital
 mcm is capital

@@ -1,3 +1,5 @@
+[[book_notes]]
+
 In idiot compassion, you avoid rocking the boat to spare people’s feelings, even though the boat needs rocking and your compassion ends up being more harmful than your honesty. People do this with teenagers, spouses, addicts, even themselves. Its opposite is wise compassion, which means caring about the person but also giving him or her a loving truth bomb when needed.
 
 “There’s a difference between pain and suffering,” Wendell says. “You’re going to have to feel pain—everyone feels pain at times—but you don’t have to suffer so much. You’re not choosing the pain, but you’re choosing the suffering.”

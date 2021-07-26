@@ -1,3 +1,6 @@
+
+[[Das Kapital]]
+[[philosophy]]
 production of surplus value
 labour process
 prod of use value

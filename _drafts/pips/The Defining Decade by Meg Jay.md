@@ -1,3 +1,5 @@
+[[book_notes]]
+
 Identity capital is our collection of personal assets.
 
 One good piece of capital is how you get to better,”

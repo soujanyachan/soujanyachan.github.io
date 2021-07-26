@@ -3,8 +3,8 @@ created: 2021-04-01T18:06:24+05:30
 modified: 2021-04-01T18:07:11+05:30
 tags: [work, writing]
 ---
-
- [POEM] You start dying slowly by Martha Medeiros
+[[poetry]]
+ You start dying slowly by Martha Medeiros
  
  “You start dying slowly
  if you do not travel,

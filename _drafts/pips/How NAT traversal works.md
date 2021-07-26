@@ -4,6 +4,7 @@ topic:
 author:
 tags:
 #todo
+[[cs_learning]]
 # How NAT traversal works
 
 establishing a peer-to-peer connection between two machines.

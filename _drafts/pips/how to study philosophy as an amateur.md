@@ -1,3 +1,4 @@
+[[philosophy]]
 ### Context is king.
 
 **Works which require little to no context:**

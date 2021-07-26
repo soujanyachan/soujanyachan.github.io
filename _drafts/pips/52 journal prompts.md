@@ -1,3 +1,4 @@
+[[journal]]
 ### 52 Weeks of Self-Discovery Prompts for Your Bullet Journal
 
 1.  What is your favorite physical characteristic (face or body)? Describe a time you felt proud of that feature.

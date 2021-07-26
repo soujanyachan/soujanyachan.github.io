@@ -1,3 +1,5 @@
+[[book_notes]]
+
 superficial behaviors are a way to keep these powerful and sometimes frightening emotions and beliefs at bay.
 
 superficial level include overeating; bingeing; dieting; the use of diet pills, diuretics, or laxatives; purging; and emotional overeating.

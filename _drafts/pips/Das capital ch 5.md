@@ -1,3 +1,6 @@
+[[Das Kapital]]
+[[philosophy]]
+
 contradiction in the formula of capital
 
 where is the surplus coming from?

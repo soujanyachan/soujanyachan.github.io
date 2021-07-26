@@ -1,3 +1,5 @@
+[[book_notes]]
+
 describes the modern hyper-connected existence as one in which “a moment can feel strangely flat if it exists solely in itself.”
 
 behavioral addictions resemble substance addictions in many domains.”

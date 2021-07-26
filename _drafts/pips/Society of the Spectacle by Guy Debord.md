@@ -1,3 +1,6 @@
+[[book_notes]]
+[[philosophy]]
+
 Everything that was directly lived has receded into a representation.
 
 Fragmented views of reality regroup themselves into a new unity as a separate pseudo-world that can only be looked at.

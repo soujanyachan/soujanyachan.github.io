@@ -3,7 +3,7 @@ name:
 topic:
 author:
 tags:
-
+[[Kubernetes]]
 ## Exercises get you ready for the Certified Kubernetes Application Developer exam
 
 1.  **_List all the namespaces in the cluster_**

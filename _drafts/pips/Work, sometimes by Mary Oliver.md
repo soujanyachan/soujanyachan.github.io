@@ -4,7 +4,7 @@ created: 2021-04-11T00:15:42+05:30
 title: Work, sometimes by Mary Oliver
 modified: 2021-04-11T00:16:07+05:30
 ---
-
+[[poetry]]
 I was sad all day, and why not. There I was, books piled 
 
 on both sides of the table, paper stacked up, words

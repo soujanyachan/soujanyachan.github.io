@@ -1,3 +1,6 @@
+
+[[Das Kapital]]
+[[philosophy]]
 the sale and purchase of labor power
 
 surplus doesn't come in money or in the exchanges

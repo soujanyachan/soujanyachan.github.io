@@ -1,3 +1,5 @@
+[[book_notes]]
+
 I recently walked away from a friendship with a person I cared very much about (and continue to care a lot about) because my emotional needs were not being met, largely because she didn’t seem to think my company was worth seeking out. I do need to feel like a relationship has a similar level of affection on both ends to feel comfortable.”
 
 It is damaging and erasing to tell asexual people that being assumed heterosexual and experiencing heterosexual privilege is really the same as being heterosexual (and therefore they shouldn’t expect and shouldn’t get help or understanding and are stepping on toes by hoping to access support). This

@@ -1,3 +1,4 @@
+[[work]]
 FIFO prioritization is almost never economically optimal in product development, because product development deals with high variability, nonrepetitive, nonhomogeneous flows.
 
 the only way to comprehend the economic importance of queues is to quantify the cost of delay for product development projects.

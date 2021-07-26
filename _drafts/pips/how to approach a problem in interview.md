@@ -2,7 +2,7 @@
 created: 2021-04-25T17:09:48+05:30
 modified: 2021-04-25T17:10:51+05:30
 ---
-
+[[interviewing]]
 "There is a web application built in Stack Whatever. It gives the user a read-only field that says the number of toasters in the company's inventory, and a form containing a text field and submit button for ordering a specific number of toasters. An end user reports that the toaster counter did not update when he submitted two toasters to order. What would you do to find the source of this problem? Provide as much detail as you can."
 
 1. Do I have a testing environment available, and how extensive is it? Do I have a test machine I can deploy to? Is there a test database? Is there a Postman collection available for sending calls to the test version of the API?

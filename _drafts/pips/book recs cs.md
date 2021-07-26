@@ -1,3 +1,4 @@
+[[book_recs]]
 ### High Performance Browser Networking
 ### Designing Data-Intensive Applications
 ### Effective Python: 90 Specific Ways to Write Better Python ??

@@ -2,7 +2,7 @@
 created: 2021-06-05T16:01:58+05:30
 modified: 2021-06-05T16:02:02+05:30
 ---
-
+[[self_care]]
 Sharing from another group
 
 "My mom usually tells "sometimes efficiency is a disqualification". Being an all-rounder herself she had her hands on cooking, teaching, art, gardening, etc.

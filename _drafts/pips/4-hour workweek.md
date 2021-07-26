@@ -1,3 +1,4 @@
+[[book_notes]]
 lifestyle design as a replacement for multi-staged career planning
 
 Anyone who lives within their means suffers from a lack of imagination.

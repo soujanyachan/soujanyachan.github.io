@@ -3,7 +3,7 @@ created: 2021-04-01T18:06:24+05:30
 modified: 2021-04-01T18:07:11+05:30
 tags: [books]
 ---
-
+[[book_recs]]
 The full 2021 International Booker longlist is:
 
 I Live in the Slums by Can Xue, translated from Chinese by Karen Gernant & Chen Zeping, Yale University Press

@@ -1,4 +1,4 @@
-
+[[cs_learning]]
 # golang freecodecamp
 [[golang]]
 - strong and statically typed

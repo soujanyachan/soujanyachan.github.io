@@ -4,6 +4,7 @@ modified: 2021-04-01T18:07:11+05:30
 tags: [writing]
 ---
 [[motivation]]
+[[writing]]
  Yup. That's the one I was going to post. Here's some additional verbiage for anyone interested:
 
 

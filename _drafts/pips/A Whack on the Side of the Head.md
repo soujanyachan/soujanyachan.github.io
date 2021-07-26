@@ -1,3 +1,4 @@
+[[book_notes]]
 When things change and new information comes into existence, it’s no longer possible to solve current problems with yesterday’s solutions.
 
 real key to being creative lies in what we do with our knowledge.

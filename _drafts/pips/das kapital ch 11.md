@@ -1,3 +1,6 @@
+[[Das Kapital]]
+[[philosophy]]
+
 mass of surplus value
 
 rate and mass of surplus value

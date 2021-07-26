@@ -1,3 +1,5 @@
+[[book_notes]]
+
 If suffering continues, it’s because we keep feeding our suffering.
 
 Loneliness is the suffering of our time.

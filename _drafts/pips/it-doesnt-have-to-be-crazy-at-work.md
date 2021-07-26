@@ -3,7 +3,7 @@ created: 2021-04-01T18:06:24+05:30
 modified: 2021-04-06T06:08:14+05:30
 tags: [learning]
 ---
-
+[[book_notes]]
 There are two primary reasons: (1) The workday is being sliced into tiny, fleeting work moments by an onslaught of physical and virtual distractions. And (2) an unhealthy obsession with growth at any cost sets towering, unrealistic expectations that stress people out.
 
 Sustained exhaustion is not a badge of honor, it’s a mark of stupidity.

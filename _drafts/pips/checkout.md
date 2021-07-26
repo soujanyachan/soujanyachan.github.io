@@ -1,3 +1,28 @@
+![[checkout]]  
+![[checkout]]  
+![[blog_rec]]  
+![[checkout]]  
+![[checkout]]  
+![[checkout]]  
+![[checkout]]  
+![[cracked heel remedy]]  
+![[documentary_rec]]  
+![[excalidraw]]  
+![[Find your next job at a company trying to change the world for the better.]]  
+![[js animation]]  
+![[legal_code_as_git]]  
+![[movie recs]]  
+![[music suggestions]]  
+![[checkout]]  
+![[on rss]]  
+![[podcast rec]]  
+![[podcast_suggestions]]  
+![[python_arcade_lib]]  
+![[recognise_mentall_abused_brain]]  
+![[unlinked files output]]  
+![[webserial recs]]  
+![[youtube_channel_recs]]
+
 #checkout_main
 - QUIC
 - https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims
@@ -87,3 +112,127 @@ https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help
 https://mentalpivot.com/zettelkasten-101-a-reading-list-for-beginners/
 https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1
 https://notes.andymatuschak.org/z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm
+
+
+[[checkout]]
+courses to checkout
+https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam/
+https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/
+
+
+
+![Image](./image_picker6706469636538695894.jpg)
+
+
+carrd.co
+#checkout 
+
+ What are your favorite YouTube Channels/ Videos about Bangalore and Karnataka in general? 
+ 
+ Food Lovers - Kripal Amaana travels across several locations tasting and reviewing and nowadays promoting failing Businesses also. Well shot and informative videos that go behind the Kitchen also.
+ 
+ Life 2 Explore - An IT professional who has converted his Maruti Omni Eeco into a Camper Van and travels around with his Family. Cheerful and positive fellow and his interactions with his Son is a pleasure to watch.
+ 
+ Not in Office - Bengaluru based couple who do Travel Vlogging for some famous and little heard places. Not very flashy edits or forced conversations which make it look engaging.
+ 
+ Amoghavarsha - Beautifully shot stunning short documentaries about the nature and wildlife inside Karnataka
+ 
+ Sudheesh Kottikal - Very detailed explanations often using the help of a local guide for some of the famous Travel destinations in Karnataka. His videos are mini lessons of Karnataka History
+ 
+ Anny Arun - One of us. Enough said, go and watch his videos.
+ 
+ Steps2gether - A Couple who do detailed Travel videos of the Western Ghats and Coastal Karnataka regions. Usually no narration. If you can overlook the often bad music choices, their videos are delightful to watch.
+
+#checkout 
+
+---
+created: 2021-04-01T18:06:24+05:30
+modified: 2021-04-01T18:07:11+05:30
+tags: [checkout]
+---
+[[checkout]]
+ I follow a shedload of booktube for SFF, Narrowed down to pretty much just the ones that read significant amounts of adult SFF I think. Boecky M & Kitty G in particular also read a fair amount of self pub stuff (Kitty G is a SPFBO judge via her channel).
+
+SFF180
+
+Kalanadi
+
+That's So Poe
+
+Triumphal Reads
+
+BookswithEmilyFox
+
+The Fancy Hat Lady Reads!
+
+bookslikewhoa
+
+Anna Goldberg 
+
+Anita Reads
+
+Kitty G
+
+Jean Bookishthoughts
+
+Thoughts on Tomes
+
+Claire Rousseau
+
+Connor O'Brien
+
+booksandpieces
+
+ONYX Pages
+
+Badger Reads
+
+yogi with a book
+
+Lia Cooper
+
+Elliot Brooks
+
+JessicaReadsThings
+
+sirbooksage
+
+Chris Bookish Cauldron
+
+MercysBookishMusings
+
+Bedtime Bookworm
+
+The Book Finch
+
+BreeReadsBooks
+
+Becky M
+
+Maija Reads
+
+Book Invasion
+
+Winx & Ink
+
+What Cass Read
+
+KnightHunter Books
+
+Lauren And The Books
+
+Elena Reads Books 
+
+#checkout 
+
+---
+created: 2021-05-13T12:59:19+05:30
+modified: 2021-05-13T12:59:43+05:30
+---
+[[checkout]]
+![Image](./media/image_picker5398473144379043634.jpg)
+
+
+https://career-ladders.dev/engineering
+https://sarah.dev/writing/
+[[checkout]]

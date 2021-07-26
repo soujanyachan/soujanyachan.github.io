@@ -1,3 +1,5 @@
+
+[[book_notes]]
 Deciding means jumping in all the way, doing whatever it takes, and going after your dreams
 
 “And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.”

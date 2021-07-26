@@ -1,3 +1,5 @@
+[[book_notes]]
+
 “It’s so easy to confuse schmoozing ability with talent.
 
 introverts are uniquely good at leading initiative-takers.

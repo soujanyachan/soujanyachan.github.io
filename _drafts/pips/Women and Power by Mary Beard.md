@@ -1,3 +1,5 @@
+[[book_notes]]
+
 we need to go back to some first principles about the nature of spoken authority, about what constitutes it, and how we have learned to hear authority where we do.
 
 And rather than push women into voice training classes to get a nice, deep, husky and entirely artificial tone, we should be thinking more about the fault-lines and fractures that underlie dominant male discourse.
