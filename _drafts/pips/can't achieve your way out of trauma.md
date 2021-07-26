@@ -4,4 +4,4 @@ modified: 2021-05-13T13:03:58+05:30
 ---
 [[motivation]]
 [[self_care]]
-![Image](../media/image_picker2617782130472431723.jpg)
+![Image](image_picker2617782130472431723.jpg)
