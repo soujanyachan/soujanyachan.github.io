@@ -1,4 +1,10 @@
 [[cs_learning]]
+link: https://www.youtube.com/watch?v=jY02MB-sz8I&list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA&index=5
+name:
+topic:
+author: confluent
+tags:
+github:
 
 producers (write, stored on broker disks)-> brokers <-(polls broker to read data) consumers
 
