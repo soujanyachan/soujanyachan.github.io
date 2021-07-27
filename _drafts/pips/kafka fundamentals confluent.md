@@ -49,3 +49,32 @@ how does a producer know which partition to write a message to ?
 consumers poll, consumer offset that keeps track of the last message read is stored in a special topic named `consumer_offsets`
 
 every consumer is a consumer group in kafka
+
+partition leadership
+- four brokers, one topic
+- leaders are the r/w location, in some versions r can also happen in followers
+
+no required relation between number of brokers and number of partitions
+events are immutable, timeout -> 1 week -> retention period global or per topic
+
+producer acks
+- no
+- leader
+- all 
+
+delivery gurantees
+- some lost -> at most once
+- duplicates -> at least once
+- exactly once 
+
+atomic broadcast problem -> exactly once delivery is impossible
+
+exactly once
+- strong transactional guaran
+- exactly once PROCESSING
+
+consumer gorups
+- consumer rebalances happen automatically
+
+compacted topic -> most recent version of each event in the topic
+
