@@ -1,11 +1,5 @@
-![[checkout]]  
-![[checkout]]  
-![[blog_rec]]  
-![[checkout]]  
-![[checkout]]  
-![[checkout]]  
-![[checkout]]  
-![[cracked heel remedy]]  
+#MOC 
+
 ![[documentary_rec]]  
 ![[excalidraw]]  
 ![[Find your next job at a company trying to change the world for the better.]]  
@@ -13,7 +7,6 @@
 ![[legal_code_as_git]]  
 ![[movie recs]]  
 ![[music suggestions]]  
-![[checkout]]  
 ![[on rss]]  
 ![[podcast rec]]  
 ![[podcast_suggestions]]  
@@ -23,7 +16,6 @@
 ![[webserial recs]]  
 ![[youtube_channel_recs]]
 
-#checkout_main
 - QUIC
 - https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims
 - FinCEN Files
@@ -111,21 +103,15 @@ https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H
 https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6
 https://mentalpivot.com/zettelkasten-101-a-reading-list-for-beginners/
 https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1
-https://notes.andymatuschak.org/z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm
 
 
-[[checkout]]
 courses to checkout
 https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam/
 https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/
 
-
-
 ![Image](./image_picker6706469636538695894.jpg)
 
-
 carrd.co
-#checkout 
 
  What are your favorite YouTube Channels/ Videos about Bangalore and Karnataka in general? 
  
@@ -150,7 +136,7 @@ created: 2021-04-01T18:06:24+05:30
 modified: 2021-04-01T18:07:11+05:30
 tags: [checkout]
 ---
-[[checkout]]
+
  I follow a shedload of booktube for SFF, Narrowed down to pretty much just the ones that read significant amounts of adult SFF I think. Boecky M & Kitty G in particular also read a fair amount of self pub stuff (Kitty G is a SPFBO judge via her channel).
 
 SFF180
@@ -223,16 +209,13 @@ Lauren And The Books
 
 Elena Reads Books 
 
-#checkout 
-
----
-created: 2021-05-13T12:59:19+05:30
-modified: 2021-05-13T12:59:43+05:30
----
-[[checkout]]
 ![Image](./media/image_picker5398473144379043634.jpg)
 
 
 https://career-ladders.dev/engineering
 https://sarah.dev/writing/
-[[checkout]]
+
+ Unfortunately the creator has recently announced a (semi?)retirement of this desperately needed blog, but https://theuntranslated.wordpress.com/ 
+
+
+![Image](./image_picker3297589252936339747.jpg)
