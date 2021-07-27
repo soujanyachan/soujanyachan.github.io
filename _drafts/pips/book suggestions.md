@@ -633,3 +633,9 @@ tags: [books]
 625. - [ ] beyond the last blue mountain
 626. - [ ] aromic habits
 627. - [ ] ikigai
+628. - [ ] Demon Haunted World: Science as a Candle in the Dark
+629. - [ ] Ask For It: How Women Can Use the Power of Negotiation to Get What they Really Want
+630. - [ ] Think and Grow Rich for Women
+631. - [ ] ## Hacking Your Education: Ditch the Lectures, Save Tens of Thousands, and Learn More Than Your Peers Ever Will
+632. - [ ] The Art of Self-Directed Learning: 23 Tips for Giving Yourself an Unconventional Education
+633. 
