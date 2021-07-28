@@ -1,9 +1,10 @@
 ---
 created: 2021-03-26T21:55:28+05:30
-modified: 2021-03-29T17:59:35+05:30
+modified: 2021-07-28T20:35:44+05:30
 type: Checklist
 tags: [books]
 ---
+
 [[book_recs]]
 # book suggestions
 1. - [ ] The Power of Habit by Charles Duhigg 
@@ -55,7 +56,7 @@ tags: [books]
 47. - [ ]      \- Tiny Beautiful Things
 48. - [ ] \- After the Eclipse
 49. - [ ] *      * Wallace's *The Pale King* (2011).
-50. - [ ] Women Who Run With the Wolves by Dr. Clarissa Pinkola Est√©s, PhD
+50. - [ ] Women Who Run With the Wolves by Dr. Clarissa Pinkola Est√:copyright:s, PhD
 51. - [ ] "The Ice Master" by Jennifer Niven
 52. - [ ] Endurance: Shackleton's Incredible Voyage
 53. - [ ]  "The Spike" by Mark Humphries
@@ -286,7 +287,7 @@ tags: [books]
 278. - [ ]  Ted Chiang in his recent collection has a couple
 279. - [ ]  The Lion of Cairo by Scott Oden
 280. - [ ]  The Desert of Souls (duology) by Howard Andrew Jones
-281. - [ ]  A Dead Djinn in Cairo by P. Dj√®li Clark
+281. - [ ]  A Dead Djinn in Cairo by P. Dj√:registered:li Clark
 282. - [ ]  Tourists by Lisa Goldstein
 283. - [ ]  Djinn City by Saad Hossain
 284. - [ ]  The Djinn Who Lives Between Night and Day (short story) by Bruce Holland Rogers
@@ -306,7 +307,7 @@ tags: [books]
 298. - [ ]  Darkstorm by ML Spencer
 299. - [ ]  The Golem and the Jinni by Helene Wecker
 300. - [ ]  This is How You Lose the Time War co authored by Amal El-Mohtar
-301. - [ ]  The Wrath and the Dawn by Ren√©e Ahdieh
+301. - [ ]  The Wrath and the Dawn by Ren√:copyright:e Ahdieh
 302. - [ ]  Rose of the Prophet trilogy by Margaret Weiss and Tracy Hickman
 303. - [ ]  A Pattern of Light and Shadows by Melissa McPhail
 304. - [ ]  El Jisal series (YA) by Sophie Masson
@@ -640,4 +641,16 @@ tags: [books]
 632. - [ ] The Art of Self-Directed Learning: 23 Tips for Giving Yourself an Unconventional Education
 633. - [ ]  Software Engineering at Google
 634. - [ ] The Now Habit
-635. - [ ] 
+A Passage North, Anuk Arudpragasam
+Second Place, Rachel Cusk
+The Promise, Damon Galgut
+The Sweetness of Water, Nathan Harris
+Klara and the Sun, Kazuo Ishiguro
+An Island, Karen Jennings
+A Town Called Solace, Mary Lawson
+No One is Talking About This, Patricia Lockwood
+The Fortune Men, Nadifa Mohamed
+Bewilderment, Richard Powers
+China Room, Sunjeev Sahota
+Great Circle, Maggie Shipstead
+Light Perpetual, Francis Spufford
