@@ -13,7 +13,7 @@ tags: [books]
 - [ ] Invisible Monsters by Chuck Palahniuk
 - [ ] The Gulag Archipelago by Aleksandr Solzhenitsyn
 - [ ] the radium girls
-- [ ] "Nobody's Victim" by Carrie Goldberg: an unflinching look at a hidden world most people don't know existsone of stalking, blackmail, and sexual violence, online and offand the incredible story of how one lawyer, determined to fight back, turned her own hell into a revolution.
+- [ ] Nobody's Victim by Carrie Goldberg
 - [ ]  17 Equations That Changed The World. By Ian Stewart.
 - [ ] A Gentleman In Moscow by Amor Towles.
 - [ ] Endurance: Shackleton's Incredible Voyage by Alfred Lansing
@@ -30,9 +30,9 @@ tags: [books]
 - [ ] Pax Indica by Shashi Tharoor (his experience at the UN as well as his time having been MoS for External Affairs helps)
 - [ ] Does the Elephant Dance for a more detailed discussion of the history of Indian foreign policy.
 - [ ]  House of Leaves by Mark Danielewski
-- [ ]  'Thinking Fast and Slow' - Daniel Khaneman. It is a lay person summary of his Nobel prize winning work. Not a stereotypical self help book but will definitely help you be a better/ more insightful/ less wrong person.
-- [ ] Also '59 seconds' by Richard wiseman. Evidence based self help.
-- [ ]  The Four Pillars of Investing: Lessons for Building a Winning Portfolio. The four pillars that the book covers are:
+- [ ]  'Thinking Fast and Slow' - Daniel Kahneman.
+- [ ] Also '59 seconds' by Richard wiseman. 
+- [ ]  The Four Pillars of Investing: Lessons for Building a Winning Portfolio.
 - [ ]  Peace is Every Step by Thich Nhat Hanh. 
 - [ ] The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results by Gary Keller
 - [ ] The Power of Habit by Charles Duhigg
@@ -41,7 +41,7 @@ tags: [books]
 - [ ] Eric L. Harry's book "Society of the mind".
 - [ ] Knausgaard's *My Struggle* (2010).
 - [ ] Italo Calvinos book If on a winters night a traveler
-- [ ]  "You Are Not so Smart," David McRaney. It's basically a handbook of logical fallacies, misconceptions and other forms of sloppy thinking. If I were king of the world, it would be required reading in high schools; maybe then we'd actually get somewhere as a civilization. 
+- [ ]  "You Are Not so Smart," David McRaney
 - [ ] "If Women Rose Rooted', by Sharon Blackie
 - [ ] The Goldfinch
 - [ ] I Know This Much is True
@@ -55,7 +55,7 @@ tags: [books]
 - [ ] Endurance: Shackleton's Incredible Voyage
 - [ ]  "The Spike" by Mark Humphries
 - [ ] The Big Short by Michael Lewis
-- [ ]  Memory, Sorrow, and Thorn. Its a little derivative, but its fantastically written. Winter is ever-present in the world, but the familiar story structure gives you a warm, cozy feeling.
+- [ ]  Memory, Sorrow, and Thorn.
 - [ ] Everything I Never Told You - Celeste Ng
 - [ ] The Sun is Also a Star - Nicola Yoon
 - [ ] Aristotle and Dante Discover the Secrets of the Universe - Benjamin Alire Saenz
@@ -105,11 +105,11 @@ tags: [books]
 - [ ] piranesi
 - [ ] It's About Damn Time: How to Turn Being Underestimated into Your Greatest Advantage
 - [ ] Interview by Sophie Roell
-- [ ] 1 Piranesi by Susanna Clarke and Chiwetel Ejiofor (narrator)
-- [ ] 2 The Autobiography of Malcolm X by Malcolm X and assisted by Alex Haley, Laurence Fishburne (narrator)
-- [ ] 3 The City We Became: A Novel (The Great Cities Trilogy) by N.K. Jemisin & Robin Miles (narrator)
-- [ ] 4 Such a Fun Age by Kiley Reid & Nicole Lewis (narrator)
-- [ ] 5 More Myself: A Journey by Alicia Keys
+- [ ] Piranesi by Susanna Clarke and Chiwetel Ejiofor (narrator)
+- [ ] The Autobiography of Malcolm X by Malcolm X and assisted by Alex Haley, Laurence Fishburne (narrator)
+- [ ] The City We Became: A Novel (The Great Cities Trilogy) by N.K. Jemisin & Robin Miles (narrator)
+- [ ] Such a Fun Age by Kiley Reid & Nicole Lewis (narrator)
+- [ ] More Myself: A Journey by Alicia Keys
 - [ ] Ilona Andrews Hidden Legacy
 - [ ] Quit Like a Millionaire: No Gimmicks, Luck, or Trust Fund Required: FIRE
 - [ ] The Joy of Being Selfish
@@ -118,12 +118,11 @@ tags: [books]
 - [ ] Book by Philip Marchand
 - [ ] Home and Work: Negotiating Boundaries through Everyday Life
 - [ ] American Ways by Gary althen
-- [ ] https://www.reddit.com/r/suggestmeabook/comments/mm4qpr/anger_management_as_a_parent/
 - [ ] _Permission to Feel: Unlocking the Power of Emotions to Help Our Kids, Ourselves, and Our Society Thrive_ by Marc Brackett.
 - [ ] How to Talk so Kids Will Listen and Listen so Kids Will Talk by Adele Faber
 - [ ]  "Parent Effectiveness Training" by Thomas Gordon
 - [ ]  The biggest trick for me is silence. If I experience a situation that would upset me, I shut up and ask myself what it actually cost me.
-- [ ]  [**Nonviolent Communication: A Language of Life**](https://www.goodreads.com/book/show/Nonviolent_Communication)
+- [ ]  Nonviolent Communication: A Language of Life
 - [ ]  Peaceful Parent, Happy Kids: How to Stop Yelling and Start Connecting by Laura Markham.
 - [ ]  Don't Shoot the Dog by Karen Pryor
 - [ ]  Feeling Good by David Burns
@@ -140,21 +139,23 @@ tags: [books]
 - [ ] 1-2-3 Magic
 - [ ] No Bad Kids by Janet Lansbury
 - [ ] Anger" by Thich Nhat Hanh
-- [ ] Im on a similar journey and Ive found learning about attachment theory and attachment styles to be so helpful. [Attached](https://www.goodreads.com/book/show/9547888) seems to be the go-to for most people, however I found [Polysecure](https://www.goodreads.com/book/show/52569124) to be far more helpful. You dont have to be poly or even interested in being poly to get something from the book, all of the information in there is applicable to all relationship types. I really appreciate how the author of Polysecure uses trauma-informed research to expand on attachment theory/styles in a way Attached doesnt, and think Polysecure does a better job of discussing parent/child relationships.
+- [ ] Attached Amir Levine, Rachel S.F. Heller
+- [ ] Polysecure by Jessica Fern, Eve Rickert, Nora Samaran
 - [ ] RAISING COOPERATIVE KIDS by Marian Forgatch. SCREAM-FREE PARENTING by Hal Runkel.
-- [ ] Zen and the Art of Motorcycle Maintenance"
-- [ ] {{the conscious parent}}
+- [ ] Zen and the Art of Motorcycle Maintenance
+- [ ] the conscious parent
 - [ ] The Dance of Anger, Harriet Lerner
 - [ ] Loving What Is, Byron Katie
 - [ ] "A Guide to the Good Life: The Ancient Art of Stoic Joy" by Irvine
-- [ ]  {Parenting from the Inside Out}}, Dan Siegel
+- [ ]  Parenting from the Inside Out, Dan Siegel
 - [ ]  On Anger by Seneca
 - [ ]  The power of now - Eckhart Tolle
 - [ ]  The art of happiness by Howard C. Cutler
 - [ ] Buddhism for Mothers by Sarah Napthali.
 - [ ] The book you wish your parents had read by Philippa Perry,
-- [ ] Atomic Habits, Tiny Habits and The Power of Habits. All are worth the read.
-- [ ] https://www.reddit.com/r/suggestmeabook/comments/n0s4d9/if_you_liked_circe_or_song_of_achilles_read_till/
+- [ ] Atomic Habits, 
+- [ ] Tiny Habits and 
+- [ ] The Power of Habits
 - [ ] A Thousand Ships by Natalie Haynes
 - [ ] The King Must Die and The Bull from the Sea by Mary Renault. The story of Theseus.
 - [ ] Homer's Daughter by Robert Graves.
@@ -219,8 +220,6 @@ tags: [books]
 - [ ]  The King of India by Jabbour Douaihy
 - [ ]  Hammam Dhabab by Mohammed Eissa al-Mu'adab/Mohammed Eissa Mouaddeb
 - [ ]  The War of the Gazelle by Aisha Ibrahim
-- [ ]  Palestine + 100
-- [ ]  Iraq + 100
 - [ ]  Destinies: Concerto of the Holocaust and the Nakba by Rabai al-Madhoun
 - [ ]  The Mahzur by Dr. Henana Berjes
 - [ ]  We Hunt the Flame (Sands of Arawiya series) by Hafsah Faizal
