@@ -222,3 +222,9 @@ https://sarah.dev/writing/
 https://ny.curbed.com/2020/3/17/21183837/virtual-museum-tours-home-new-york-moma-met#:~:text=Some%20museums%20also%20have%20virtual,Museum%2C%20and%20the%20Tenement%20Museum.
 Taiwan Semiconductor Manufacturing Company, Limited is a Taiwanese multinational semiconductor contract manufacturing and design company
 http://www.emfexplained.info/?ID=25916
+
+https://old.reddit.com/r/ObsidianMD/comments/mwdrhn/life_tracker_in_obsidian/?sort=confidence
+https://blacksmithgu.github.io/obsidian-dataview/docs/intro/
+https://github.com/MaggieAppleton/digital-gardeners
+https://expeditedsecurity.com/aws-in-plain-english/
+https://macwright.com/2021/07/24/hacking-is-the-opposite-of-marketing.html

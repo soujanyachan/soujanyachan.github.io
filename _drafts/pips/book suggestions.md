@@ -640,4 +640,4 @@ tags: [books]
 632. - [ ] The Art of Self-Directed Learning: 23 Tips for Giving Yourself an Unconventional Education
 633. - [ ]  Software Engineering at Google
 634. - [ ] The Now Habit
-635. - [ ] 
+635. - [ ] SOLID: The Software Design and Architecture Handbook
