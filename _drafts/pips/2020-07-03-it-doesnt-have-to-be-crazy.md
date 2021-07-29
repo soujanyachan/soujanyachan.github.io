@@ -1,4 +1,34 @@
 [[book_notes]]
+#book
+Title:: 
+Authors:: 
+Category:: 
+Kind:: 
+Subject:: 
+#book
+# Read the preface, contents, index. What do you expect the book to be about ? What is the problem the author is trying to solve?
+-   identify the keywords and how they are used by the author
+-   focus on the questions that you want answered
+-   define the answers given by the book
+
+# What is the structure of the book?
+
+# The Book in 3 Sentences (Summary)
+
+# Insights
+
+# Glitches - Disagreements with author
+# Holes - missing from the book?
+
+# Who Should Read It?
+
+# Takeaways - How the Book Changed Me
+
+# My Rating: 
+
+# Snippets
+
+#book
 I fully and wholehearted support the idea of a calm workplace. That's why I was intrigued when I saw the title of this book. Although I don't have prior experience with Basecamp, I googled it and realised that it was a trusted startup.
 
 I found that I largely agree with this book. I agree with the values of the authors / cofounders of the company and I agree that there is more to life than work.
