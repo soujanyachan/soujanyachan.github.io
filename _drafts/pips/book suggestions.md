@@ -1,76 +1,139 @@
 ---
-created: 2021-03-26T21:55:28+05:30
-modified: 2021-07-28T20:35:44+05:30
+
+created: 2021-03-26T16:25:28.000Z
+modified: 2021-07-28T15:05:44.000Z
 type: Checklist
-tags: [books]
+tags:
+  - books
+kanban-plugin: basic
+
 ---
-[[book_recs]]
-# book suggestions
-- [ ] The Power of Habit by Charles Duhigg 
+
+## To read - fiction
+
+
+
+## To read - non-fiction
+
+
+
+## To read - CS
+
+- [ ] High Performance Browser Networking
+- [ ] Designing Data-Intensive Applications
+- [ ] Site Reliability Engineering: How Google Runs Production Services
+- [ ] Clean Code
+- [ ] Javascript the good parts
+- [ ] SICP
+- [ ] A philosophy of software design
+- [ ] Software engg at google
+
+
+## Snippetised  
+
+- [ ] [[4-hour workweek]]
+- [ ] [[2020-07-03-brotopia]]
+- [ ] [[2020-07-03-it-doesnt-have-to-be-crazy]]
+- [ ] [[convenience_store_woman]]
+- [ ] [[A Whack on the Side of the Head]]
+- [ ] [[Adult Children of Emotionally Immature Parents]]
+- [ ] [[Atomic Habits]]
+- [ ] [[body keeps the score]]
+- [ ] [[Bullshit jobs by David Graeber]]
+- [ ] [[Capitalist Realism by Mark Fisher]]
+- [ ] [[Code Complete]]
+- [ ] [[D-Day Girls by Sarah Rose]]
+- [ ] [[Days of Distraction by Alexandra Chang]]
+- [ ] [[Desigining your life by Bill Burnett]]
+- [ ] [[Digital Minimalism by Cal Newport]]
+- [ ] [[Down Girl by Kate Manne]]
+- [ ] [[Emotional Eating workbook]]
+- [ ] [[Exhalation by Ted Chiang]]
+- [ ] [[Free Will by Sam Harris]]
+- [ ] [[Grit by Angela Duckworth]]
+- [ ] [[How to Be a Programmer by Braydie Grove]]
+- [ ] [[It doesn't have to be crazy at work by Jason Fried, David Hansson]]
+- [ ] [[it-doesnt-have-to-be-crazy-at-work]]
+- [ ] [[Keys to Good Cooking]]
+- [ ] [[Loveless by Alice Oseman]]
+- [ ] [[Man's Search for Meaning]]
+- [ ] [[Maybe You Should Talk to Someone by Lori Gottlieb]]
+- [ ] [[midnight machines]]
+- [ ] [[New Programmer’s Survival Manual (for Bruno Matricciano)]]
+- [ ] [[Nice Girls Don't Get the Corner Office by Lois P. Frankel]]
+- [ ] [[Not that Bad by Roxanne Gay]]
+- [ ] [[Quarterlife crisis by Alexandra Robbins]]
+- [ ] [[Quiet by Susan Cain]]
+- [ ] [[Rage Becomes Her - Soraya Chemaly]]
+- [ ] [[Remote by Jason Fried]]
+- [ ] [[Society of the Spectacle by Guy Debord]]
+- [ ] [[Strengths Finder 2.0 by Tom Rath]]
+- [ ] [[The Defining Decade by Meg Jay]]
+- [ ] [[The Gift of Fear by Gavin de Becker]]
+- [ ] [[The invisible orientation by Julia Sondra Decker]]
+- [ ] [[The Irresistible Introvert]]
+- [ ] [[The Talent Code by Daniel Coyle]]
+- [ ] [[TODO - Art of Communicating Thich Nhat Hanh]]
+- [ ] [[Why Loiter Shilpa Phadke]]
+- [ ] [[Women and Power by Mary Beard]]
+- [ ] [[Women in Tech by Tarah Wheeler]]
+- [ ] [[You are a Badass at Making Money]]
+- [ ] [[You are a Badass by Jen Sincero]]
+- [ ] [[You're not listening by Kate Murphy]]
+
+
+## Summarised  
+
+
+
+## Digested
+
+
+
+## in list
+
 - [ ] Awaken the Giant Within by Anthony Robbins.
-- [ ] The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results by Gary Keller
+- [ ] The Sun is Also a Star - Nicola Yoon
 - [ ] Blindness by Jose Saramago.
 - [ ] Invisible Monsters by Chuck Palahniuk
-- [ ] The Gulag Archipelago by Aleksandr Solzhenitsyn
 - [ ] the radium girls
-- [ ] Nobody's Victim by Carrie Goldberg
-- [ ]  17 Equations That Changed The World. By Ian Stewart.
 - [ ] A Gentleman In Moscow by Amor Towles.
-- [ ] Endurance: Shackleton's Incredible Voyage by Alfred Lansing
-- [ ]  Mockingbird, by Walter Tevis, is about an android designed to govern society that is prevented from killing himself as every other previous model had before.
-- [ ] This is How by Augusten Burroughs.
+- [ ] Mockingbird, by Walter Tevis, is about an android designed to govern society that is prevented from killing himself as every other previous model had before.
 - [ ] Andy Weir - The Egg
 - [ ] Your Money & Your Brain, by Jason Zweig
 - [ ] The Winner's Curse, by Richard H. Thaler
 - [ ] Descartes' Error, by Antonio R. Damasio
-- [ ] The Blank Slate, by Steven Pinker
 - [ ] Cheating Monkeys and Citizen Bees, by Lee Dugatkin
-- [ ] Siddhartha. Teaches you how to listen to life through a story.
-- [ ] Awaken the Giant Within by Anthony Robbins.
-- [ ] Pax Indica by Shashi Tharoor (his experience at the UN as well as his time having been MoS for External Affairs helps)
-- [ ] Does the Elephant Dance for a more detailed discussion of the history of Indian foreign policy.
-- [ ]  House of Leaves by Mark Danielewski
-- [ ]  'Thinking Fast and Slow' - Daniel Kahneman.
-- [ ] Also '59 seconds' by Richard wiseman. 
-- [ ]  The Four Pillars of Investing: Lessons for Building a Winning Portfolio.
-- [ ]  Peace is Every Step by Thich Nhat Hanh. 
+- [ ] House of Leaves by Mark Danielewski
 - [ ] The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results by Gary Keller
 - [ ] The Power of Habit by Charles Duhigg
-- [ ] Gavin de Becker's Gift of Fear
-- [ ]  This seems based on the research of Ruby Payne, who wrote A Framework for Poverty as a way for educators to understand the values of children growing up in poverty.
-- [ ] Eric L. Harry's book "Society of the mind".
-- [ ] Knausgaard's *My Struggle* (2010).
+- [ ] Knausgaard's My Struggle (2010).
 - [ ] Italo Calvinos book If on a winters night a traveler
-- [ ]  "You Are Not so Smart," David McRaney
 - [ ] "If Women Rose Rooted', by Sharon Blackie
 - [ ] The Goldfinch
 - [ ] I Know This Much is True
-- [ ] When Breath Becomes Air
 - [ ] The Night Circus
 - [ ] Tiny Beautiful Things
 - [ ] After the Eclipse
-- [ ] Wallace's *The Pale King* (2011).
-- [ ] Women Who Run With the Wolves by Dr. Clarissa Pinkola Ests, PhD
+- [ ] Wallace's *The Pale King (2011).
 - [ ] "The Ice Master" by Jennifer Niven
 - [ ] Endurance: Shackleton's Incredible Voyage
-- [ ]  "The Spike" by Mark Humphries
+- [ ] "The Spike" by Mark Humphries
 - [ ] The Big Short by Michael Lewis
-- [ ]  Memory, Sorrow, and Thorn.
+- [ ] Memory, Sorrow, and Thorn.
 - [ ] Everything I Never Told You - Celeste Ng
-- [ ] The Sun is Also a Star - Nicola Yoon
 - [ ] Aristotle and Dante Discover the Secrets of the Universe - Benjamin Alire Saenz
- - [x] Convenience Store Woman - Sayaka Murata
+- [x] Convenience Store Woman - Sayaka Murata
 - [ ] Sweet Bean Paste - Durian Sukegawa
-- [ ] Permission to Feel: Unlocking the Power of Emotions to Help Our Kids, Ourselves, and Our Society Thrive
- Book by Marc Brackett
-- [ ] Ferrante's *My Brilliant Friend* (2012).
-- [ ] Pynchon's *Bleeding Edge* (2013).
-- [ ] James' *A Brief History of Seven Killings* (2014).
-- [ ] Ishiguro's *The Buried Giant* (2015).
-- [ ] DeLillo's *Zero K* (2016).
-- [ ] Saunders' *Lincoln in the Bardo* (2017).
-- [ ] Burns' *Milkman* (2018).
-- [ ] Ellmann's *Ducks, Newburyport* (2019).
+- [ ] Permission to Feel: Unlocking the Power of Emotions to Help Our Kids, Ourselves, and Our Society Thrive Book by Marc Brackett
+- [ ] Ferrante's *My Brilliant Friend (2012).
+- [ ] Pynchon's *Bleeding Edge(2013).
+- [ ] James' *A Brief History of Seven Killings (2014).
+- [ ] Ishiguro's *The Buried Giant (2015).
+- [ ] DeLillo's *Zero K (2016).
+- [ ] Saunders' *Lincoln in the Bardo(2017).
+- [ ] Burns' *Milkman (2018).
+- [ ] Ellmann's *Ducks, Newburyport (2019).
 - [ ] paradox of choice Barry schwartz
 - [ ] How many people can the earth support? Joel Cohen
 - [ ] Fool's Assassin & sequels by Robin Hobb (2014-2017)
@@ -91,9 +154,9 @@ tags: [books]
 - [ ] Where Good Ideas Come From by Steven Johnson (2010)
 - [ ] Elements of Eloquence by Mark Forsyth (2013)
 - [ ] Born a Crime by Trevor Noah (2016)
-- [ ]  Charlatan: The Fraudulent Life of John Brinkley}} by Pope Brock
-- [ ]  {bad science} by Ben Goldacre
-- [ ]  Quackery: A Brief History of the Worst Ways to Cure Everything by Lydia Kang
+- [ ] Charlatan: The Fraudulent Life of John Brinkley}} by Pope Brock
+- [ ] {bad science} by Ben Goldacre
+- [ ] Quackery: A Brief History of the Worst Ways to Cure Everything by Lydia Kang
 - [ ] Trick or Treatment by Simon Singh and Edzard Ernst
 - [ ] The Sawbones Book}
 - [ ] Why People Believe Weird Things: Pseudoscience, Superstition, and Other Confusions of Our Time by Michael Shermer
@@ -120,16 +183,16 @@ tags: [books]
 - [ ] American Ways by Gary althen
 - [ ] _Permission to Feel: Unlocking the Power of Emotions to Help Our Kids, Ourselves, and Our Society Thrive_ by Marc Brackett.
 - [ ] How to Talk so Kids Will Listen and Listen so Kids Will Talk by Adele Faber
-- [ ]  "Parent Effectiveness Training" by Thomas Gordon
-- [ ]  The biggest trick for me is silence. If I experience a situation that would upset me, I shut up and ask myself what it actually cost me.
-- [ ]  Nonviolent Communication: A Language of Life
-- [ ]  Peaceful Parent, Happy Kids: How to Stop Yelling and Start Connecting by Laura Markham.
-- [ ]  Don't Shoot the Dog by Karen Pryor
-- [ ]  Feeling Good by David Burns
-- [ ]  The Body Remembers
-- [ ]  Raising Human Beings by Ross Greene
-- [ ]  The Cranky Mom Fix: How to Get a Happier, More Peaceful Home by Slaying the Momster in All of Us by Becky Kopitzke
-- [ ]  _Peaceful Parent, Happy Kids_ by Laura Markham 
+- [ ] "Parent Effectiveness Training" by Thomas Gordon
+- [ ] The biggest trick for me is silence. If I experience a situation that would upset me, I shut up and ask myself what it actually cost me.
+- [ ] Nonviolent Communication: A Language of Life
+- [ ] Peaceful Parent, Happy Kids: How to Stop Yelling and Start Connecting by Laura Markham.
+- [ ] Don't Shoot the Dog by Karen Pryor
+- [ ] Feeling Good by David Burns
+- [ ] The Body Remembers
+- [ ] Raising Human Beings by Ross Greene
+- [ ] The Cranky Mom Fix: How to Get a Happier, More Peaceful Home by Slaying the Momster in All of Us by Becky Kopitzke
+- [ ] _Peaceful Parent, Happy Kids_ by Laura Markham 
 - [ ] _No-Drama Discipline_ by Daniel J. Siegel and Tina Payne Bryson (everything by this pair of authors is great) 
 - [ ] _Voice Lessons for Parents_ by Wendy Mogel
 - [ ] Parenting from the Inside Out: How a Deeper Self-Understanding Can Help You Raise Children Who Thrive
@@ -147,10 +210,10 @@ tags: [books]
 - [ ] The Dance of Anger, Harriet Lerner
 - [ ] Loving What Is, Byron Katie
 - [ ] "A Guide to the Good Life: The Ancient Art of Stoic Joy" by Irvine
-- [ ]  Parenting from the Inside Out, Dan Siegel
-- [ ]  On Anger by Seneca
-- [ ]  The power of now - Eckhart Tolle
-- [ ]  The art of happiness by Howard C. Cutler
+- [ ] Parenting from the Inside Out, Dan Siegel
+- [ ] On Anger by Seneca
+- [ ] The power of now - Eckhart Tolle
+- [ ] The art of happiness by Howard C. Cutler
 - [ ] Buddhism for Mothers by Sarah Napthali.
 - [ ] The book you wish your parents had read by Philippa Perry,
 - [ ] Atomic Habits, 
@@ -161,155 +224,155 @@ tags: [books]
 - [ ] Homer's Daughter by Robert Graves.
 - [ ] The Penelopiad by Margaret Atwood
 - [ ] Mythos by Stephen Fry
-- [ ]  Helen of Troy by Margaret George
-- [ ]  The Witch's Heart by Genevieve Gornichec
-- [ ]  Lavinia by Ursula Le Guin
-- [ ]  Deathless
-- [ ]  The Silence of the Girls by Pat Barker
-- [ ]  Hild
-- [ ]  Till We Have Faces!
-- [ ]  Goddess of Yesterday by Caroline B. Cooney
-- [ ]  {{Gods of Jade and Shadow}}
-- [ ]  {Ariadne by Jennifer Saint
-- [ ]  Cassandra by Christa Wolf
-- [ ]  Everything Under} by Daisy Johnson
-- [ ]  Bright Air Black by David Vann
-- [ ]  Firebrand by Marion summer Bradley
-- [ ]  The Day Boy and the Night Girl and The Light Princess by Macdonald. Liked them. Bought The Princess and the Goblin
-- [ ]  the screwtape letters
-- [ ]  Cleopatra by H. Rider Haggard
-- [ ]  Waiting for Odysseus
-- [ ]   Troy by Adele Geras
-- [ ]   UNESCO Handbook for Journalism Education and Training
-- [ ]  Salt Houses by Hala Alyan
-- [ ]  De Niro's Game by Rawi Hage
-- [ ]  The Eye of the Sun by Ahdaf Souief
-- [ ]  The Story of Zahra by Hanan Alshayk
-- [ ]  Frankenstein in Baghdad by Ahmed Saadawi
-- [ ]  The Hakawati by Rabih Alameddine
-- [ ]  Leo the African
-- [ ]  Balthasar's Odyssey
-- [ ]  Guapa by Selim Haddad
-- [ ]  Fetish Systems by Raafat Majzoub
-- [ ]  Sultana's Dream by Rokeya Sakhawat
-- [ ]  I Hope You Get This Message by Farah Rishi
-- [ ]  Ajwan by Noura al-Noman
-- [ ]  Otared by Mohammed Rabie
-- [ ]  Throne of the Crescent Moon by Saladin Ahmed
-- [ ]  City of Brass by S.A. Chakraborty
-- [ ]  Insha'Allah by R.F. Dunham
-- [ ]  "Connected" by Mariam Edward
-- [ ]  "Day That No One Died" by Gwen Bellinger
-- [ ]  Islamicates Volume 1 by Muhammad Aurangzeb Ahmad
-- [ ]  Kabus/The Nightmare by Alev Alatli
-- [ ]  Ruya/The Dream by Alev Alatli
-- [ ]  The Other Side (Ote Yer) by Sadik Yemni
-- [ ]  Semavi Ihtiras by Raif Necdet
-- [ ]  Baska Dunyalar Mumkun/Other Worlds Are Possible by K. Murat Guney
-- [ ]  Land of Berg by Baris Mustecaplioglu
-- [ ]  A Mosque Among The Stars by Muhammad Aurangzeb Ahmad & Ahmad Khan
-- [ ]  Red Mihrab by J. Austin Yoshino
-- [ ]  The Second War of the Dog
-- [ ]  Trilogy of Science Fiction by Larissa Sansour
-- [ ]  Triangulum by Masande Ntshanga
-- [ ]  Shy Radicals by Hamja Ahsan
-- [ ]  The Last Days of the Pasha by Rasha Adly
-- [ ]  The Spartan Court by Abdelouahab al-Alawi
-- [ ]  The Russian Quarter by Khalil Alrez
-- [ ]  Al-Mutanabbi's Rabat by Hassan Aourid
-- [ ]  The King of India by Jabbour Douaihy
-- [ ]  Hammam Dhabab by Mohammed Eissa al-Mu'adab/Mohammed Eissa Mouaddeb
-- [ ]  The War of the Gazelle by Aisha Ibrahim
-- [ ]  Destinies: Concerto of the Holocaust and the Nakba by Rabai al-Madhoun
-- [ ]  The Mahzur by Dr. Henana Berjes
-- [ ]  We Hunt the Flame (Sands of Arawiya series) by Hafsah Faizal
-- [ ]  The Weight of OUr SKy by Hanna Alkaf
-- [ ]  Internment by Samira Ahmed
-- [ ]  The Tower of Shereen
-- [ ]  The Candle and the Flame by Nafiza Azad
-- [ ]  The Gauntlet series by Karuna Riazi
-- [ ]  The Blood of Stars series by Elizabeth Lim
-- [ ]  Star Daughter by Shveta Thakrar
-- [ ]  Musa and the Blade by Q. Abdulllah Muhammad
-- [ ]  The Light at the Bottom of the World by London Shah
-- [ ]  The Forbidden Wish by Jessica Khoury
-- [ ]  The Gilded Ones by Namina FOrna
-- [ ]  Ouroboros by Wael Abdelgawad
-- [ ]  The Jealous by Laury Silvers
-- [ ]  Arabian Love Poems by Inzar Kabbani
-- [ ]  The Labyrinth's Archivist by Day al-Mohamed
-- [ ]  Utopia by Ahmed Khaled Towfik
-- [ ]  Tied to Deceit by Neena H. Brar
-- [ ]  The Tiger at Midnight by Swati Teerdhala
-- [ ]  The Corpse Exhibition by Hassan Blasim
-- [ ]  When Gravity Fails by George Alec Effinge
-- [ ]  1001 Nights
-- [ ]  A Taste of Honey by Kai Ashante Wilson
-- [ ]  The Bird King
-- [ ]  Empire of Sand
-- [ ]  The Faded Sun Trilogy by C.J. Cherryh
-- [ ]  Engraved on the Eye by Saladin Ahmed
-- [ ]  Court of Fives by Kate Elliott
-- [ ]  Jouster series by Mercedes Lackey
-- [ ]  Rebel of the Sands by Alwyn Hamilton
-- [ ]  Ember in the Ashes
-- [ ]  The Dervish House by Ian McDonald
-- [ ]  "City of Screams" by James Rollins
-- [ ]  Some of Italo Calvino's stories
-- [ ]  The graphic novel Infidel by Pornsak Pichetshote
-- [ ]  The Arabesk Trilogy by John Courtenay Greenwood
-- [ ]  Osama by Lavie Tidhar
-- [ ]  The Watch by Joydeep Roy-Bhattacharya Hogarth
-- [ ]  Alif the Unseen by G. Willow Wilson
-- [ ]  The Palace of Dreams by Ismail Kadare
-- [ ]  The Lions of Al-Rassan
-- [ ]  Years of Rice and Salt by Kim Stanley Robinson
-- [ ]  Red Mars trilogy (some themes) by Kim Stanley Robinson
-- [ ]  Mechanical Sky books by Donald Moffitt
-- [ ]  Centenal series by Malka Older
-- [ ]  Bel Dame Apocrypha by Kameron Hurley
-- [ ]  The White Castle by Orhan Pamuk
-- [ ]  Vathek by William Beckford
-- [ ]  The Haunting of Tram Car 015 by P. Djeli Clark
-- [ ]  Zendegi by Greg Egan
-- [ ]  Arabesk trilogy by Jon Courtenay Grimwood
-- [ ]  Dune by Frank Herbert (duh)
-- [ ]  The Song of the Shattered Sands series by Bradley Beaulieu
-- [ ]  The Hamzanama
-- [ ]  The Walking Drum by Louis L'Amour
-- [ ]  Ted Chiang in his recent collection has a couple
-- [ ]  The Lion of Cairo by Scott Oden
-- [ ]  The Desert of Souls (duology) by Howard Andrew Jones
-- [ ]  A Dead Djinn in Cairo by P. Djli Clark
-- [ ]  Tourists by Lisa Goldstein
-- [ ]  Djinn City by Saad Hossain
-- [ ]  The Djinn Who Lives Between Night and Day (short story) by Bruce Holland Rogers
-- [ ]  Dschinnland (Ya trilogy) by Kai Meyers (German)
-- [ ]  Rihla by Juan Miguel Aguilera
-- [ ]  Or et Nuit by Mathieu Rivero
-- [ ]  Le Jour du Lion by Nicolas Cluzeau
-- [ ]  Les Cavaliers du Taurus by Nicolas Cluzeau
-- [ ]  The Desert of Souls by Howard Andrew Jones
-- [ ]  The Bones of the Old Ones by Howard Andrew Jones
-- [ ]  American War by Omar El Akkad
-- [ ]  The City Always Wins by Omar Robert Hamilton
-- [ ]  The Djinn Falls in Love
-- [ ]  The Apex Books of World SF
-- [ ]  The Seven-Petaled Shield
-- [ ]  Blackmark by Jean Lowe Carlson
-- [ ]  Darkstorm by ML Spencer
-- [ ]  The Golem and the Jinni by Helene Wecker
-- [ ]  This is How You Lose the Time War co authored by Amal El-Mohtar
-- [ ]  The Wrath and the Dawn by Renee Ahdieh
-- [ ]  Rose of the Prophet trilogy by Margaret Weiss and Tracy Hickman
-- [ ]  A Pattern of Light and Shadows by Melissa McPhail
-- [ ]  El Jisal series (YA) by Sophie Masson
-- [ ]  Shadow Spinner by Susan Fletcher
-- [ ]  Stross' Accelerando
-- [ ]  Written in Blood by Chris Lawson
-- [ ]  ------------------------------------------------------
-- [ ]  Authors that who were recommended to me but without a book to them: Razwan ul-Haq, Alex Kreis, Sami Ahmad Khan, Niloufar Behrooz, Sazida Desai, Nora Salem, Jehanzeb Dar, JP Heeley, Levent Senyurek, SK Ali, Rasha Adly, Wasmine Warga, Faiqa Fansab, Sara Alfageeh, Karimah Grayson, Sara Alfageeh, and Emily Nasrallah.
-- [ ]  Publishers that I found: FABISAD (Turkish), Dar Al Saqi (Algerian?), Tripoli Scientific Bookshop, and Dar al-Rafidain (Iraqi, I think?)
+- [ ] Helen of Troy by Margaret George
+- [ ] The Witch's Heart by Genevieve Gornichec
+- [ ] Lavinia by Ursula Le Guin
+- [ ] Deathless
+- [ ] The Silence of the Girls by Pat Barker
+- [ ] Hild
+- [ ] Till We Have Faces!
+- [ ] Goddess of Yesterday by Caroline B. Cooney
+- [ ] {{Gods of Jade and Shadow}}
+- [ ] {Ariadne by Jennifer Saint
+- [ ] Cassandra by Christa Wolf
+- [ ] Everything Under} by Daisy Johnson
+- [ ] Bright Air Black by David Vann
+- [ ] Firebrand by Marion summer Bradley
+- [ ] The Day Boy and the Night Girl and The Light Princess by Macdonald. Liked them. Bought The Princess and the Goblin
+- [ ] the screwtape letters
+- [ ] Cleopatra by H. Rider Haggard
+- [ ] Waiting for Odysseus
+- [ ] Troy by Adele Geras
+- [ ] UNESCO Handbook for Journalism Education and Training
+- [ ] Salt Houses by Hala Alyan
+- [ ] De Niro's Game by Rawi Hage
+- [ ] The Eye of the Sun by Ahdaf Souief
+- [ ] The Story of Zahra by Hanan Alshayk
+- [ ] Frankenstein in Baghdad by Ahmed Saadawi
+- [ ] The Hakawati by Rabih Alameddine
+- [ ] Leo the African
+- [ ] Balthasar's Odyssey
+- [ ] Guapa by Selim Haddad
+- [ ] Fetish Systems by Raafat Majzoub
+- [ ] Sultana's Dream by Rokeya Sakhawat
+- [ ] I Hope You Get This Message by Farah Rishi
+- [ ] Ajwan by Noura al-Noman
+- [ ] Otared by Mohammed Rabie
+- [ ] Throne of the Crescent Moon by Saladin Ahmed
+- [ ] City of Brass by S.A. Chakraborty
+- [ ] Insha'Allah by R.F. Dunham
+- [ ] "Connected" by Mariam Edward
+- [ ] "Day That No One Died" by Gwen Bellinger
+- [ ] Islamicates Volume 1 by Muhammad Aurangzeb Ahmad
+- [ ] Kabus/The Nightmare by Alev Alatli
+- [ ] Ruya/The Dream by Alev Alatli
+- [ ] The Other Side (Ote Yer) by Sadik Yemni
+- [ ] Semavi Ihtiras by Raif Necdet
+- [ ] Baska Dunyalar Mumkun/Other Worlds Are Possible by K. Murat Guney
+- [ ] Land of Berg by Baris Mustecaplioglu
+- [ ] A Mosque Among The Stars by Muhammad Aurangzeb Ahmad & Ahmad Khan
+- [ ] Red Mihrab by J. Austin Yoshino
+- [ ] The Second War of the Dog
+- [ ] Trilogy of Science Fiction by Larissa Sansour
+- [ ] Triangulum by Masande Ntshanga
+- [ ] Shy Radicals by Hamja Ahsan
+- [ ] The Last Days of the Pasha by Rasha Adly
+- [ ] The Spartan Court by Abdelouahab al-Alawi
+- [ ] The Russian Quarter by Khalil Alrez
+- [ ] Al-Mutanabbi's Rabat by Hassan Aourid
+- [ ] The King of India by Jabbour Douaihy
+- [ ] Hammam Dhabab by Mohammed Eissa al-Mu'adab/Mohammed Eissa Mouaddeb
+- [ ] The War of the Gazelle by Aisha Ibrahim
+- [ ] Destinies: Concerto of the Holocaust and the Nakba by Rabai al-Madhoun
+- [ ] The Mahzur by Dr. Henana Berjes
+- [ ] We Hunt the Flame (Sands of Arawiya series) by Hafsah Faizal
+- [ ] The Weight of OUr SKy by Hanna Alkaf
+- [ ] Internment by Samira Ahmed
+- [ ] The Tower of Shereen
+- [ ] The Candle and the Flame by Nafiza Azad
+- [ ] The Gauntlet series by Karuna Riazi
+- [ ] The Blood of Stars series by Elizabeth Lim
+- [ ] Star Daughter by Shveta Thakrar
+- [ ] Musa and the Blade by Q. Abdulllah Muhammad
+- [ ] The Light at the Bottom of the World by London Shah
+- [ ] The Forbidden Wish by Jessica Khoury
+- [ ] The Gilded Ones by Namina FOrna
+- [ ] Ouroboros by Wael Abdelgawad
+- [ ] The Jealous by Laury Silvers
+- [ ] Arabian Love Poems by Inzar Kabbani
+- [ ] The Labyrinth's Archivist by Day al-Mohamed
+- [ ] Utopia by Ahmed Khaled Towfik
+- [ ] Tied to Deceit by Neena H. Brar
+- [ ] The Tiger at Midnight by Swati Teerdhala
+- [ ] The Corpse Exhibition by Hassan Blasim
+- [ ] When Gravity Fails by George Alec Effinge
+- [ ] 1001 Nights
+- [ ] A Taste of Honey by Kai Ashante Wilson
+- [ ] The Bird King
+- [ ] Empire of Sand
+- [ ] The Faded Sun Trilogy by C.J. Cherryh
+- [ ] Engraved on the Eye by Saladin Ahmed
+- [ ] Court of Fives by Kate Elliott
+- [ ] Jouster series by Mercedes Lackey
+- [ ] Rebel of the Sands by Alwyn Hamilton
+- [ ] Ember in the Ashes
+- [ ] The Dervish House by Ian McDonald
+- [ ] "City of Screams" by James Rollins
+- [ ] Some of Italo Calvino's stories
+- [ ] The graphic novel Infidel by Pornsak Pichetshote
+- [ ] The Arabesk Trilogy by John Courtenay Greenwood
+- [ ] Osama by Lavie Tidhar
+- [ ] The Watch by Joydeep Roy-Bhattacharya Hogarth
+- [ ] Alif the Unseen by G. Willow Wilson
+- [ ] The Palace of Dreams by Ismail Kadare
+- [ ] The Lions of Al-Rassan
+- [ ] Years of Rice and Salt by Kim Stanley Robinson
+- [ ] Red Mars trilogy (some themes) by Kim Stanley Robinson
+- [ ] Mechanical Sky books by Donald Moffitt
+- [ ] Centenal series by Malka Older
+- [ ] Bel Dame Apocrypha by Kameron Hurley
+- [ ] The White Castle by Orhan Pamuk
+- [ ] Vathek by William Beckford
+- [ ] The Haunting of Tram Car 015 by P. Djeli Clark
+- [ ] Zendegi by Greg Egan
+- [ ] Arabesk trilogy by Jon Courtenay Grimwood
+- [ ] Dune by Frank Herbert (duh)
+- [ ] The Song of the Shattered Sands series by Bradley Beaulieu
+- [ ] The Hamzanama
+- [ ] The Walking Drum by Louis L'Amour
+- [ ] Ted Chiang in his recent collection has a couple
+- [ ] The Lion of Cairo by Scott Oden
+- [ ] The Desert of Souls (duology) by Howard Andrew Jones
+- [ ] A Dead Djinn in Cairo by P. Djli Clark
+- [ ] Tourists by Lisa Goldstein
+- [ ] Djinn City by Saad Hossain
+- [ ] The Djinn Who Lives Between Night and Day (short story) by Bruce Holland Rogers
+- [ ] Dschinnland (Ya trilogy) by Kai Meyers (German)
+- [ ] Rihla by Juan Miguel Aguilera
+- [ ] Or et Nuit by Mathieu Rivero
+- [ ] Le Jour du Lion by Nicolas Cluzeau
+- [ ] Les Cavaliers du Taurus by Nicolas Cluzeau
+- [ ] The Desert of Souls by Howard Andrew Jones
+- [ ] The Bones of the Old Ones by Howard Andrew Jones
+- [ ] American War by Omar El Akkad
+- [ ] The City Always Wins by Omar Robert Hamilton
+- [ ] The Djinn Falls in Love
+- [ ] The Apex Books of World SF
+- [ ] The Seven-Petaled Shield
+- [ ] Blackmark by Jean Lowe Carlson
+- [ ] Darkstorm by ML Spencer
+- [ ] The Golem and the Jinni by Helene Wecker
+- [ ] This is How You Lose the Time War co authored by Amal El-Mohtar
+- [ ] The Wrath and the Dawn by Renee Ahdieh
+- [ ] Rose of the Prophet trilogy by Margaret Weiss and Tracy Hickman
+- [ ] A Pattern of Light and Shadows by Melissa McPhail
+- [ ] El Jisal series (YA) by Sophie Masson
+- [ ] Shadow Spinner by Susan Fletcher
+- [ ] Stross' Accelerando
+- [ ] Written in Blood by Chris Lawson
+- [ ] ------------------------------------------------------
+- [ ] Authors that who were recommended to me but without a book to them: Razwan ul-Haq, Alex Kreis, Sami Ahmad Khan, Niloufar Behrooz, Sazida Desai, Nora Salem, Jehanzeb Dar, JP Heeley, Levent Senyurek, SK Ali, Rasha Adly, Wasmine Warga, Faiqa Fansab, Sara Alfageeh, Karimah Grayson, Sara Alfageeh, and Emily Nasrallah.
+- [ ] Publishers that I found: FABISAD (Turkish), Dar Al Saqi (Algerian?), Tripoli Scientific Bookshop, and Dar al-Rafidain (Iraqi, I think?)
 - [ ] _Constellation Games_ by Leonard Richardson friendly aliens come to Earth. Our protagonist has a video game review blog and asks for some video games to review. He doesn't really understand them at first but gradually we come to know more about the aliens through their art and then the plot takes a whole 'nother direction which I don't want to spoil but I'll say the book left me wanting to be a better person.
 - [ ] _The January Dancer_ by Michael Flynn is an entertaining space opera but I really appreciated the use of language both within the book and to give you a sense of the waves of colonization and refugee resettlement that took place in his setting.
 - [ ] Karl Schroeder's Virga sequence. 5 books set in a giant bubble the size of Earth. Lots of space opera tropes and big ideas.
@@ -324,8 +387,8 @@ tags: [books]
 - [ ] The first is Humanity in the far future having settled many worlds and follows a guy who looks for old Human artefacts (think of things like the chandelier from the titanic but in the future) to sell to collectors and along the way stumbles upon a few secrets.
 - [ ] The second series is about a starship pilot at a time when Earth is losing interest in space travel while she explores a series of alien artefacts. There are alien footprints on one of Saturn's moons and a statue
 - [ ] The Glamour by Christopher Priest - A man awakens after a terrorist attack with most of his memory lost.
-- [ ]  _The Hormone Jungle_ by Robert Reed.
-- [ ]  -   _Glass Houses_ by Laura J Mixon
+- [ ] _The Hormone Jungle_ by Robert Reed.
+- [ ] -   _Glass Houses_ by Laura J Mixon
 - [ ] -   _Emergence_ and _Threshold_ by David R Palmer
 - [ ] -   _Wyrm_ by Marc Fabi
 - [ ] -   _Matador_ series by Steve Perry
@@ -336,21 +399,21 @@ tags: [books]
 - [ ] Courtship Rite (1982) by Donald Kingsbury 
 - [ ] Hugo Award Nominee for Best Novel 
 - [ ] > Jo Walton remarked that Courtship Rite "is about a distant generation of colonists on a planet with no usable animals. This is the book with everything, where everything includes cannibalism, polyamory, evolution & getting tattoos so your skin will make more interesting leather when youre dead."
-- [ ]  The Destructives by Matthew De Abaitua. I would put him under the sci-fi with more of a literary prose bent category. I liked this book because I thought it had a weird but well thought out post-singularity plot. That being said, it's been a while since I read it, so I'm fuzzy on the plot. It's got super intelligence's destroying most of the world (accidentally), weird drugs, advertising in the post singularity world, and pre singularity Silicon Valley types surviving out in Neptune I think. I guess I should probably reread it.
-- [ ]  VURT
-- [ ]  "Dancers at the End of Time." - Michael Moorcock
-- [ ]  Ware Tetralogy by Rudy Rucker
-- [ ]  _The Fortunate Fall_ by Raphael Carter. It's a cyberpunk novel set in a 22nd-century Russia that is apparently run not by AI, but by unconscious algorithms that no one understands or is able to resist. Such a well-written and profoundly unsettling novel.
-- [ ]  Spider Robinsons Callahans Crosstime Saloon series.
-- [ ]  Remnant Population by Elizabeth Moon.
+- [ ] The Destructives by Matthew De Abaitua. I would put him under the sci-fi with more of a literary prose bent category. I liked this book because I thought it had a weird but well thought out post-singularity plot. That being said, it's been a while since I read it, so I'm fuzzy on the plot. It's got super intelligence's destroying most of the world (accidentally), weird drugs, advertising in the post singularity world, and pre singularity Silicon Valley types surviving out in Neptune I think. I guess I should probably reread it.
+- [ ] VURT
+- [ ] "Dancers at the End of Time." - Michael Moorcock
+- [ ] Ware Tetralogy by Rudy Rucker
+- [ ] _The Fortunate Fall_ by Raphael Carter. It's a cyberpunk novel set in a 22nd-century Russia that is apparently run not by AI, but by unconscious algorithms that no one understands or is able to resist. Such a well-written and profoundly unsettling novel.
+- [ ] Spider Robinsons Callahans Crosstime Saloon series.
+- [ ] Remnant Population by Elizabeth Moon.
 - [ ] When a colony is abandoned and its human population relocated back to Earth, the elderly Ofelia prefers to remain behind, eventually making contact with an intelligent native species. When the human authorities discover the existence of the natives and return, Ofelia has to step in to help humans and aliens reach an understanding.
 - [ ] Total Eclipse by John Brunner: An expedition to a nearby star seeks to discover what killed off the native species, in hopes of preventing the destruction of humanity. Xenoarchaeology & psychology take center stage, while the colonists fight to convince the Earth authorities to continue funding the expedition and allow the team to work unfettered, while struggling to survive in an alien environment.
 - [ ] _The Engines of God_ by Jack McDevitt
-- [ ]  Mike Resnick Tales of the Galactic Sideshow series,  Santiago, the best space western ever written.
-- [ ]  Half Past Human and The Godwhale by TJ Bass
-- [ ]  Silver Metal Lover by Tanith Lee.
-- [ ]  Michael Flynn book to the list, The Wreck of the River of Stars
-- [ ]  Exercised: Why Something We Never Evolved to Do Is Healthy and Rewarding
+- [ ] Mike Resnick Tales of the Galactic Sideshow series,  Santiago, the best space western ever written.
+- [ ] Half Past Human and The Godwhale by TJ Bass
+- [ ] Silver Metal Lover by Tanith Lee.
+- [ ] Michael Flynn book to the list, The Wreck of the River of Stars
+- [ ] Exercised: Why Something We Never Evolved to Do Is Healthy and Rewarding
 - [ ] Homer
 - [ ] The Iliad (Greek, 8th BCE)
 - [ ] The Odyssey (Greek, 8th BCE)
@@ -406,10 +469,10 @@ tags: [books]
 - [ ] Courtney Milan, Ms. Martin's Incomparable Adventure
 - [ ] Tade Thompson's Rosewater
 - [ ] Frank Tuttle's Markhat Files
-- [ ] *An Ideal Husband,* by Oscar Wilde
-- [ ] *The Importance of Being Earnest* by Oscar Wilde.
-- [ ] *Burning Bright* by Melissa McShane.
-- [ ] *Kushiel's Dart* by Jaqueline Carry
+- [ ] *An Ideal Husband, by Oscar Wilde
+- [ ] *The Importance of Being Earnest by Oscar Wilde.
+- [ ] *Burning Bright by Melissa McShane.
+- [ ] *Kushiel's Dart by Jaqueline Carry
 - [ ] Cormac McCarthy  The Road
 - [ ] Dave Eggers  The Circle
 - [ ] Erin Morgenstern  The Night Circus
@@ -631,7 +694,6 @@ tags: [books]
 - [ ] Think and Grow Rich for Women
 - [ ] Hacking Your Education: Ditch the Lectures, Save Tens of Thousands, and Learn More Than Your Peers Ever Will
 - [ ] The Art of Self-Directed Learning: 23 Tips for Giving Yourself an Unconventional Education
-- [ ]  Software Engineering at Google
 - [ ] The Now Habit
 - [ ] SOLID: The Software Design and Architecture Handbook
 - [ ] A Passage North, Anuk Arudpragasam
@@ -647,3 +709,26 @@ tags: [books]
 - [ ] China Room, Sunjeev Sahota
 - [ ] Great Circle, Maggie Shipstead
 - [ ] Light Perpetual, Francis Spufford
+- [ ] The Power of Habit by Charles Duhigg 
+- [ ] The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results by Gary Keller
+- [ ] The Gulag Archipelago by Aleksandr Solzhenitsyn
+- [ ] Nobody's Victim by Carrie Goldberg
+- [ ] Endurance: Shackleton's Incredible Voyage by Alfred Lansing
+- [ ] The Blank Slate, by Steven Pinker
+- [ ] 17 Equations That Changed The World. By Ian Stewart.
+- [ ] Siddhartha. Teaches you how to listen to life through a story.
+- [ ] Does the Elephant Dance for a more detailed discussion of the history of Indian foreign policy.
+- [ ] 'Thinking Fast and Slow' - Daniel Kahneman.
+- [ ] Also '59 seconds' by Richard wiseman. 
+- [ ] The Four Pillars of Investing: Lessons for Building a Winning Portfolio.
+- [ ] Peace is Every Step by Thich Nhat Hanh. 
+- [ ] This seems based on the research of Ruby Payne, who wrote A Framework for Poverty as a way for educators to understand the values of children growing up in poverty.
+- [ ] "You Are Not so Smart," David McRaney
+- [ ] Eric L. Harry's book "Society of the mind".
+- [ ] When Breath Becomes Air
+- [ ] Pax Indica by Shashi Tharoor (his experience at the UN as well as his time having been MoS for External Affairs helps)
+- [ ] Women Who Run With the Wolves by Dr. Clarissa Pinkola Ests, PhD
+- [ ] Gavin de Becker's Gift of Fear
+- [ ] This is How by Augusten Burroughs.
+
+
