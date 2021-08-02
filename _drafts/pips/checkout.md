@@ -181,7 +181,7 @@ kanban-plugin: basic
 - [ ] https://www.baeldung.com/ops/kafka-docker-setup
 - [ ] https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/
 - [ ] https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg -  Devoxx
-
+- [ ] Cuba revolution 
 ## done
 
 
