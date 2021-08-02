@@ -181,6 +181,27 @@ kanban-plugin: basic
 - [ ] https://www.baeldung.com/ops/kafka-docker-setup
 - [ ] https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/
 - [ ] https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg -  Devoxx
+- [ ] https://kafka.apache.org/books-and-papers  
+- [ ] https://www.baeldung.com/java-kafka-streams-vs-kafka-consumer 
+- [ ] https://wdesert.notion.site/Let-My-People-Go-29d7e8fe712141cf8ac39b84350f0db7  
+- [ ] https://docs.google.com/document/d/1Zb9GCWPKeEJ4Dyn2TkT-O3wJ8AFc-IMxZzTugNCjr-8/edit  
+- [ ] https://dave.cheney.net/2016/01/18/cgo-is-not-go  
+- [ ] https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/#go-doesnt-have-exceptions-oh-wait-it-does  
+- [ ] https://about.sourcegraph.com/go/idiomatic-go/  
+- [ ] https://redislabs.com/blog/what-to-choose-for-your-synchronous-and-asynchronous-communication-needs-redis-streams-redis-pub-sub-kafka-etc-best-approaches-synchronous-asynchronous-communication/  
+- [ ] https://www.youtube.com/watch?v=XFqm_ILuhs0&list=PLt1SIbA8guusxiHz9bveV-UHs_biWFegU  
+- [ ] https://www.youtube.com/watch?v=gg-VwXSRnmg&list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON  
+- [ ] https://www.youtube.com/watch?v=sWUra5bRkm0  
+- [ ] https://www.youtube.com/watch?v=Ov8JIbUmExE  
+- [ ] https://www.youtube.com/watch?v=yKvzjgBME-M  
+- [ ] https://www.youtube.com/watch?v=06iRM1Ghr1k  
+- [ ] https://www.youtube.com/watch?v=GMmRtSFQ5Z0  
+- [ ] https://www.youtube.com/watch?v=X40EozwK75s  
+- [ ] https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14224074?start=0#overview  
+- [ ] https://www.freecodecamp.org/news/the-docker-handbook/  
+- [ ] https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database  
+- [ ] https://www.postgresql.org/docs/9.1/textsearch-indexes.html  
+- [ ] https://developers.google.com/web/updates/2020/10/http-cache-partitioning
 
 ## done
 
