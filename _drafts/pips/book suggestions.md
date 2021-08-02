@@ -730,5 +730,7 @@ kanban-plugin: basic
 - [ ] Women Who Run With the Wolves by Dr. Clarissa Pinkola Ests, PhD
 - [ ] Gavin de Becker's Gift of Fear
 - [ ] This is How by Augusten Burroughs.
-
-
+- [ ] présent shock Douglas rushkoff
+- [ ] throwing rocks of the Google bus Douglas rushkoff
+- [ ] brief interviews with hideous men David foster wallace
+- [ ] 
