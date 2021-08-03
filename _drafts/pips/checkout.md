@@ -10,6 +10,13 @@ kanban-plugin: basic
 
 ## things to checkout
 
+- [ ] https://gobyexample.com/
+- [ ] https://www.golang-book.com/books/intro/10
+- [ ] https://notes.shichao.io/gopl/ch8/#channels
+- [ ] https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis
+- [ ] https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html
+- [ ] https://stackoverflow.com/questions/30988002/what-does-rebalancing-mean-in-apache-kafka-context
+- [ ] hyperloglog algo
 - [ ] https://excalidraw.com/
 - [ ] https://goodjobs.careers/
 - [ ] https://codesandbox.io/s/zxpv7?file=/src/App.js
@@ -250,6 +257,7 @@ kanban-plugin: basic
 - [ ] https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database  
 - [ ] https://www.postgresql.org/docs/9.1/textsearch-indexes.html  
 - [ ] https://developers.google.com/web/updates/2020/10/http-cache-partitioning
+
 
 ## done
 
