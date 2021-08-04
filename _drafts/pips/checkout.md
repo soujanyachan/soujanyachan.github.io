@@ -12,20 +12,13 @@ kanban-plugin: basic
 
 - [ ] Ringing Bell is a 1978 Japanese anime adventure-drama feature film adaption of the storybook of the same name written by Takashi Yanase, the creator of Anpanm
 - [ ] The Commander Thinks Aloud by The Long Winters 
-- [ ] SGU is by far my favorite. I started listening to it while doing my weekly cleaning routine on Saturdays. Now I’m at a point where I look forward to cleaning because that’s when I get to listen to the SGU. 
-- [ ] I also recommend Clear and Vivid with Alan Alda which is all about communication and it’s  so conversational that even the adds are in the form of a conversation with his producer(?). Plus, Alan Alda is awesome and he has some pretty cool guests on as well. 
-- [ ] Stephen Fry’s Great Leap Years is another one OP could listen to. It’s a narrative, instead of a conversation, but I can’t think of anyone more articulate than Stephen Fry. 
-- [ ] http://arcade.academy 
-- [ ] [Recognizing a Mentally Abused Brain](https://i.redd.it/ulkscwqe9yq51.png)
-- [ ] https://www.reddit.com/r/Fantasy/comments/necmua/i_love_webserials_and_i_want_to_share
 - [ ] [Nerdrotic](https://www.youtube.com/channel/UC5T0tXJN5CrMZUEJuz4oovw)
+- [ ] https://www.reddit.com/r/Fantasy/comments/necmua/i_love_webserials_and_i_want_to_share
 - [ ] [AngryJoeShow](https://www.youtube.com/channel/UCsgv2QHkT2ljEixyulzOnUQ)
 - [ ] [Technoguy3](https://www.youtube.com/channel/UCkYQmpR28_mtoOtz4zxE-UQ)
 - [ ] [IdeasOfIceAndFire](https://www.youtube.com/channel/UC1rFmaGLYr0Ve_Y_soxZNWQ)
 - [ ] [Overlord DVD](https://www.youtube.com/channel/UCeCJB88u93eq91U0rlJsW-A)
-- [ ] QUIC
 - [ ] https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims
-- [ ] FinCEN Files
 - [ ] https://bellard.org/textsynth/
 - [ ] https://wayfinder.nfb.ca/
 - [ ] https://freestuff.dev/
@@ -250,6 +243,7 @@ kanban-plugin: basic
 - [ ] https://www.golang-book.com/books/intro/10
 - [ ] https://stackoverflow.com/questions/30988002/what-does-rebalancing-mean-in-apache-kafka-context
 - [ ] https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html
+- [ ] [Recognizing a Mentally Abused Brain](https://i.redd.it/ulkscwqe9yq51.png)
 - [ ] https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis
 - [ ] https://notes.shichao.io/gopl/ch8/#channels
 
@@ -261,11 +255,14 @@ kanban-plugin: basic
 - [ ] https://goodjobs.careers/
 - [ ] kill the newsletter
 - [ ] siftrss
+- [ ] http://arcade.academy 
 
 
 ## concepts
 
 - [ ] Computer programmers have come up with beautiful collaborative change tracking systems (like git) that let you easily make changes to a huge base of code, track who changed what, submit and resolve conflicting versions of updates, etc. But when we pass a new bill that replaces or modifies an old law, it is always some 300 page document with pages of "Subsection F Paragraph 3 will be modified to read 'XYZ'" Why not put the laws into a git repository and make it easy for bills to just modify the existing history to say what you want it to say?  And why not have the transparency to see exactly what changes and WHO implemented that change?  Want to slip some pork for your district into an unrelated bill?  Well, that edit is going to have your name on it.
+- [ ] QUIC
+- [ ] FinCEN Files
 - [ ] hyperloglog algo
 
 
@@ -277,6 +274,9 @@ kanban-plugin: basic
 ## videos
 
 - [ ] https://dykestowatchoutfor.com/dtwof-archive-episode-1/
+- [ ] Stephen Fry’s Great Leap Years is another one OP could listen to. It’s a narrative, instead of a conversation, but I can’t think of anyone more articulate than Stephen Fry. 
+- [ ] SGU is by far my favorite. I started listening to it while doing my weekly cleaning routine on Saturdays. Now I’m at a point where I look forward to cleaning because that’s when I get to listen to the SGU. 
+- [ ] I also recommend Clear and Vivid with Alan Alda which is all about communication and it’s  so conversational that even the adds are in the form of a conversation with his producer(?). Plus, Alan Alda is awesome and he has some pretty cool guests on as well. 
 
 
 ## done
