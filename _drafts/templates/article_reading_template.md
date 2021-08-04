@@ -1,5 +1,5 @@
 link: 
-name:
+name: <% tp.file.title %>
 topic:
 author:
 tags:

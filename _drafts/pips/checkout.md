@@ -256,6 +256,7 @@ kanban-plugin: basic
 - [ ] kill the newsletter
 - [ ] siftrss
 - [ ] http://arcade.academy 
+- [ ] https://www.connectedpapers.com/
 
 
 ## concepts
