@@ -10,22 +10,8 @@ kanban-plugin: basic
 
 ## things to checkout
 
-- [ ] https://gobyexample.com/
-- [ ] https://www.golang-book.com/books/intro/10
-- [ ] https://notes.shichao.io/gopl/ch8/#channels
-- [ ] https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis
-- [ ] https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html
-- [ ] https://stackoverflow.com/questions/30988002/what-does-rebalancing-mean-in-apache-kafka-context
-- [ ] hyperloglog algo
-- [ ] https://excalidraw.com/
-- [ ] https://goodjobs.careers/
-- [ ] https://codesandbox.io/s/zxpv7?file=/src/App.js
-- [ ] Computer programmers have come up with beautiful collaborative change tracking systems (like git) that let you easily make changes to a huge base of code, track who changed what, submit and resolve conflicting versions of updates, etc. But when we pass a new bill that replaces or modifies an old law, it is always some 300 page document with pages of "Subsection F Paragraph 3 will be modified to read 'XYZ'" Why not put the laws into a git repository and make it easy for bills to just modify the existing history to say what you want it to say?  And why not have the transparency to see exactly what changes and WHO implemented that change?  Want to slip some pork for your district into an unrelated bill?  Well, that edit is going to have your name on it.
 - [ ] Ringing Bell is a 1978 Japanese anime adventure-drama feature film adaption of the storybook of the same name written by Takashi Yanase, the creator of Anpanm
 - [ ] The Commander Thinks Aloud by The Long Winters 
-- [ ] kill the newsletter
-- [ ] siftrss
-- [ ] https://dykestowatchoutfor.com/dtwof-archive-episode-1/
 - [ ] SGU is by far my favorite. I started listening to it while doing my weekly cleaning routine on Saturdays. Now I’m at a point where I look forward to cleaning because that’s when I get to listen to the SGU. 
 - [ ] I also recommend Clear and Vivid with Alan Alda which is all about communication and it’s  so conversational that even the adds are in the form of a conversation with his producer(?). Plus, Alan Alda is awesome and he has some pretty cool guests on as well. 
 - [ ] Stephen Fry’s Great Leap Years is another one OP could listen to. It’s a narrative, instead of a conversation, but I can’t think of anyone more articulate than Stephen Fry. 
@@ -257,6 +243,40 @@ kanban-plugin: basic
 - [ ] https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database  
 - [ ] https://www.postgresql.org/docs/9.1/textsearch-indexes.html  
 - [ ] https://developers.google.com/web/updates/2020/10/http-cache-partitioning
+
+
+## articles
+
+- [ ] https://www.golang-book.com/books/intro/10
+- [ ] https://stackoverflow.com/questions/30988002/what-does-rebalancing-mean-in-apache-kafka-context
+- [ ] https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html
+- [ ] https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis
+- [ ] https://notes.shichao.io/gopl/ch8/#channels
+
+
+## websites
+
+- [ ] https://gobyexample.com/
+- [ ] https://excalidraw.com/
+- [ ] https://goodjobs.careers/
+- [ ] kill the newsletter
+- [ ] siftrss
+
+
+## concepts
+
+- [ ] Computer programmers have come up with beautiful collaborative change tracking systems (like git) that let you easily make changes to a huge base of code, track who changed what, submit and resolve conflicting versions of updates, etc. But when we pass a new bill that replaces or modifies an old law, it is always some 300 page document with pages of "Subsection F Paragraph 3 will be modified to read 'XYZ'" Why not put the laws into a git repository and make it easy for bills to just modify the existing history to say what you want it to say?  And why not have the transparency to see exactly what changes and WHO implemented that change?  Want to slip some pork for your district into an unrelated bill?  Well, that edit is going to have your name on it.
+- [ ] hyperloglog algo
+
+
+## code
+
+- [ ] https://codesandbox.io/s/zxpv7?file=/src/App.js
+
+
+## videos
+
+- [ ] https://dykestowatchoutfor.com/dtwof-archive-episode-1/
 
 
 ## done
