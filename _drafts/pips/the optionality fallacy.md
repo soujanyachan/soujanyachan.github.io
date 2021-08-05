@@ -8,3 +8,7 @@ tags:
 
 we stay on the main road for as long as possible for the fear of making a wrong turn
 
+![[https://nesslabs.com/wp-content/uploads/2020/04/antifragile-convexity-pain-gain-optionality-fallacy-illustration.png]]
+
+functions where gain > pain are convex
+
