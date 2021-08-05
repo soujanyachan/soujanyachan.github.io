@@ -2,14 +2,14 @@ link: https://nesslabs.com/asynchronous-communication
 name: Sustainability over speed - adopting asynchronous communication
 topic:
 author:
-tags: 
+tags: [[work]]
 
 > Slack is designed to keep your attention within its confines, which sometimes comes at the expense of actually getting any work done
 
 ## 8 benefits of asynchronous communication
 - mindful conversations - more time to shape your thoughts
 - more transparency - due to knowledge base - https://about.gitlab.com/handbook/
-- no FOMO, FOMO -> JOMO
+- no FOMO, FOMO -> JOMO (joy of missing out)
 - easier to get into flow 
 - more autonomy
 - timezone agnostic
