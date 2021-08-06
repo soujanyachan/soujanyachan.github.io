@@ -15,6 +15,8 @@ kanban-plugin: basic
 
 ## To read - non-fiction
 
+- [ ] the black swan - nassim taleb
+- [ ] antifragile - nassim taleb
 
 
 ## To read - CS
@@ -733,4 +735,6 @@ kanban-plugin: basic
 - [ ] présent shock Douglas rushkoff
 - [ ] throwing rocks of the Google bus Douglas rushkoff
 - [ ] brief interviews with hideous men David foster wallace
-- [ ] 
+- [x] [ ]
+
+

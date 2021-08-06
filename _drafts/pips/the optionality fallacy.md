@@ -12,3 +12,13 @@ we stay on the main road for as long as possible for the fear of making a wrong 
 
 functions where gain > pain are convex
 
+complex systems where we can't easily connect the causes and effects are the ones where trial and error outperforms teleology (i.e. every choice is for a specific purpose)
+
+“Critically we have the _option_, not the _obligation_ to keep the result, which allows us to retain the upper bound and be unaffected by adverse outcomes.”
+
+because life is so random, we are better off improving our payoffs than by learning what we need
+
+optionality through thoughtful tinkering
+- Taking risks provides optionality via learning and differentiation.
+
+many things we think are dervied by skill come largely from options but well used options.
