@@ -13,87 +13,12 @@ kanban-plugin: basic
 
 
 
-## To read - non-fiction
-
-- [ ] the black swan - nassim taleb
-- [ ] antifragile - nassim taleb
-
-
-## To read - CS
-
-- [ ] High Performance Browser Networking
-- [ ] Designing Data-Intensive Applications
-- [ ] Site Reliability Engineering: How Google Runs Production Services
-- [ ] Clean Code
-- [ ] Javascript the good parts
-- [ ] SICP
-- [ ] A philosophy of software design
-- [ ] Software engg at google
-
-
-## Snippetised  
-
-- [ ] [[4-hour workweek]]
-- [ ] [[2020-07-03-brotopia]]
-- [ ] [[2020-07-03-it-doesnt-have-to-be-crazy]]
-- [ ] [[convenience_store_woman]]
-- [ ] [[A Whack on the Side of the Head]]
-- [ ] [[Adult Children of Emotionally Immature Parents]]
-- [ ] [[Atomic Habits]]
-- [ ] [[body keeps the score]]
-- [ ] [[Bullshit jobs by David Graeber]]
-- [ ] [[Capitalist Realism by Mark Fisher]]
-- [ ] [[Code Complete]]
-- [ ] [[D-Day Girls by Sarah Rose]]
-- [ ] [[Days of Distraction by Alexandra Chang]]
-- [ ] [[Desigining your life by Bill Burnett]]
-- [ ] [[Digital Minimalism by Cal Newport]]
-- [ ] [[Down Girl by Kate Manne]]
-- [ ] [[Emotional Eating workbook]]
-- [ ] [[Exhalation by Ted Chiang]]
-- [ ] [[Free Will by Sam Harris]]
-- [ ] [[Grit by Angela Duckworth]]
-- [ ] [[How to Be a Programmer by Braydie Grove]]
-- [ ] [[It doesn't have to be crazy at work by Jason Fried, David Hansson]]
-- [ ] [[it-doesnt-have-to-be-crazy-at-work]]
-- [ ] [[Keys to Good Cooking]]
-- [ ] [[Loveless by Alice Oseman]]
-- [ ] [[Man's Search for Meaning]]
-- [ ] [[Maybe You Should Talk to Someone by Lori Gottlieb]]
-- [ ] [[midnight machines]]
-- [ ] [[New Programmer’s Survival Manual (for Bruno Matricciano)]]
-- [ ] [[Nice Girls Don't Get the Corner Office by Lois P. Frankel]]
-- [ ] [[Not that Bad by Roxanne Gay]]
-- [ ] [[Quarterlife crisis by Alexandra Robbins]]
-- [ ] [[Quiet by Susan Cain]]
-- [ ] [[Rage Becomes Her - Soraya Chemaly]]
-- [ ] [[Remote by Jason Fried]]
-- [ ] [[Society of the Spectacle by Guy Debord]]
-- [ ] [[Strengths Finder 2.0 by Tom Rath]]
-- [ ] [[The Defining Decade by Meg Jay]]
-- [ ] [[The Gift of Fear by Gavin de Becker]]
-- [ ] [[The invisible orientation by Julia Sondra Decker]]
-- [ ] [[The Irresistible Introvert]]
-- [ ] [[The Talent Code by Daniel Coyle]]
-- [ ] [[TODO - Art of Communicating Thich Nhat Hanh]]
-- [ ] [[Why Loiter Shilpa Phadke]]
-- [ ] [[Women and Power by Mary Beard]]
-- [ ] [[Women in Tech by Tarah Wheeler]]
-- [ ] [[You are a Badass at Making Money]]
-- [ ] [[You are a Badass by Jen Sincero]]
-- [ ] [[You're not listening by Kate Murphy]]
-
-
-## Summarised  
-
-
-
-## Digested
-
-
-
 ## in list
 
+- [ ] Expressive Writing: Words That Heal
+- [ ] the hungry mind - origins of curiosity in childhood
+- [ ] the black swan - nassim taleb
+- [ ] shape jordan ellenberg
 - [ ] Awaken the Giant Within by Anthony Robbins.
 - [ ] The Sun is Also a Star - Nicola Yoon
 - [ ] Blindness by Jose Saramago.
@@ -736,5 +661,83 @@ kanban-plugin: basic
 - [ ] throwing rocks of the Google bus Douglas rushkoff
 - [ ] brief interviews with hideous men David foster wallace
 - [x] [ ]
+
+
+## To read - non-fiction
+
+- [ ] antifragile - nassim taleb
+
+
+## To read - CS
+
+- [ ] High Performance Browser Networking
+- [ ] Designing Data-Intensive Applications
+- [ ] Site Reliability Engineering: How Google Runs Production Services
+- [ ] Clean Code
+- [ ] Javascript the good parts
+- [ ] SICP
+- [ ] A philosophy of software design
+- [ ] Software engg at google
+
+
+## Snippetised  
+
+- [ ] [[4-hour workweek]]
+- [ ] [[2020-07-03-brotopia]]
+- [ ] [[2020-07-03-it-doesnt-have-to-be-crazy]]
+- [ ] [[convenience_store_woman]]
+- [ ] [[A Whack on the Side of the Head]]
+- [ ] [[Adult Children of Emotionally Immature Parents]]
+- [ ] [[Atomic Habits]]
+- [ ] [[body keeps the score]]
+- [ ] [[Bullshit jobs by David Graeber]]
+- [ ] [[Capitalist Realism by Mark Fisher]]
+- [ ] [[Code Complete]]
+- [ ] [[D-Day Girls by Sarah Rose]]
+- [ ] [[Days of Distraction by Alexandra Chang]]
+- [ ] [[Desigining your life by Bill Burnett]]
+- [ ] [[Digital Minimalism by Cal Newport]]
+- [ ] [[Down Girl by Kate Manne]]
+- [ ] [[Emotional Eating workbook]]
+- [ ] [[Exhalation by Ted Chiang]]
+- [ ] [[Free Will by Sam Harris]]
+- [ ] [[Grit by Angela Duckworth]]
+- [ ] [[How to Be a Programmer by Braydie Grove]]
+- [ ] [[It doesn't have to be crazy at work by Jason Fried, David Hansson]]
+- [ ] [[it-doesnt-have-to-be-crazy-at-work]]
+- [ ] [[Keys to Good Cooking]]
+- [ ] [[Loveless by Alice Oseman]]
+- [ ] [[Man's Search for Meaning]]
+- [ ] [[Maybe You Should Talk to Someone by Lori Gottlieb]]
+- [ ] [[midnight machines]]
+- [ ] [[New Programmer’s Survival Manual (for Bruno Matricciano)]]
+- [ ] [[Nice Girls Don't Get the Corner Office by Lois P. Frankel]]
+- [ ] [[Not that Bad by Roxanne Gay]]
+- [ ] [[Quarterlife crisis by Alexandra Robbins]]
+- [ ] [[Quiet by Susan Cain]]
+- [ ] [[Rage Becomes Her - Soraya Chemaly]]
+- [ ] [[Remote by Jason Fried]]
+- [ ] [[Society of the Spectacle by Guy Debord]]
+- [ ] [[Strengths Finder 2.0 by Tom Rath]]
+- [ ] [[The Defining Decade by Meg Jay]]
+- [ ] [[The Gift of Fear by Gavin de Becker]]
+- [ ] [[The invisible orientation by Julia Sondra Decker]]
+- [ ] [[The Irresistible Introvert]]
+- [ ] [[The Talent Code by Daniel Coyle]]
+- [ ] [[TODO - Art of Communicating Thich Nhat Hanh]]
+- [ ] [[Why Loiter Shilpa Phadke]]
+- [ ] [[Women and Power by Mary Beard]]
+- [ ] [[Women in Tech by Tarah Wheeler]]
+- [ ] [[You are a Badass at Making Money]]
+- [ ] [[You are a Badass by Jen Sincero]]
+- [ ] [[You're not listening by Kate Murphy]]
+
+
+## Summarised  
+
+
+
+## Digested
+
 
 
