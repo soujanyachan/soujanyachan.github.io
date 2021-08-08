@@ -9,3 +9,4 @@ journaling for growth mindset
 	- What new strategies did I try?
 	- What mistake did I make that taught me something?
 
+- question your values and beliefs -  what do I believe in? Are these values _my_ values?

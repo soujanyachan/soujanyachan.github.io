@@ -15,6 +15,9 @@ kanban-plugin: basic
 
 ## in list
 
+- [ ] the sociology of the nobel prize
+- [ ] Time Off: A Practical Guide to Building Your Rest Ethic and Finding Success Without the Stress
+- [ ] Make It Matter book
 - [ ] Expressive Writing: Words That Heal
 - [ ] the hungry mind - origins of curiosity in childhood
 - [ ] the black swan - nassim taleb

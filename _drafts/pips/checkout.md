@@ -246,6 +246,8 @@ kanban-plugin: basic
 - [ ] [Recognizing a Mentally Abused Brain](https://i.redd.it/ulkscwqe9yq51.png)
 - [ ] https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis
 - [ ] https://notes.shichao.io/gopl/ch8/#channels
+- [ ] https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf - harvard resume
+- [ ] http://nateburke.com/open/?p=80
 
 
 ## websites
@@ -257,6 +259,11 @@ kanban-plugin: basic
 - [ ] siftrss
 - [ ] http://arcade.academy 
 - [ ] https://www.connectedpapers.com/
+- [ ] https://www.rmg.co.uk/national-maritime-museum/astronomy-photographer-year-2021-shortlist-images
+- [ ] https://www.readthistwice.com/booktube?s=rbooklists
+- [ ] https://liascript.github.io/
+- [ ] http://kestrel.nmt.edu/~raymond/software/go_notes/go.html
+- [ ] https://staffeng.com/
 
 
 ## concepts
@@ -270,17 +277,25 @@ kanban-plugin: basic
 ## code
 
 - [ ] https://codesandbox.io/s/zxpv7?file=/src/App.js
+- [ ] https://github.com/langjam/langjam
 
 
-## videos
+## videos and podcasts
 
 - [ ] https://dykestowatchoutfor.com/dtwof-archive-episode-1/
 - [ ] Stephen Fry’s Great Leap Years is another one OP could listen to. It’s a narrative, instead of a conversation, but I can’t think of anyone more articulate than Stephen Fry. 
 - [ ] SGU is by far my favorite. I started listening to it while doing my weekly cleaning routine on Saturdays. Now I’m at a point where I look forward to cleaning because that’s when I get to listen to the SGU. 
 - [ ] I also recommend Clear and Vivid with Alan Alda which is all about communication and it’s  so conversational that even the adds are in the form of a conversation with his producer(?). Plus, Alan Alda is awesome and he has some pretty cool guests on as well. 
+- [ ] in our time
+- [ ] https://docs.google.com/document/d/1uGUq0XAMo5qSYDMBdWOFjWBt9USoAVbWxMjsrOGJgWk/mobilebasic
 
 
 ## done
 
+
+
+## courses
+
+- [ ] https://pablo.rauzy.name/teaching/2016-2020.html#ddll
 
 
