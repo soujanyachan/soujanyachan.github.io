@@ -15,6 +15,11 @@ kanban-plugin: basic
 
 ## in list
 
+- [ ] Your Code as a Crime Scene
+- [ ] The Great Mental Models Project
+- [ ] “Disarming the Narcissist”
+- [ ] _In Sheep's Clothing: Understanding and Dealing with Manipulative People_
+- [ ] “Becoming a Narcissist Nightmare” by Shahida Arabi.
 - [ ] the sociology of the nobel prize
 - [ ] Time Off: A Practical Guide to Building Your Rest Ethic and Finding Success Without the Stress
 - [ ] Make It Matter book

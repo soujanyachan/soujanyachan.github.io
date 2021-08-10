@@ -248,6 +248,8 @@ kanban-plugin: basic
 - [ ] https://notes.shichao.io/gopl/ch8/#channels
 - [ ] https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf - harvard resume
 - [ ] http://nateburke.com/open/?p=80
+- [ ] https://1729.com/the-billion-user-table?ref=refind
+- [ ] https://www.infoq.com/articles/microservices-inside-out/?ref=refind
 
 
 ## websites
@@ -264,6 +266,8 @@ kanban-plugin: basic
 - [ ] https://liascript.github.io/
 - [ ] http://kestrel.nmt.edu/~raymond/software/go_notes/go.html
 - [ ] https://staffeng.com/
+- [ ] https://gameprogrammingpatterns.com/contents.html
+- [ ] https://www.readthistwice.com/booktube?s=rbooklists
 
 
 ## concepts
