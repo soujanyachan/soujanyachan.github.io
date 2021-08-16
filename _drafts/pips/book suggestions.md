@@ -15,6 +15,24 @@ kanban-plugin: basic
 
 ## in list
 
+- [ ] make time by jake knapp
+- [ ] let's talk money by monica halan
+- [ ] the life you can save - peter singer
+- [ ] the first 90 days - micheal watkins
+- [ ] amusing ourselves to death - neil postman
+- [ ] intercourse - andrea dworkin
+- [ ] nietzsche - very short introduction
+- [ ] technology after capitalism - nick srnicek
+- [ ] the upward spiral (and workbook)- alex korb
+- [ ] king kong theory - stephanie despentes
+- [ ] mistakes i made at work - jessica bacal
+- [ ] excluded - julia serano
+- [ ] self-knowledge - school of life
+- [ ] the hating game - sally thorne
+- [ ] big ideas for curious minds - school of life
+- [ ] on confidence - school of life
+- [ ] great thinker - simple tools from 60 great thinkers
+- [ ] psychology of money - morgan hausel
 - [ ] Your Code as a Crime Scene
 - [ ] The Great Mental Models Project
 - [ ] “Disarming the Narcissist”
