@@ -86,4 +86,135 @@ creation date: 2021-08-16 13:39
 
 ### distraction management
 - not cool to be distracted / busy all the time
-- 
+- more enjoyable and more meaningful to us
+- add friction to distractions
+- reduce friction from things you want to do
+- d
+	- rearrange apps on home screen
+	- put social media in another folder
+	- grayscale mode
+
+### pomodoro
+- short times 
+
+### course correction
+- dont continue the spiral
+
+### leverage artificial deadlines
+- do 10 year plan in 6 months and prioritise
+
+### reitoff principle
+- when you write the day off then you can enjoy the day without feeling guilty about it
+- worth doing today, worth doing tomorrow
+
+## engineer
+- keeps things efficient
+- tweak things to keep organised
+
+### gtd
+- horizontal coherence -> across projects
+- vertical coherence -> within projects
+- process
+	- capture
+		- MIND IS FOR HAVING ideas not for storing them
+	- clarify
+		- clearly defined current / next step
+		- convert project into steps
+	- organise
+		- reference materials together
+	- reflect
+		- doing reviews
+	- engage
+
+write everything you need to do
+
+### digital prod
+- typing speed
+- keyboard shortcuts
+
+### health and wellbeing
+- [[Why We Sleep]]
+- dont take phone to bed
+- blackout curtains
+- avoid light exposure in the evening
+- coffee
+- water
+- gym to get out of a slump
+
+### daily review - log book
+- process
+	- highlight
+	- laser
+	- energise
+	- reflect
+- [[storyworthy]] -> boook suggestion
+
+### weekly review - operating system
+- gtd
+	- get clear
+		- in-tray
+		- inbox zero
+		- empty your head
+	- get current
+		- review action lists
+	- get creative
+		- review someday maybe list
+		- be creative adding new ideas to system
+- do
+	- process -> clean up
+	- review
+	- reflect
+- [[The One-Touch Guide to Doing a Weekly Review - How I Go From Chaos to Clarity in 30 Minutes]]
+
+### monthly review
+- look through project list and course correct if necessary
+
+### annual review
+- grateful for
+- dicsorver
+- bucket list
+- learned this list
+
+## fun factor
+- if you're not enjoying something tweak the story you're telling yourself about it
+
+_________________________
+
+**Resources**
+
+_**Books**_
+
+- [Getting Things Done by David Allen](https://geni.us/gtdbook)
+- [Deep Work by Cal Newport](https://geni.us/qse8Xt)
+- [Make Time by Jake Knapp and John Zeratsky](https://geni.us/vzDlPbD)
+- [Atomic Habits by James Clear](https://geni.us/WGte)
+- [Man's Search for Meaning by Viktor Frankl](https://geni.us/AFQ7)
+- [The Motivation Myth by Jeff Haden](https://geni.us/ozAf)
+- [Flow by Mihaly](https://geni.us/PRaPoJo) [Csikszentmihalyi](https://geni.us/PRaPoJo) 
+- [Stealing Fire by Steven Kotler and Jamie Wheal](https://geni.us/BumSiwt)
+- [The Power of Habit by Charles Duhigg](https://geni.us/j3hpB)
+- [Zero to One by Peter Thiel](https://geni.us/X2Jbuiq)
+- [Why We Sleep by Matthew Walker](https://geni.us/WhyWeSleep)
+- [Storyworthy by Matthew Dicks](https://geni.us/5OpIUA)
+
+_**Websites**_
+
+[Digital Productivity Coach](https://digitalproductivity.coach/ali/)
+[Forte Labs](https://fortelabs.co/)
+
+_**Articles**_
+
+[I've Never Had A Goal by Jason Fried](https://m.signalvnoise.com/ive-never-had-a-goal/)
+[The One Touch Guide to Doing a Weekly Review by Tiago Forte](https://fortelabs.co/blog/the-one-touch-guide-to-doing-a-weekly-review/)
+
+_**Videos**_
+
+[I tracked every minute of my life for 3 months](https://www.youtube.com/watch?v=LUjTvPy_UAg)
+[The Odyssey Plan video](https://www.youtube.com/watch?v=DM2WjzaErUs)
+[Why Motivation is a Myth](https://www.youtube.com/watch?v=kzAuvOr-YsM)
+[How I type REALLY FAST (156 words per minute)](https://youtu.be/1ArVtCQqQRE)
+[Annual Review in Notion](https://www.youtube.com/watch?v=Ck5JOj4TlM4)
+
+_**Other Courses Mentioned**_
+
+[Building A Second Brain](https://www.buildingasecondbrain.com/)
