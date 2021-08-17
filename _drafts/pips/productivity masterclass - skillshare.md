@@ -115,7 +115,7 @@ ____
 ## newton's first law of motion
 - two-minute rule - if it takes this long then just do it instead of putting it on your to do list
 - five-minute rule - if struggling to get started with anything, do five mins of it
-- eliminate the activation energy
+- eliminate the activation energy/friction, environment design
 - [[Atomic Habits]]
 - keystone habits - habit that paves the way for other habits / important work
 
@@ -147,4 +147,20 @@ prompts
 ____
 
 ## power of productive procrastination
-- when procrastinating, do 
+- when procrastinating, do something that is useful
+
+prompts
+what items on my bucket list can i procrastinate my way to progress ? how so?
+
+____
+
+## fun factor
+- have to vs get to - seth godin
+- environment design
+- [[The Happiness Advantage]]
+- james-lange theory of emotion
+
+prompt
+- what do i have to do that i'm not enjoying?
+- how can i change that ?
+
