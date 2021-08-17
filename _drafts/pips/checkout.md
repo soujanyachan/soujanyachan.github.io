@@ -268,6 +268,8 @@ kanban-plugin: basic
 - [ ] https://staffeng.com/
 - [ ] https://gameprogrammingpatterns.com/contents.html
 - [ ] https://www.readthistwice.com/booktube?s=rbooklists
+- [ ] https://mywiki.wooledge.org/BashGuide
+- [ ] https://www.netflix-codes.com/
 
 
 ## concepts

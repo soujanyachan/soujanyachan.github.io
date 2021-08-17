@@ -15,7 +15,10 @@ kanban-plugin: basic
 
 ## in list
 
+- [ ] eyes of the tailless animals
 - [ ] make time by jake knapp
+- [ ] waking up sam harris
+- [ ] the manager's path fournier
 - [ ] let's talk money by monica halan
 - [ ] the life you can save - peter singer
 - [ ] the first 90 days - micheal watkins
