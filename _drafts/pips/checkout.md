@@ -270,6 +270,7 @@ kanban-plugin: basic
 - [ ] https://www.readthistwice.com/booktube?s=rbooklists
 - [ ] https://mywiki.wooledge.org/BashGuide
 - [ ] https://www.netflix-codes.com/
+- [ ] https://about.gitlab.com/handbook/communication/#internal-communication
 
 
 ## concepts
@@ -284,6 +285,7 @@ kanban-plugin: basic
 
 - [ ] https://codesandbox.io/s/zxpv7?file=/src/App.js
 - [ ] https://github.com/langjam/langjam
+- [ ] https://github.com/gilesbowkett/rewind
 
 
 ## videos and podcasts

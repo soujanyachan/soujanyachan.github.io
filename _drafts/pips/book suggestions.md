@@ -15,6 +15,16 @@ kanban-plugin: basic
 
 ## in list
 
+- [ ] happiness trap
+- [ ] Taming Your Gremlin: A Surprisingly Simple Method for Getting Out of Your Own Way
+- [ ] Food Junkies: Recovery from Food Addiction by Vera Tarman
+- [ ] Breaking Addiction: A 7-Step Handbook for Ending Any Addiction by Lance Dodes
+- [ ] Alan Carr - The Easy Way To Quit Smoking.
+- [ ]  {{The F*ck It Diet: Eating Should Be Easy by Caroline Dooner}}
+- [ ]  The Hungry Brain by Stephan J. Guyenet.
+- [ ]  Unfuck Yourself: Get Out of Your Head and Into Your Life.
+- [ ]  habit swap
+- [ ]  the end of overeating
 - [ ] eyes of the tailless animals
 - [ ] make time by jake knapp
 - [ ] waking up sam harris
@@ -707,6 +717,13 @@ kanban-plugin: basic
 - [ ] SICP
 - [ ] A philosophy of software design
 - [ ] Software engg at google
+- [ ] "Just Enough Software Architecture" by George Fairbanks.
+- [ ] domain driven design - eric evans
+- [ ] clean arch. - robert martin
+- [ ] fundamentals of software arch - an engg approach
+- [ ] design patterns - gamma
+- [ ] sre - how google runs production systems
+- [ ] refactoring - fowler
 
 
 ## Snippetised  
