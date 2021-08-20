@@ -267,6 +267,9 @@ kanban-plugin: basic
 - [ ] http://kestrel.nmt.edu/~raymond/software/go_notes/go.html
 - [ ] https://staffeng.com/
 - [ ] https://gameprogrammingpatterns.com/contents.html
+- [ ] https://www.trygrok.com/
+- [ ] https://750words.com/
+- [ ] https://crushentropy.com/
 - [ ] https://www.readthistwice.com/booktube?s=rbooklists
 - [ ] https://mywiki.wooledge.org/BashGuide
 - [ ] https://www.netflix-codes.com/
