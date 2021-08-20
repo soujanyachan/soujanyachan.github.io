@@ -15,16 +15,17 @@ kanban-plugin: basic
 
 ## in list
 
+- [ ] Accelerate: The Science of Lean Software and Devops: Building and Scaling High Performing Technology Organizations
 - [ ] happiness trap
 - [ ] Taming Your Gremlin: A Surprisingly Simple Method for Getting Out of Your Own Way
 - [ ] Food Junkies: Recovery from Food Addiction by Vera Tarman
 - [ ] Breaking Addiction: A 7-Step Handbook for Ending Any Addiction by Lance Dodes
 - [ ] Alan Carr - The Easy Way To Quit Smoking.
-- [ ]  {{The F*ck It Diet: Eating Should Be Easy by Caroline Dooner}}
-- [ ]  The Hungry Brain by Stephan J. Guyenet.
-- [ ]  Unfuck Yourself: Get Out of Your Head and Into Your Life.
-- [ ]  habit swap
-- [ ]  the end of overeating
+- [ ] {{The F*ck It Diet: Eating Should Be Easy by Caroline Dooner}}
+- [ ] The Hungry Brain by Stephan J. Guyenet.
+- [ ] Unfuck Yourself: Get Out of Your Head and Into Your Life.
+- [ ] habit swap
+- [ ] the end of overeating
 - [ ] eyes of the tailless animals
 - [ ] make time by jake knapp
 - [ ] waking up sam harris
