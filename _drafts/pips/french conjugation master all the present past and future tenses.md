@@ -124,9 +124,23 @@ sortir - sors, sors, sort, sortons, sortez, sortent
 - for things that had happened or were true at a point in the past
 - imperfect(avoir / etre for movement verbs) + perfect 
 ## near future
-
+- aller conjug + verb
 ## simple present
-
+- parlerai, parleras, parlera, parlerons, parlerez, parleront
+- finirai, finiras, finira, finirons, finirez, finiront
+- vendrai, vendras, vendra, vendrons, vendrez, vendront
+- aurai
+- serai
+- irai
+- ferai
+- devrai
+- pourrai
+- voudrai
+- viendrai
+- mettrai
+- dirai
+- prendrai
+- sortirai
 ## future perfect
 
 ## present conditional
