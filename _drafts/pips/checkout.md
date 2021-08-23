@@ -274,6 +274,7 @@ kanban-plugin: basic
 - [ ] https://mywiki.wooledge.org/BashGuide
 - [ ] https://www.netflix-codes.com/
 - [ ] https://about.gitlab.com/handbook/communication/#internal-communication
+- [ ] https://github.com/shashank88/system_design
 
 
 ## concepts
