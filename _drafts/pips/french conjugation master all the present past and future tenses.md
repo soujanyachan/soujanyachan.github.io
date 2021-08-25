@@ -125,7 +125,7 @@ sortir - sors, sors, sort, sortons, sortez, sortent
 - imperfect(avoir / etre for movement verbs) + perfect 
 ## near future
 - aller conjug + verb
-## simple present
+## simple future
 - parlerai, parleras, parlera, parlerons, parlerez, parleront
 - finirai, finiras, finira, finirons, finirez, finiront
 - vendrai, vendras, vendra, vendrons, vendrez, vendront
@@ -142,15 +142,105 @@ sortir - sors, sors, sort, sortons, sortez, sortent
 - prendrai
 - sortirai
 ## future perfect
-
+- will have happened
+- etre for movement verbs
+- simple future + perfect
 ## present conditional
-
+- actions that may or may not take place
+- in eng -> would
+- parlerais, parlerais, parlerait, parlerions, parlerions, parleriez, parleraient
+- finirais, finirais
+- vendrais vendrais vendrait vendrions vendriez vendraient
+- aurais, 
+- serais
+- irais
+- ferais
+- devrais
+- pourrais
+- voudrais
+- viendrais
+- mettrais
+- dirais
+- prendrais
+- sortirais
 ## past conditional
-
+- would have 
+- present conditional avoir or etre and perfect
 ## present subjunctive
-
+- doubt, wish, emotion, judgement
+- avant / apres que + verb
+- sans que
+- jusqu'a que
+- pourvu que
+- cela ne veut pas dire que 
+- bien/quoique
+- a condition que
+- afin/pour que
+- que - ONLY AT SENTENCE START
+- a moins que
+- il faut que
+- il est necessaire que
+- il arrive que
+- il est impossible que
+- il se peut que
+- il vaut mieux que
+- il est temps que
+- il nest pas sur que
+- cest dommage que
+- il est preferable que
+- il semble que (but NOT il me semble que)
+- aimer que
+- desirer que
+- preferer que
+- souhaiter que
+- vouloir que
+- demander que
+- empêcher que
+- permettre que
+- interdire que
+- avoir peur que / craindre que
+- etre content/surpis/etonne que
+- regretter que
+- douter que
+- je ne + pense / crois / dis + pas que
+- cest le meilleur que
+- le plus grand que
+- le pire que
+- le premier que
+- parle, parle, parle, parlions, parliez, parlent
+- finisse, finisses, finisse, finissions, finissiez, finissent
+- vende, vendes, vende, vendions, vendiez, vendent
+- aie, aies, ait, ayons, ayez, aient
+- sois, sois, soit, soyons
+- fasse
+- doive, devions
+- puisse
+- veuille, voulions
+- vienne, venions
+- mette
+- dise
+- prenne
+- sorte
 ## past subjunctive
-
+- have + past participle
+- uncertain action that happened before the moment of speaking
+- present subjunctive avoir/etre + perfect
 ## simple past
-
+- in books
+- parlai, parlas, parla, parlâmes, parlâtes, parlèrent
+- finis, finis, finit, finîmes, finîtes, finirent
+- vendis, vendis, vendit, vendîmes, vendîtes, vendirent
+- eus, eus, eut, eumes, eutes - avoir
+- fus fus fut fumes futes furent - etre
+- allai, allas, alla, allames, allates, allerent
+- fis, fit, fimes, fites, firent
+- dus dut dumes dutes durent
+- pus put pumes putes purent
+- voulus, voulut, voulumes, voulutes, voulurent
+- vins vint vinmes vintes, vinrent
+- mis, mit, mimes, mites, mirent
+- dis dit dimes dites fdirent
+- pris pris primes prites prirent
+- sortis sortit sortimes sortites sortierent
 ## past anterior
+- simple past avoir / etre+ perfect
