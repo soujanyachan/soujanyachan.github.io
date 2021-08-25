@@ -244,3 +244,90 @@ sortir - sors, sors, sort, sortons, sortez, sortent
 - sortis sortit sortimes sortites sortierent
 ## past anterior
 - simple past avoir / etre+ perfect
+
+________
+
+## Class Project: French Conjugation - Translate with the correct tenses  
+- Simple Present  
+	- I go to work = 
+	- We eat an apple =  
+- Continuous Present  
+	- You are finishing your homework = 
+	- He is taking the bus =  
+- Gerund  
+	- Seeing this, I'm happy = 
+	- Smelling this, I'm sick =  
+- Present Participle  
+	- I'm singing while walking = 
+	- She's texting while driving =  
+- Imperative  
+	- Go to school! = 
+	- Sell this car! =  
+- Immediate Past  
+	- I have left the house = 
+	- They have just eaten =  
+- Perfect Tense  
+	- He has loved the movie = 
+	- You (plur) have dansed =  
+- Imperfect  
+	- He was cold last night = 
+	- She left =  
+- Pluperfect  
+	- He had left = 
+	- She had said =  
+- Near Future  
+	- I am going to speak = 
+	- We are going to go out =  
+- Simple Future  
+	- I will finish my plate = 
+	- They will be late =  
+- Future Perfect  
+	- They will have had their lunch = 
+	- I will have gone to town =  
+- Present Conditional  
+	- I would go = 
+	- She would take it =  
+- Past Conditional  
+	- You (plur) would have been late = 
+	- They (fem) would have said that =  
+- Present Subjunctive  
+	- that I do that = 
+	- that you leave =  
+- Past Subjunctive  
+	- that I spoke too quickly = 
+	- that she went alone =  
+- Simple Past  
+	- I was = 
+	- You have =  
+- Past Anterior  
+	- we had finished = 
+	- she had forgotten =  
+
+film or series recommendations - french
+- call my agent
+- a mighty team
+- he even has your eyes
+- nothing to hide
+- blind date
+- la mante
+- lupin
+- dix jours en or
+- criminal france
+
+italian
+- il processo
+- carlo and malik
+spanish
+- money heist
+- criminal spain
+german
+- criminal
+- dark
+
+children
+- tintin
+- my little pony
+- pj masks
+- peppa pig
+- paw patrol
+- despicable me
