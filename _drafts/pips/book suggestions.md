@@ -710,6 +710,7 @@ kanban-plugin: basic
 
 ## To read - CS
 
+- [ ] _Code Reading: The Open Source Perspective_ by Diomidis Spinellis
 - [ ] High Performance Browser Networking
 - [ ] Designing Data-Intensive Applications
 - [ ] Site Reliability Engineering: How Google Runs Production Services
