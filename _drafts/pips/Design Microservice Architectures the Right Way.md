@@ -4,7 +4,7 @@ author:
 tags:
 link: https://www.youtube.com/watch?v=j6ow-UemzBc
 
-great arch
+great architecture
 - scale dev team
 - quality
 - high perf low cost
@@ -24,7 +24,6 @@ misconception
 - CI on the API definition
 - linter for api definition -> 
 - breaking changes in APIs - verify potentially breaking
-
 
 - code is simple and consistent
 
@@ -62,4 +61,17 @@ continuous delivery is essential to managing microservice
 		- process incoming events in micro batches 
 		- record failures locally -> monitoring
 
-API builder ->
+- events schema is also made before time, linter
+- stream owned by 1 microservice
+- journal
+	- doc retention period in config
+	- code gen journal
+	- use partitions to manage storage
+- producer -> 
+	- reflection used to generate stream name
+	- content type in stream name
+	- testing
+- dependencies
+	- auto update to all dependencies
+
+API builder -> open source tool for this
