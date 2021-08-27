@@ -122,4 +122,31 @@ bitmap heap scan on employees
 ## working with billion row table
 - how will the table grow ?
 - for a big table
-	- brute force your way, 
+	- brute force your way, search in parallel
+	- avoid processing the entire table, subset of the table only -> best is to use indexing
+- sharding and parition keys
+
+## btree vs b+ tree in prod
+- full table scans
+	- read all pages, many I/Os
+	- need to reduce the search space
+	- 
+- b tree -> balanced tree,
+- b tree limitations
+- b+ tree
+- b+ considering
+- b+ tree storage cost in mysql vs postgres
+
+## original btree
+- balanced data str for fast traversal
+- minimise the search space
+- m degree some nodes can have m child nodes
+- node has up to (m-1) elements
+- each element has a key and a value
+- value is a data pointer to the row
+- ptr can pointer to primary key or to the tuple
+- root, internal node, leaf node
+- a node = disk page
+
+## how does btree help performance
+- 
