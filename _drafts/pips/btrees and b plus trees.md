@@ -1,7 +1,7 @@
 name: btrees and b plus trees
 topic:
 author:
-tags:
+tags: [[cs_learning]] [[database]]
 link: https://www.youtube.com/watch?v=aZjYr87r1b8
 
 1. disk str
@@ -66,4 +66,17 @@ ___________________________________________________________________
 
 b trees
 - worst case height of m-way search tree is go through all the nodes exactly like linear search
-- m - way search trees with rules 
+- m - way search trees with rules = b trees
+- rules
+	- every node must be filled at least half - ceil(m/2) - before creating new node
+	- root can have min two children
+	- all leaf nodes at level
+	- creation is bottom up
+- tree grows upward
+- can split left biased or right biased
+
+b+ trees
+- only leaf nodes have records
+- every key in the tree is in the leaf - dense index
+- leaf nodes at same level are connected like a linked list
+
