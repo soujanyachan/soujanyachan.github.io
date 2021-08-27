@@ -1,4 +1,4 @@
-## Intro to ACID
+# Intro to ACID
 - transaction - 
 	- collection of queries
 	- one unit of work
@@ -47,6 +47,7 @@
 
 Since the crash happened during the commit the database cannot guarantee durability. The system is durable only when the commit is successful( the data is fully written to disk). That is why commit speeds are critical, the faster you can commit the lower the chances of such corruption.
 
+# database indexing
 ## primary key vs secondary key
 - table spaces / heap & primary key
 	- row store
@@ -55,4 +56,70 @@ Since the crash happened during the commit the database cannot guarantee durabil
 	- clustering - organising a table around a key, ordering - additional cost
 	- oracle - index organised table, or clustered index
 	- heap is organised around that index
-	- 
+	- speed for i/o esp range queries
+	- if secondary index -> ie table is jumbled
+	- guid is a bad idea to use as the primary key as we will not benefit from the memory caching that the db does
+	- secondary -> has another structure outside the table for the indexes, heave to the heap to select the data, as the index does not contain all the data
+
+## getting started with indexing
+- btree
+- lsm
+
+index only scan
+try to avoid the table as much as possible
+db caching 
+if it does not have an index, full table scan
+postgres tries to do in parallel, multiple threads
+
+like is the worst query, full scan -> expression matching requires
+bitmap heap scan on employees
+
+## explain in postgres
+- query plan
+- seq scan = full table scan
+- cost = 0.00..289.15
+	- first num -> time to fetch first page
+		- increases if it does work before fetching
+	- second num -> the estimated time to get all
+	- rows -> approx num of rows
+	- similarly to rows, width
+- read from bottom to top
+
+## index scan vs index only scan
+- non key column -> just to store with the index
+- not always good as it increases the size of the index
+- key vs non key column db indexing
+- vacuum verbose -> postgres
+
+## combining database indexes for better performance
+- index on a, index on b
+- select c -> bitmap heap scan
+- postgres - can scan values from the left
+- multicolumn b-tree index can be used with queries that involve any subset of the index columns but the index is most efficient when the constraints are on the leading columns.
+
+## how database optimisers decide which index to use
+- both indexes and merges the result
+- only one index instead of two, esp if one returns very few and the condition is an AND
+- full scan with many workers
+- ensure after large update, to update stats in db
+- database hinting
+
+## bitmap index scan vs index scan vs table scan
+- array of bits, and the values rep the page num, 
+- bitmapand 
+
+## creating index concurrently - avoid blocking prod
+- writes are blocked when creating an index
+- create index conccurently - write also allowed during creation - postgres
+- multiple scans much longer, more cpu, more mem
+- potentially fails
+
+## bloom filters
+- to check whether something exists
+- prevent unnecearry queries
+- cassandra -> uses this internally
+
+## working with billion row table
+- how will the table grow ?
+- for a big table
+	- brute force your way, 
