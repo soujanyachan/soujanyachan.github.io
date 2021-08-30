@@ -149,4 +149,74 @@ bitmap heap scan on employees
 - a node = disk page
 
 ## how does btree help performance
+- easy search
+
+## limitation b tree
+ - elements in all nodes store both the key anf the value
+ - internal nodes thake more space, require more io, slow down traversal
+ - range queries are slow because of random access
+
+b+ trees
+- all data is pushed to leaves, only keys in internal nodes
+- leaf nodes are linked -> good for range queries
+
+## b+ tree dbms considerations
+- leaf ptr is cheap
+- 1 node fits dbms page
+- can fit internal nodes in memory easily
+- leaf nodes can live in data files in the heap
+
+## b+ tree storage cost in mysql vs postgres
+- secondary index values can either point to the tuple (pg) or primary key (mysql)
+- if primary key data type is expensive this can cuse bloat in all secondary indexes such as mysql (innodb)
+- leaf nodes in mysql (innodb) contains the full row since its an Index Organised Table / clustered index
+
+## b tree summary
+- full table scan
+- b tree
+- b tree limmitatino
+- b+ trees
+- b+ tree considerations
+- b+ tree storage cost
+
+## database partitioning
+- what is partitioning - split up a table into multiple tables based on the where clause the db decided which sub table to hit
+- horz adn vertical - 
+- partitioning types
+- partitioning vs sharding
+- pros and cons
+
+## vertical and horz partitioning
+- horz
+	- split by row - range or list
+- vert partitioning splits by columns
+	- large column that you can store in a slow access drive in its own table space
+
+## partition types
+- by range - date, id, log date, customer id
+- by list - discrete values (like states - KA, AP)
+- by hash - consistent hashing
+
+## horz partitioning vs sharding
+- HP splits big table into smaller tables in the same db , client is agnostic
+- sharding splits big table into multiple tables across multiple db servers
+- HP table name changes
+- sharding everything is the same but the server changes
+
+## postgres demo
+- pg can create indexes for the paritions of the table
+
+## ads and disads of partitions
+- pros
+	- imporves query performance when accessing a single partition
+	- sequential scan vs scattered index scan
+	- easy bulk loading ( attach partition)
+	- archive old data into cheap storage
+
+- cons
+	- updating a row moves the row from one partition to another (slow or fail sometimes)
+	- ineffiecient queries could scan all partitions
+	- schema changes can be challenges (dbms could manage it)
+
+## how to automate partitioning in postgres
 - 
