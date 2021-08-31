@@ -283,3 +283,31 @@ when to consider sharding?
 - sync vs async
 - pros and cons
 
+## master standby replication
+- one master node that accepts writes/ddl
+- one or more backup
+- simple to implement
+- can scale horz
+
+## multi master replication
+- multiple masters that accept writes
+- one or more backups that receive those
+- need to resolve conflicts
+
+## sync vs async replication
+- sync -> write will be blocked until it is written to the backup nodes
+	- first 2, 1 or any
+- async  -> successful if written to master then async writes are done to the backups
+
+## pros and cons
+- pros
+	- horz scaling
+	- region based querioes DB per region
+- cons
+	- eventual consistency
+	- slow writes sync
+	- complex to implement multi master
+
+## database system design
+- URL shortener
+	- 
