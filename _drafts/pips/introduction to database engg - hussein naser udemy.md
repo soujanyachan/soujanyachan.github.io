@@ -352,4 +352,70 @@ when to consider sharding?
 	- less IOs to get more values of a given column but multiple columns => more IOs
 	- OLAP - Online analytical processing
 
+postgres deduplication
+
+pros and cons
+- row based 
+	- optimal for read writes / transaction
+	- OLTP
+	- compression not efficient
+	- aggregation isnt efficient
+	- efficient queries with multi columns
+- column based
+	- writes are slower
+	- OLAP
+	- compress greatly
+	- good for aggregation
+	- inefficient for multicolumn
+
+## B tree database engines
+- MyISAM
+	- indexed sequential access method
+	- b tree indexes point to the rows directly
+	- no transaction support
+	- open source, owned by oracle
+	- fast insert (EOF), slow updates and deletes (if you change row size, offsets change, index needs to update also)
+	- db crash corrupts tables, khave to manually repair 
+	- table level locking 
+	- mySQL mariadb percona support it
+	- used to be default mysql engine
+	- pk not mandatory
+- aria
+	- created by michael widenius
+	- similar to myISAM
+	- crash-safe unlike myISAM
+	- designed for Mariadb
+- innoDB
+	- B+ tree with indexes point to the primary key and the pk points to the row
+	- pk is mandatory
+	- replaces myISAM
+	- default for mySQL and mariadb
+	- ACID compliant transactions support
+	- foreign keys
+	- tablespaces
+	- row level locking
+	- spatial ops
+	- owned by oracle
+- xtraDB
+	- fork of innodb
+	- default for mariadb until 10.1
+	- couldnt be kept up to date with innoDB
+	- system tables in mariaDB still use aria -> why are they non-transactional
+- SQLite
+	- richard hipp
+	- very popular embedded db for local data
+	- B tree (LSM as extension)
+	- postgres like syntax
+	- full ACID and table locking (not row level)
+	- concurrent read and write
+	- web sql in browsers uses it
+	- included in many OS by default
+- berkeleyDB
+	- developed by sleepycat
+	- key value embedded db
+	- supports ACID, locks, replications
+	- used to be in bitcoin core
+	- used "memcacheDB"
+
+## LSM tree db engines
 
