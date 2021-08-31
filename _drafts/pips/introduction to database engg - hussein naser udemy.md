@@ -218,5 +218,37 @@ b+ trees
 	- ineffiecient queries could scan all partitions
 	- schema changes can be challenges (dbms could manage it)
 
-## how to automate partitioning in postgres
+## sharding
+- scaling split across servers
+- what is sharding
+- consistent hashing - hash rank to find the db server to hit (eg. cassandra)
+- horz partitioning vs sharding
+- pros of sharding
+	- scalability
+		- data
+		- memory
+	- security -> only some users can access certain shards
+	- optimal and smaller index size
+- cons of sharding
+	- complex client
+	- transactions across shards
+	- rollbacks
+	- schema changes are hard
+	- joins
+	- you need to know what you are querying for otherwise you need to hit all
+
+when to consider sharding?
+- better not to complicate if simple app
+- horz partitions
+- replication
+- two masters,(replication + sharding?)
+- sharding
+
+## concurrency control
+- exclusive lock / write lock
+	- only one person can update
+	- there must not be any shared lock
+- shared lock
+	- read lock
+	- no exclusive lock on the same data
 - 
