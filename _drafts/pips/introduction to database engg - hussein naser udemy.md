@@ -310,4 +310,46 @@ when to consider sharding?
 
 ## database system design
 - URL shortener
-	- 
+	- numeric id as short url
+	- custom url? -> hash url and use first few chars as primary key but collisions what to do
+		- random salt
+		- need to store the salt?
+	- scaling lb -> server -> single master replication
+
+## twitter system design
+- table with the directed vertices
+- table with the userprofiles
+
+## database engines / storage engines / embedded dbs 
+- software lib low level of data on disk
+- myISAM aria
+- InnoDB
+- xtraDB
+- levelDB
+- rocksdb
+- SQLite
+- berkeley db
+
+## database engine
+- lib that takes care of the disk storage and CURD
+- can be as simple as a key value store
+- or be as rich and complex as full support ACID and transactions with foreign keys
+- DBMS can use the db engine and build features on tpp (server, replication , isolation, stored proc)
+- want to write a new db? dont start from scratch, use an engine
+
+- some dbms can change engine - mysql and mariadb
+- some you cant change postgres builtin engine
+
+## row vs column oriented db
+- row
+	- tables are stored as rows in disk
+	- a single block io to read the table fetches multiple rows with all their columns
+	- more IOs for a given row but once you have the row, you get all the columns
+
+- column
+	- tables are stored as columns
+	- single block io fetches multiple columns with all matching orws
+	- less IOs to get more values of a given column but multiple columns => more IOs
+	- OLAP - Online analytical processing
+
+
