@@ -248,7 +248,38 @@ when to consider sharding?
 - exclusive lock / write lock
 	- only one person can update
 	- there must not be any shared lock
+	- dont read this because i am writing
 - shared lock
 	- read lock
 	- no exclusive lock on the same data
-- 
+	- dont write this because im reading
+
+## deadlock
+- when clients are fighting for a resource, waiting for the other to release
+
+## two phase locking
+- acquiring and releasing locks split up
+- postgres for update -> exclusive lock
+- (oracle has a timeout for the wait for the lock)
+
+## sql pagination with offset is very slow
+- avoid sql offset
+- because we have to jump and then read
+- simulate offset using the id
+- last seen id is returned by client
+
+## database connection pooling
+- usually tcp pool of connections, multiple clients can share
+- when connection teardown creation and security is expensive
+- lots of clients and few connections
+
+- once when server starts
+- how many connections? default 10 - `max` 
+- how long i should wait for pool to give me connection  - connectionTimeout
+- when to get rid of the idle connection - idleTimeout
+
+## database replication
+- master backup vs multi master
+- sync vs async
+- pros and cons
+
