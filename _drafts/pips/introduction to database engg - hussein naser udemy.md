@@ -418,4 +418,43 @@ pros and cons
 	- used "memcacheDB"
 
 ## LSM tree db engines
+- levelDB
+	- google in 2011
+	- good for insert (great for high insert and SSD - (ssd v good for reads and insert)) b tree every insert can trigger a rebalance
+	- no transaction
+	- insipred by google bigtable
+	- levels of files
+		- memtable - 1st level, in memory
+		- level - (young level)
+		- level 1-6
+	- as files grow large levels are merged, flushed to disk
+	- used in bitcoin core, autocad, minecraft
+	- support write ahead log
+- rocksDB
+	- fork of levelDB
+	- transactional
+	- high perf, multithreaded compaction
+	- many features not in levelDB
+	- myrocks for mysql, mariadb and percona
+	- mongorocks for mongodb
+
+## what are database cursors
+- having a large result set is bad
+- server side cursor -> please create a marker for a query, only follow plan and execute when i specifically ask
+- fetch, fetch last,
+- pros
+	- save on mem on client side (backend application that connects to the db)
+	- streaming
+	- can cancel a cursor
+	- paging with cursors - implementation not as easy to page because cursors are stateful
+- cons
+	- stateful
+	- long transactions cause issues for others running transactions
+## server side vs client side db cursors
+
+## querying with client side cursor
+
+## querying with server side cursor
+
+## pros and cons of server vs client side
 
