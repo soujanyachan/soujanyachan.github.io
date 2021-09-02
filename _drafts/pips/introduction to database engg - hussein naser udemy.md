@@ -451,10 +451,16 @@ pros and cons
 	- stateful
 	- long transactions cause issues for others running transactions
 ## server side vs client side db cursors
+Server side cursor - data remains on the server until requested by the client application; results are kept on the server and only returned to the client as necessary.
 
-## querying with client side cursor
-
-## querying with server side cursor
-
+Client side cursose - all data is sent to the client usually resulting in higher network traffic, latency, etc.
 ## pros and cons of server vs client side
+- pros
+	- client side, client takes the load (always do limit)
+- cons
+	- server side can leak?
 
+## db security - secure pg by enabling tls/ssl
+- ssh into server
+- create cert / key
+- update config
