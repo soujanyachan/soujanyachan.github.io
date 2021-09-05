@@ -10,182 +10,95 @@ kanban-plugin: basic
 
 ## things to checkout
 
-- [] [https://www.reddit.com/r/programming/comments/p5gfl6/engineering_manager_breaks_down_problems_he_used/](https://www.reddit.com/r/programming/comments/p5gfl6/engineering_manager_breaks_down_problems_he_used/)
-- [] [https://amp.reddit.com/r/suggestmeabook/comments/fx6hiq/reading_tips_after_amusing_ourselves_to_death_by/](https://amp.reddit.com/r/suggestmeabook/comments/fx6hiq/reading_tips_after_amusing_ourselves_to_death_by/)
-
-- [] [https://www.benkuhn.net/hard/](https://www.benkuhn.net/hard/)
-
-- [] [http://www.paulgraham.com/schlep.html](http://www.paulgraham.com/schlep.html)
-
-- [] [https://www.benkuhn.net/thinkrealhard/](https://www.benkuhn.net/thinkrealhard/)
-
-- [] [https://www.benkuhn.net/listen/](https://www.benkuhn.net/listen/)
-
-- [] [https://www.benkuhn.net/actually-doing-things/](https://www.benkuhn.net/actually-doing-things/)
-
-- [] [https://jacobian.org/2020/feb/18/innovation-execution/](https://jacobian.org/2020/feb/18/innovation-execution/)
-
-- [] [https://signumuniversity.org/?__cf_chl_jschl_tk__=pmd_UOhpaLvC_Natp1YQUFtGnvoOZ3ijPv8Sb7VGK4.iQq4-1629312378-0-gqNtZGzNAhCjcnBszQaR](https://signumuniversity.org/?__cf_chl_jschl_tk__=pmd_UOhpaLvC_Natp1YQUFtGnvoOZ3ijPv8Sb7VGK4.iQq4-1629312378-0-gqNtZGzNAhCjcnBszQaR)
-
-- [] [https://news.ycombinator.com/item?id=28220854](https://news.ycombinator.com/item?id=28220854)
-
-- [] [https://news.ycombinator.com/item?id=28198641](https://news.ycombinator.com/item?id=28198641)
-
-- [] [https://www.reddit.com/r/AskWomen/comments/p78of9/whats_the_best_documentary_you_have_seen_on?sort=top](https://www.reddit.com/r/AskWomen/comments/p78of9/whats_the_best_documentary_you_have_seen_on?sort=top)
-
-- [] [https://www.reddit.com/r/productivity/comments/hkhpl0/journal_questions_to_ask_yourself_every_morning/?sort=confidence](https://www.reddit.com/r/productivity/comments/hkhpl0/journal_questions_to_ask_yourself_every_morning/?sort=confidence)
-
-- [] [https://www.reddit.com/r/Stoicism/comments/hkiy7b/journal_questions_to_ask_yourself_every_morning/?sort=confidence](https://www.reddit.com/r/Stoicism/comments/hkiy7b/journal_questions_to_ask_yourself_every_morning/?sort=confidence)
-
-- [] [https://www.reddit.com/r/ZenHabits/comments/2zoyax/this_journaling_template_changed_my_life_and_made/?sort=confidence](https://www.reddit.com/r/ZenHabits/comments/2zoyax/this_journaling_template_changed_my_life_and_made/?sort=confidence)
-
-- [] [https://medium.com/the-mission/why-most-people-will-never-have-great-relationships-bffc4152e978](https://medium.com/the-mission/why-most-people-will-never-have-great-relationships-bffc4152e978)
-
-- [] [https://book4you.org/book/16593525/89b248](https://book4you.org/book/16593525/89b248)
-
-- [] [https://book4you.org/book/13761948/a08418](https://book4you.org/book/13761948/a08418)
-
-- [] [https://book4you.org/book/5526635/7d3c11](https://book4you.org/book/5526635/7d3c11)
-
-- [] [https://book4you.org/book/5526038/e5a55e](https://book4you.org/book/5526038/e5a55e)
-
-- [] [https://book4you.org/book/3509074/cc3423?dsource=recommend](https://book4you.org/book/3509074/cc3423?dsource=recommend)
-
-- [] [https://book4you.org/book/3679889/dc8772?dsource=recommend](https://book4you.org/book/3679889/dc8772?dsource=recommend)
-
-- [] [https://book4you.org/book/2777685/a81927?dsource=recommend](https://book4you.org/book/2777685/a81927?dsource=recommend)
-
-- [] [https://book4you.org/book/2696318/5d4832?dsource=recommend](https://book4you.org/book/2696318/5d4832?dsource=recommend)
-
-- [] [https://book4you.org/book/3686243/74056a?dsource=recommend](https://book4you.org/book/3686243/74056a?dsource=recommend)
-
-- [] [https://book4you.org/book/3312640/0e26ec?dsource=recommend](https://book4you.org/book/3312640/0e26ec?dsource=recommend)
-
-- [] [https://book4you.org/book/5228176/e45986?dsource=recommend](https://book4you.org/book/5228176/e45986?dsource=recommend)
-
-- [] [https://book4you.org/book/2335533/816ec2?dsource=recommend](https://book4you.org/book/2335533/816ec2?dsource=recommend)
-
-- [] [https://book4you.org/book/1171183/29a074?dsource=recommend](https://book4you.org/book/1171183/29a074?dsource=recommend)
-
-- [] [https://book4you.org/book/3316564/51c46f](https://book4you.org/book/3316564/51c46f)
-
-- [] [https://book4you.org/book/3319905/6e3a48](https://book4you.org/book/3319905/6e3a48)
-
-- [] [https://book4you.org/book/5539025/42661f](https://book4you.org/book/5539025/42661f)
-
-- [] [https://book4you.org/book/1252233/380528](https://book4you.org/book/1252233/380528)
-
-- [] [https://www.reddit.com/r/selfhelp/comments/746hri/best_selfdiscovery_questions/?sort=confidence](https://www.reddit.com/r/selfhelp/comments/746hri/best_selfdiscovery_questions/?sort=confidence)
-
-- [] [https://www.google.com/search?q=20+something+20+everything+index+of&client=firefox-b-m&ei=gJ0eYcXCOsGl9QOhhKnYAQ&oq=20+something+20+everything+index+of&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBQghEKABOgQIABBHOgIIKToFCAAQgAQ6BggAEBYQHjoHCCEQChCgAVD2SVjSkwFg_5YBaABwAXgAgAHcAYgBuxCSAQUwLjguM5gBAKABAcgBAsABAQ&sclient=mobile-gws-wiz-serp](https://www.google.com/search?q=20+something+20+everything+index+of&client=firefox-b-m&ei=gJ0eYcXCOsGl9QOhhKnYAQ&oq=20+something+20+everything+index+of&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBQghEKABOgQIABBHOgIIKToFCAAQgAQ6BggAEBYQHjoHCCEQChCgAVD2SVjSkwFg_5YBaABwAXgAgAHcAYgBuxCSAQUwLjguM5gBAKABAcgBAsABAQ&sclient=mobile-gws-wiz-serp)
-
-- [] [https://www.ameliaharvey.com.au/blog/2015/5/12/18-powerful-journal-prompts](https://www.ameliaharvey.com.au/blog/2015/5/12/18-powerful-journal-prompts)
-
-- [] [https://psychcentral.com/blog/imperfect/2016/04/26-question-to-help-you-know-yourself-better?utm_content=buffer8d9f2&utm_medium=social&utm_source=pinterest.com&utm_campaign=buffer](https://psychcentral.com/blog/imperfect/2016/04/26-question-to-help-you-know-yourself-better?utm_content=buffer8d9f2&utm_medium=social&utm_source=pinterest.com&utm_campaign=buffer)
-
-- [] [https://partiallyexaminedlife.com/](https://partiallyexaminedlife.com/)
-
-- [] [https://www.reddit.com/r/ExperiencedDevs/comments/p7fnyl/do_you_keep_a_dev_journal_if_so_what_do_you_put?sort=confidence](https://www.reddit.com/r/ExperiencedDevs/comments/p7fnyl/do_you_keep_a_dev_journal_if_so_what_do_you_put?sort=confidence)
-
-- [] [https://book4you.org/book/2950779/fbe237](https://book4you.org/book/2950779/fbe237)
-
-- [] [https://www.reddit.com/r/adhdwomen/comments/p96a5s/til_i_am_a_dog?sort=confidence](https://www.reddit.com/r/adhdwomen/comments/p96a5s/til_i_am_a_dog?sort=confidence)
-
-- [] [https://www.reddit.com/r/booksuggestions/comments/p95kkj/could_you_please_suggest_me_books_on_history_and/?sort=confidence](https://www.reddit.com/r/booksuggestions/comments/p95kkj/could_you_please_suggest_me_books_on_history_and/?sort=confidence)
-
-- [] [https://www.reddit.com/r/booksuggestions/comments/p95d6w/suggestion_for_books_on_human_naturebehaviour/?sort=confidence](https://www.reddit.com/r/booksuggestions/comments/p95d6w/suggestion_for_books_on_human_naturebehaviour/?sort=confidence)
-
-- [] [https://www.reddit.com/r/TheGirlSurvivalGuide/comments/p954sv/self_care_burnout/?sort=confidence](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/p954sv/self_care_burnout/?sort=confidence)
-
-- [] [https://www.reddit.com/r/FemaleDatingStrategy/comments/p9634v/financial_abuse?sort=confidence](https://www.reddit.com/r/FemaleDatingStrategy/comments/p9634v/financial_abuse?sort=confidence)
-
-- [] [https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)
-
-- [] [https://swizec.com/blog/why-a-coding-ai-like-github-copilot-wont-take-your-job/](https://swizec.com/blog/why-a-coding-ai-like-github-copilot-wont-take-your-job/)
-
-- [] [https://swizec.com/blog/how-to-own-projects-like-a-senior-engineer/](https://swizec.com/blog/how-to-own-projects-like-a-senior-engineer/)
-
-- [] [https://swizec.com/blog/do-important-work/](https://swizec.com/blog/do-important-work/)
-
-- [] [https://swizec.com/blog/why-you-need-a-positioning-statement/](https://swizec.com/blog/why-you-need-a-positioning-statement/)
-
-- [] [https://swizec.com/blog/what-matters-in-a-senior-engineer-job-interview/](https://swizec.com/blog/what-matters-in-a-senior-engineer-job-interview/)
-
-- [] [https://swizec.com/blog/flow-good-for-programming-not-engineering/](https://swizec.com/blog/flow-good-for-programming-not-engineering/)
-
-- [] [https://swizec.com/blog/your-serverless-questions-answered/](https://swizec.com/blog/your-serverless-questions-answered/)
-
-- [] [https://swizec.com/blog/your-luck-and-opportunity-surface-area/](https://swizec.com/blog/your-luck-and-opportunity-surface-area/)
-
-- [] [https://swizec.com/blog/the-magic-function-principle/](https://swizec.com/blog/the-magic-function-principle/)
-
-- [] [https://swizec.com/blog/tech-interview-best-practice-that-fails-in-life/](https://swizec.com/blog/tech-interview-best-practice-that-fails-in-life/)
-
-- [] [https://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/](https://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/)
-
-- [] [https://peternorvig.medium.com/functional-lifestyles-training-47984a3cd2ba](https://peternorvig.medium.com/functional-lifestyles-training-47984a3cd2ba)
-
-- [] [http://www.paulgraham.com/cities.html](http://www.paulgraham.com/cities.html)
-
-- [] [https://www.theguardian.com/commentisfree/2021/aug/21/beware-state-surveillance-of-your-lives-governments-can-change-afghanistan](https://www.theguardian.com/commentisfree/2021/aug/21/beware-state-surveillance-of-your-lives-governments-can-change-afghanistan)
-
-- [] [https://blog.asana.com/2021/08/route-internal-requests-services-envoy/](https://blog.asana.com/2021/08/route-internal-requests-services-envoy/)
-
-- [] [https://www.codementor.io/@rohit7290995/sql-complex-query-interview-questions-1kzr38garj](https://www.codementor.io/@rohit7290995/sql-complex-query-interview-questions-1kzr38garj)
-
-- [] [https://spin.atomicobject.com/2021/08/21/evaluate-compensation-development-job/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=atomicspin](https://spin.atomicobject.com/2021/08/21/evaluate-compensation-development-job/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=atomicspin)
-
-- [] [https://www.cockroachlabs.com/blog/brief-history-high-availability/](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
-
-- [] [https://www.codementor.io/@sergeycher/common-questions-about-programming-and-a-career-there-general-faq-1kyd5xpv1r](https://www.codementor.io/@sergeycher/common-questions-about-programming-and-a-career-there-general-faq-1kyd5xpv1r)
-
-- [] [https://old.reddit.com/r/GetMotivated/comments/p9aszc/image/](https://old.reddit.com/r/GetMotivated/comments/p9aszc/image/)
-
-- [] [http://www.paulgraham.com/avg.html](http://www.paulgraham.com/avg.html)
-
-- [] [https://www.google.com/search?q=The%20Appeal%20by%20Janice%20Hallet&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=The%20Appeal%20by%20Janice%20Hallet&ie=utf-8&oe=utf-8&client=firefox-b-m)
-
-- [] [https://www.reddit.com/r/cscareerquestions/comments/p9bk1p/what_are_somethings_i_should_be_following_in_the?sort=confidence](https://www.reddit.com/r/cscareerquestions/comments/p9bk1p/what_are_somethings_i_should_be_following_in_the?sort=confidence)
-
-- [] [https://www.reddit.com/r/FemaleDatingStrategy/comments/p9bjrl/should_i_stay_or_should_i_go_by_lundy_bancroft?sort=confidence](https://www.reddit.com/r/FemaleDatingStrategy/comments/p9bjrl/should_i_stay_or_should_i_go_by_lundy_bancroft?sort=confidence)
-
-- [] [https://www.reddit.com/r/AskHistorians/comments/p9bbym/was_there_an_increase_in_domestic_violence_in_the/?sort=confidence](https://www.reddit.com/r/AskHistorians/comments/p9bbym/was_there_an_increase_in_domestic_violence_in_the/?sort=confidence)
-
-- [] [https://www.reddit.com/r/suggestmeabook/comments/p9bb25/books_that_everyone_should_read_in_their_20s/?sort=confidence](https://www.reddit.com/r/suggestmeabook/comments/p9bb25/books_that_everyone_should_read_in_their_20s/?sort=confidence)
-
-- [] [https://spin.atomicobject.com/2021/08/22/onboarding-new-developer/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=atomicspin](https://spin.atomicobject.com/2021/08/22/onboarding-new-developer/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=atomicspin)
-
-- [] [https://www.reddit.com/r/suggestmeabook/comments/p9b72e/true_classics_everyone_should_read_at_least_once?sort=confidence](https://www.reddit.com/r/suggestmeabook/comments/p9b72e/true_classics_everyone_should_read_at_least_once?sort=confidence)
-
-- [] [https://www.reddit.com/r/TheGirlSurvivalGuide/comments/p8rj7i/ladies_before_you_get_married?sort=confidence](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/p8rj7i/ladies_before_you_get_married?sort=confidence)
-
-- [] [https://www.google.com/search?q=hard%20self%20discovery%20questions%20reddit&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=hard%20self%20discovery%20questions%20reddit&ie=utf-8&oe=utf-8&client=firefox-b-m)
-
-- [] [https://amp.reddit.com/r/DecidingToBeBetter/comments/6dpjix/tips_for_self_discovery/](https://amp.reddit.com/r/DecidingToBeBetter/comments/6dpjix/tips_for_self_discovery/)
-
-- [] [https://amp.reddit.com/r/selfimprovement/comments/a3pmyz/questions_to_ask_yourself_everyday_a_list/](https://amp.reddit.com/r/selfimprovement/comments/a3pmyz/questions_to_ask_yourself_everyday_a_list/)
-
-- [] [https://amp.reddit.com/r/getdisciplined/comments/kjtz6s/questionif_you_could_ask_yourself_21/](https://amp.reddit.com/r/getdisciplined/comments/kjtz6s/questionif_you_could_ask_yourself_21/)
-
-- [] [https://amp.reddit.com/r/AskReddit/comments/1k5nlg/redditors_who_have_found_yourself_in_life_how_did/](https://amp.reddit.com/r/AskReddit/comments/1k5nlg/redditors_who_have_found_yourself_in_life_how_did/)
-
-- [] [https://amp.reddit.com/r/AskWomen/comments/74gklj/what_are_some_good_selfreflective_questions_to/](https://amp.reddit.com/r/AskWomen/comments/74gklj/what_are_some_good_selfreflective_questions_to/)
-
-- [] [https://amp.reddit.com/r/selfhelp/comments/746hri/best_selfdiscovery_questions/](https://amp.reddit.com/r/selfhelp/comments/746hri/best_selfdiscovery_questions/)
-
-- [] [https://www.ifbappliances.com/products/industrial/laundry-solution/washers](https://www.ifbappliances.com/products/industrial/laundry-solution/washers)
-
-- [] [https://old.reddit.com/r/ForBetterMind/comments/p9ucaw/the_meaning_of_6_human_needs_and_why_they_are/?sort=confidence](https://old.reddit.com/r/ForBetterMind/comments/p9ucaw/the_meaning_of_6_human_needs_and_why_they_are/?sort=confidence)
-
-- [] [https://www.google.com/search?q=best%20books%20for%20self%20discovery&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=best%20books%20for%20self%20discovery&ie=utf-8&oe=utf-8&client=firefox-b-m)
-
-- [] [https://book4you.org/book/5666696/b9881b](https://book4you.org/book/5666696/b9881b)
-
-- [] [https://www.google.com/search?q=unexpected%20inconsistency%20run%20fsck%20manually&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=unexpected%20inconsistency%20run%20fsck%20manually&ie=utf-8&oe=utf-8&client=firefox-b-m)
-
-- [] [https://www.google.com/search?q=YouTube%20playlist%20rss&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=YouTube%20playlist%20rss&ie=utf-8&oe=utf-8&client=firefox-b-m)
-
-- [] [https://earthly.dev/blog/jq-select/](https://earthly.dev/blog/jq-select/)
+- [x] [] [https://www.reddit.com/r/programming/comments/p5gfl6/engineering_manager_breaks_down_problems_he_used/](https://www.reddit.com/r/programming/comments/p5gfl6/engineering_manager_breaks_down_problems_he_used/)
+- [x] [] [https://amp.reddit.com/r/suggestmeabook/comments/fx6hiq/reading_tips_after_amusing_ourselves_to_death_by/](https://amp.reddit.com/r/suggestmeabook/comments/fx6hiq/reading_tips_after_amusing_ourselves_to_death_by/)
+- [x] [] [https://www.benkuhn.net/hard/](https://www.benkuhn.net/hard/)
+- [x] [] [http://www.paulgraham.com/schlep.html](http://www.paulgraham.com/schlep.html)
+- [x] [] [https://www.benkuhn.net/thinkrealhard/](https://www.benkuhn.net/thinkrealhard/)
+- [x] [] [https://www.benkuhn.net/listen/](https://www.benkuhn.net/listen/)
+- [x] [] [https://www.benkuhn.net/actually-doing-things/](https://www.benkuhn.net/actually-doing-things/)
+- [x] [] [https://jacobian.org/2020/feb/18/innovation-execution/](https://jacobian.org/2020/feb/18/innovation-execution/)
+- [x] [] [https://signumuniversity.org/?__cf_chl_jschl_tk__=pmd_UOhpaLvC_Natp1YQUFtGnvoOZ3ijPv8Sb7VGK4.iQq4-1629312378-0-gqNtZGzNAhCjcnBszQaR](https://signumuniversity.org/?__cf_chl_jschl_tk__=pmd_UOhpaLvC_Natp1YQUFtGnvoOZ3ijPv8Sb7VGK4.iQq4-1629312378-0-gqNtZGzNAhCjcnBszQaR)
+- [x] [] [https://news.ycombinator.com/item?id=28220854](https://news.ycombinator.com/item?id=28220854)
+- [x] [] [https://news.ycombinator.com/item?id=28198641](https://news.ycombinator.com/item?id=28198641)
+- [x] [] [https://www.reddit.com/r/AskWomen/comments/p78of9/whats_the_best_documentary_you_have_seen_on?sort=top](https://www.reddit.com/r/AskWomen/comments/p78of9/whats_the_best_documentary_you_have_seen_on?sort=top)
+- [x] [] [https://www.reddit.com/r/productivity/comments/hkhpl0/journal_questions_to_ask_yourself_every_morning/?sort=confidence](https://www.reddit.com/r/productivity/comments/hkhpl0/journal_questions_to_ask_yourself_every_morning/?sort=confidence)
+- [x] [] [https://www.reddit.com/r/Stoicism/comments/hkiy7b/journal_questions_to_ask_yourself_every_morning/?sort=confidence](https://www.reddit.com/r/Stoicism/comments/hkiy7b/journal_questions_to_ask_yourself_every_morning/?sort=confidence)
+- [x] [] [https://www.reddit.com/r/ZenHabits/comments/2zoyax/this_journaling_template_changed_my_life_and_made/?sort=confidence](https://www.reddit.com/r/ZenHabits/comments/2zoyax/this_journaling_template_changed_my_life_and_made/?sort=confidence)
+- [x] [] [https://medium.com/the-mission/why-most-people-will-never-have-great-relationships-bffc4152e978](https://medium.com/the-mission/why-most-people-will-never-have-great-relationships-bffc4152e978)
+- [x] [] [https://book4you.org/book/16593525/89b248](https://book4you.org/book/16593525/89b248)
+- [x] [] [https://book4you.org/book/13761948/a08418](https://book4you.org/book/13761948/a08418)
+- [x] [] [https://book4you.org/book/5526635/7d3c11](https://book4you.org/book/5526635/7d3c11)
+- [x] [] [https://book4you.org/book/5526038/e5a55e](https://book4you.org/book/5526038/e5a55e)
+- [x] [] [https://book4you.org/book/3509074/cc3423?dsource=recommend](https://book4you.org/book/3509074/cc3423?dsource=recommend)
+- [x] [] [https://book4you.org/book/3679889/dc8772?dsource=recommend](https://book4you.org/book/3679889/dc8772?dsource=recommend)
+- [x] [] [https://book4you.org/book/2777685/a81927?dsource=recommend](https://book4you.org/book/2777685/a81927?dsource=recommend)
+- [x] [] [https://book4you.org/book/2696318/5d4832?dsource=recommend](https://book4you.org/book/2696318/5d4832?dsource=recommend)
+- [x] [] [https://book4you.org/book/3686243/74056a?dsource=recommend](https://book4you.org/book/3686243/74056a?dsource=recommend)
+- [x] [] [https://book4you.org/book/3312640/0e26ec?dsource=recommend](https://book4you.org/book/3312640/0e26ec?dsource=recommend)
+- [x] [] [https://book4you.org/book/5228176/e45986?dsource=recommend](https://book4you.org/book/5228176/e45986?dsource=recommend)
+- [x] [] [https://book4you.org/book/2335533/816ec2?dsource=recommend](https://book4you.org/book/2335533/816ec2?dsource=recommend)
+- [x] [] [https://book4you.org/book/1171183/29a074?dsource=recommend](https://book4you.org/book/1171183/29a074?dsource=recommend)
+- [x] [] [https://book4you.org/book/3316564/51c46f](https://book4you.org/book/3316564/51c46f)
+- [x] [] [https://book4you.org/book/3319905/6e3a48](https://book4you.org/book/3319905/6e3a48)
+- [x] [] [https://book4you.org/book/5539025/42661f](https://book4you.org/book/5539025/42661f)
+- [x] [] [https://book4you.org/book/1252233/380528](https://book4you.org/book/1252233/380528)
+- [x] [] [https://www.reddit.com/r/selfhelp/comments/746hri/best_selfdiscovery_questions/?sort=confidence](https://www.reddit.com/r/selfhelp/comments/746hri/best_selfdiscovery_questions/?sort=confidence)
+- [x] [] [https://www.google.com/search?q=20+something+20+everything+index+of&client=firefox-b-m&ei=gJ0eYcXCOsGl9QOhhKnYAQ&oq=20+something+20+everything+index+of&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBQghEKABOgQIABBHOgIIKToFCAAQgAQ6BggAEBYQHjoHCCEQChCgAVD2SVjSkwFg_5YBaABwAXgAgAHcAYgBuxCSAQUwLjguM5gBAKABAcgBAsABAQ&sclient=mobile-gws-wiz-serp](https://www.google.com/search?q=20+something+20+everything+index+of&client=firefox-b-m&ei=gJ0eYcXCOsGl9QOhhKnYAQ&oq=20+something+20+everything+index+of&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBQghEKABOgQIABBHOgIIKToFCAAQgAQ6BggAEBYQHjoHCCEQChCgAVD2SVjSkwFg_5YBaABwAXgAgAHcAYgBuxCSAQUwLjguM5gBAKABAcgBAsABAQ&sclient=mobile-gws-wiz-serp)
+- [x] [] [https://www.ameliaharvey.com.au/blog/2015/5/12/18-powerful-journal-prompts](https://www.ameliaharvey.com.au/blog/2015/5/12/18-powerful-journal-prompts)
+- [x] [] [https://psychcentral.com/blog/imperfect/2016/04/26-question-to-help-you-know-yourself-better?utm_content=buffer8d9f2&utm_medium=social&utm_source=pinterest.com&utm_campaign=buffer](https://psychcentral.com/blog/imperfect/2016/04/26-question-to-help-you-know-yourself-better?utm_content=buffer8d9f2&utm_medium=social&utm_source=pinterest.com&utm_campaign=buffer)
+- [x] [] [https://partiallyexaminedlife.com/](https://partiallyexaminedlife.com/)
+- [x] [] [https://www.reddit.com/r/ExperiencedDevs/comments/p7fnyl/do_you_keep_a_dev_journal_if_so_what_do_you_put?sort=confidence](https://www.reddit.com/r/ExperiencedDevs/comments/p7fnyl/do_you_keep_a_dev_journal_if_so_what_do_you_put?sort=confidence)
+- [x] [] [https://book4you.org/book/2950779/fbe237](https://book4you.org/book/2950779/fbe237)
+- [x] [] [https://www.reddit.com/r/adhdwomen/comments/p96a5s/til_i_am_a_dog?sort=confidence](https://www.reddit.com/r/adhdwomen/comments/p96a5s/til_i_am_a_dog?sort=confidence)
+- [x] [] [https://www.reddit.com/r/booksuggestions/comments/p95kkj/could_you_please_suggest_me_books_on_history_and/?sort=confidence](https://www.reddit.com/r/booksuggestions/comments/p95kkj/could_you_please_suggest_me_books_on_history_and/?sort=confidence)
+- [x] [] [https://www.reddit.com/r/booksuggestions/comments/p95d6w/suggestion_for_books_on_human_naturebehaviour/?sort=confidence](https://www.reddit.com/r/booksuggestions/comments/p95d6w/suggestion_for_books_on_human_naturebehaviour/?sort=confidence)
+- [x] [] [https://www.reddit.com/r/TheGirlSurvivalGuide/comments/p954sv/self_care_burnout/?sort=confidence](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/p954sv/self_care_burnout/?sort=confidence)
+- [x] [] [https://www.reddit.com/r/FemaleDatingStrategy/comments/p9634v/financial_abuse?sort=confidence](https://www.reddit.com/r/FemaleDatingStrategy/comments/p9634v/financial_abuse?sort=confidence)
+- [x] [] [https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)
+- [x] [] [https://swizec.com/blog/why-a-coding-ai-like-github-copilot-wont-take-your-job/](https://swizec.com/blog/why-a-coding-ai-like-github-copilot-wont-take-your-job/)
+- [x] [] [https://swizec.com/blog/how-to-own-projects-like-a-senior-engineer/](https://swizec.com/blog/how-to-own-projects-like-a-senior-engineer/)
+- [x] [] [https://swizec.com/blog/do-important-work/](https://swizec.com/blog/do-important-work/)
+- [x] [] [https://swizec.com/blog/why-you-need-a-positioning-statement/](https://swizec.com/blog/why-you-need-a-positioning-statement/)
+- [x] [] [https://swizec.com/blog/what-matters-in-a-senior-engineer-job-interview/](https://swizec.com/blog/what-matters-in-a-senior-engineer-job-interview/)
+- [x] [] [https://swizec.com/blog/flow-good-for-programming-not-engineering/](https://swizec.com/blog/flow-good-for-programming-not-engineering/)
+- [x] [] [https://swizec.com/blog/your-serverless-questions-answered/](https://swizec.com/blog/your-serverless-questions-answered/)
+- [x] [] [https://swizec.com/blog/your-luck-and-opportunity-surface-area/](https://swizec.com/blog/your-luck-and-opportunity-surface-area/)
+- [x] [] [https://swizec.com/blog/the-magic-function-principle/](https://swizec.com/blog/the-magic-function-principle/)
+- [x] [] [https://swizec.com/blog/tech-interview-best-practice-that-fails-in-life/](https://swizec.com/blog/tech-interview-best-practice-that-fails-in-life/)
+- [x] [] [https://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/](https://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/)
+- [x] [] [https://peternorvig.medium.com/functional-lifestyles-training-47984a3cd2ba](https://peternorvig.medium.com/functional-lifestyles-training-47984a3cd2ba)
+- [x] [] [http://www.paulgraham.com/cities.html](http://www.paulgraham.com/cities.html)
+- [x] [] [https://www.theguardian.com/commentisfree/2021/aug/21/beware-state-surveillance-of-your-lives-governments-can-change-afghanistan](https://www.theguardian.com/commentisfree/2021/aug/21/beware-state-surveillance-of-your-lives-governments-can-change-afghanistan)
+- [x] [] [https://blog.asana.com/2021/08/route-internal-requests-services-envoy/](https://blog.asana.com/2021/08/route-internal-requests-services-envoy/)
+- [x] [] [https://www.codementor.io/@rohit7290995/sql-complex-query-interview-questions-1kzr38garj](https://www.codementor.io/@rohit7290995/sql-complex-query-interview-questions-1kzr38garj)
+- [x] [] [https://spin.atomicobject.com/2021/08/21/evaluate-compensation-development-job/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=atomicspin](https://spin.atomicobject.com/2021/08/21/evaluate-compensation-development-job/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=atomicspin)
+- [x] [] [https://www.cockroachlabs.com/blog/brief-history-high-availability/](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
+- [x] [] [https://www.codementor.io/@sergeycher/common-questions-about-programming-and-a-career-there-general-faq-1kyd5xpv1r](https://www.codementor.io/@sergeycher/common-questions-about-programming-and-a-career-there-general-faq-1kyd5xpv1r)
+- [x] [] [https://old.reddit.com/r/GetMotivated/comments/p9aszc/image/](https://old.reddit.com/r/GetMotivated/comments/p9aszc/image/)
+- [x] [] [http://www.paulgraham.com/avg.html](http://www.paulgraham.com/avg.html)
+- [x] [] [https://www.google.com/search?q=The%20Appeal%20by%20Janice%20Hallet&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=The%20Appeal%20by%20Janice%20Hallet&ie=utf-8&oe=utf-8&client=firefox-b-m)
+- [x] [] [https://www.reddit.com/r/cscareerquestions/comments/p9bk1p/what_are_somethings_i_should_be_following_in_the?sort=confidence](https://www.reddit.com/r/cscareerquestions/comments/p9bk1p/what_are_somethings_i_should_be_following_in_the?sort=confidence)
+- [x] [] [https://www.reddit.com/r/FemaleDatingStrategy/comments/p9bjrl/should_i_stay_or_should_i_go_by_lundy_bancroft?sort=confidence](https://www.reddit.com/r/FemaleDatingStrategy/comments/p9bjrl/should_i_stay_or_should_i_go_by_lundy_bancroft?sort=confidence)
+- [x] [] [https://www.reddit.com/r/AskHistorians/comments/p9bbym/was_there_an_increase_in_domestic_violence_in_the/?sort=confidence](https://www.reddit.com/r/AskHistorians/comments/p9bbym/was_there_an_increase_in_domestic_violence_in_the/?sort=confidence)
+- [x] [] [https://www.reddit.com/r/suggestmeabook/comments/p9bb25/books_that_everyone_should_read_in_their_20s/?sort=confidence](https://www.reddit.com/r/suggestmeabook/comments/p9bb25/books_that_everyone_should_read_in_their_20s/?sort=confidence)
+- [x] [] [https://spin.atomicobject.com/2021/08/22/onboarding-new-developer/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=atomicspin](https://spin.atomicobject.com/2021/08/22/onboarding-new-developer/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=atomicspin)
+- [x] [] [https://www.reddit.com/r/suggestmeabook/comments/p9b72e/true_classics_everyone_should_read_at_least_once?sort=confidence](https://www.reddit.com/r/suggestmeabook/comments/p9b72e/true_classics_everyone_should_read_at_least_once?sort=confidence)
+- [x] [] [https://www.reddit.com/r/TheGirlSurvivalGuide/comments/p8rj7i/ladies_before_you_get_married?sort=confidence](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/p8rj7i/ladies_before_you_get_married?sort=confidence)
+- [x] [] [https://www.google.com/search?q=hard%20self%20discovery%20questions%20reddit&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=hard%20self%20discovery%20questions%20reddit&ie=utf-8&oe=utf-8&client=firefox-b-m)
+- [x] [] [https://amp.reddit.com/r/DecidingToBeBetter/comments/6dpjix/tips_for_self_discovery/](https://amp.reddit.com/r/DecidingToBeBetter/comments/6dpjix/tips_for_self_discovery/)
+- [x] [] [https://amp.reddit.com/r/selfimprovement/comments/a3pmyz/questions_to_ask_yourself_everyday_a_list/](https://amp.reddit.com/r/selfimprovement/comments/a3pmyz/questions_to_ask_yourself_everyday_a_list/)
+- [x] [] [https://amp.reddit.com/r/getdisciplined/comments/kjtz6s/questionif_you_could_ask_yourself_21/](https://amp.reddit.com/r/getdisciplined/comments/kjtz6s/questionif_you_could_ask_yourself_21/)
+- [x] [] [https://amp.reddit.com/r/AskReddit/comments/1k5nlg/redditors_who_have_found_yourself_in_life_how_did/](https://amp.reddit.com/r/AskReddit/comments/1k5nlg/redditors_who_have_found_yourself_in_life_how_did/)
+- [x] [] [https://amp.reddit.com/r/AskWomen/comments/74gklj/what_are_some_good_selfreflective_questions_to/](https://amp.reddit.com/r/AskWomen/comments/74gklj/what_are_some_good_selfreflective_questions_to/)
+- [x] [] [https://amp.reddit.com/r/selfhelp/comments/746hri/best_selfdiscovery_questions/](https://amp.reddit.com/r/selfhelp/comments/746hri/best_selfdiscovery_questions/)
+- [x] [] [https://www.ifbappliances.com/products/industrial/laundry-solution/washers](https://www.ifbappliances.com/products/industrial/laundry-solution/washers)
+- [x] [] [https://old.reddit.com/r/ForBetterMind/comments/p9ucaw/the_meaning_of_6_human_needs_and_why_they_are/?sort=confidence](https://old.reddit.com/r/ForBetterMind/comments/p9ucaw/the_meaning_of_6_human_needs_and_why_they_are/?sort=confidence)
+- [x] [] [https://www.google.com/search?q=best%20books%20for%20self%20discovery&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=best%20books%20for%20self%20discovery&ie=utf-8&oe=utf-8&client=firefox-b-m)
+- [x] [] [https://book4you.org/book/5666696/b9881b](https://book4you.org/book/5666696/b9881b)
+- [x] [] [https://www.google.com/search?q=unexpected%20inconsistency%20run%20fsck%20manually&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=unexpected%20inconsistency%20run%20fsck%20manually&ie=utf-8&oe=utf-8&client=firefox-b-m)
+- [x] [] [https://www.google.com/search?q=YouTube%20playlist%20rss&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=YouTube%20playlist%20rss&ie=utf-8&oe=utf-8&client=firefox-b-m)
+- [x] [] [https://earthly.dev/blog/jq-select/](https://earthly.dev/blog/jq-select/)
 - [ ] Ringing Bell is a 1978 Japanese anime adventure-drama feature film adaption of the storybook of the same name written by Takashi Yanase, the creator of Anpanm
 - [ ] The Commander Thinks Aloud by The Long Winters 
 - [ ] [Nerdrotic](https://www.youtube.com/channel/UC5T0tXJN5CrMZUEJuz4oovw)
@@ -426,6 +339,7 @@ kanban-plugin: basic
 - [ ] http://nateburke.com/open/?p=80
 - [ ] https://1729.com/the-billion-user-table?ref=refind
 - [ ] https://www.infoq.com/articles/microservices-inside-out/?ref=refind
+- [ ] https://codeforces.com/blog/entry/65133
 
 
 ## websites
@@ -451,6 +365,7 @@ kanban-plugin: basic
 - [ ] https://www.netflix-codes.com/
 - [ ] https://about.gitlab.com/handbook/communication/#internal-communication
 - [ ] https://github.com/shashank88/system_design
+- [ ] https://sysprog21.github.io/lkmpg/
 
 
 ## concepts
