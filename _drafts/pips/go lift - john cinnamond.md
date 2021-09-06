@@ -28,3 +28,8 @@ do we do this for all such objects in go ?
 is this abstraction appropriate in the situation?
 
 technique, and apply to other
+
+- create new type
+- lift initial data
+- lift behaviour
+- lift control flow
