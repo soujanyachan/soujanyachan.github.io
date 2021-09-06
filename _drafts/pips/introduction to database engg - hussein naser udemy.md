@@ -464,3 +464,6 @@ Client side cursose - all data is sent to the client usually resulting in higher
 - ssh into server
 - create cert / key
 - update config
+
+better not to do create table if not exists from script as that has full privileges, not secure
+diff user, diff pool for each route
