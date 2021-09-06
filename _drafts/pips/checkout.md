@@ -344,6 +344,7 @@ kanban-plugin: basic
 
 ## websites
 
+- [ ] https://smalldev.tools/
 - [ ] https://gobyexample.com/
 - [ ] https://excalidraw.com/
 - [ ] https://goodjobs.careers/
