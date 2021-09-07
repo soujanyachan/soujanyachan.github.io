@@ -521,4 +521,43 @@ rocks db -> log structured merge tree -> append only
 
 ## can NULLs improve your db queries performance
 - NULL is a rep of something that is missing
-- 
+- postgres has a null bitmap, that adds infront of every row in the page
+- cost associated with having some fields as NULLable
+- when are NULLs bad?
+	- select count(star) will count the NULLs also
+	- select count(field) will not count the NULL
+	- cannot compare NULLs
+	- T in {NULL}
+	- make sure db support indexes with NULLs in them
+- useful things about NULL
+	- lots of columns cause larger rows, but if many are null, you can save space in the pages on disk (dont store values, store NULL) -> thin rows, 
+	- dbs are efficient at storing NULLs
+	- fixed cost of maintaining NULL vs the read time savings
+- can create a partial index (without NULL) depending on the use case
+
+## db write amplificiation
+- one of the reasons Uber moved from postgres to mysql
+- update statement, the physical rep is 3-4 times larger that the logical data
+- three ways
+	- application write amp
+	- db write amp
+	- disk/SSD write amp
+- app - bad code
+- db - many indexes will get touched if many values are updated in a single row
+- ssd - if empty we can write whatever we want, if not empty we need to erase the page and overwrite it
+	- garbage collection - move all active pages from old block into new and flush the old block
+
+Heat only tuple - HOT - pg, has to be in the same page
+
+## optimistic vs pessimistic concurrency control
+- single user db does not need concurrency
+- how to prevent someone from changing a value that you just changed -> i.e. before commit / end transaction
+- measuring lost update is very hard
+- pessimistic - locking (global)
+- pg -> locks in disk (more io), sql server - locks in mem
+
+- optimistic
+	- no locking
+	- check at commit level -> if the row changes underneath you, transaction will fail
+	- mongodb - wiredtiger - LSM tree, uses max CPU, optimistic 
+	- transactions need to be retried
