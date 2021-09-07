@@ -488,5 +488,37 @@ diff user, diff pool for each route
 
 ## how does the db store data on disk?
 - SSD
-	- 
+	- blocks with a size,
+	- they have pages
+	- only block num and page num
+	- random access instead of rotating wheel
+	- write a piece of data to a block and flush that to disk as a new block
+	- endurance - how many times you can write to the same block
 - HDD
+	- block sector, trakc, disk rotating
+
+btrees can kill ssds if they are not configured properly, as in btrees we keep inserting new blocks
+
+rocks db -> log structured merge tree -> append only
+
+## is QUIC a good protocol for db
+- db builds a spl protocol on top of tcp
+- there is no universal protocol for dbs
+- RESP - redis serialisation protocol
+- there is no protocol like REST or HTTP for web for db traffic
+- microservices - gRPC
+
+- QUIC - logical connection udp, with streams
+- transport layer netowrk protocol
+
+- tcp, http2 streams issue - 
+- QUIC each stream is independent
+- lots of congestion control reqd
+- quic would save lots of roundtrip, processing
+
+## distributed transaction
+
+
+## can NULLs improve your db queries performance
+- NULL is a rep of something that is missing
+- 
