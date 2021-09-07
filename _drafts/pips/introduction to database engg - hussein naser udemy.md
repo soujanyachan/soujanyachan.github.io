@@ -467,3 +467,26 @@ Client side cursose - all data is sent to the client usually resulting in higher
 
 better not to do create table if not exists from script as that has full privileges, not secure
 diff user, diff pool for each route
+
+## homomorphic encryption
+- what is encryption?
+	- symmetric encryption
+		- same keys encrypts and decrypts
+- cant always encrypt
+- db ops can only be performed on plain text
+- analysis, indexing, tuning
+- app must read data to process
+- TLS termination layer 7 reverse proxies and load balancing
+- key mgmt also difficult
+
+- homomorphic enc
+	- ability to perform arithmetic ops on encrypted data
+	- layer 7 reverse proxies dont have to terminate tls, can route traffic based on rules without decrypting traffic
+	- dbs can index and optimise without decrypting data
+
+## select count * can affect your app, use explain to estimate the number of rows returned by a query
+
+## how does the db store data on disk?
+- SSD
+	- 
+- HDD
