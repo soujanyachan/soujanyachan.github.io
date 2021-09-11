@@ -53,15 +53,14 @@ kanban-plugin: basic
 - [ ] “Disarming the Narcissist”
 - [ ] _In Sheep's Clothing: Understanding and Dealing with Manipulative People_
 - [ ] “Becoming a Narcissist Nightmare” by Shahida Arabi.
-- [ ] the sociology of the nobel prize
+- [ ] the sociology of the nobel prize - https://www.jstor.org/stable/24926171 
 - [ ] Time Off: A Practical Guide to Building Your Rest Ethic and Finding Success Without the Stress
-- [ ] Make It Matter book
+- [ ] Make It Matter book ?
 - [ ] Expressive Writing: Words That Heal
 - [ ] the hungry mind - origins of curiosity in childhood
 - [ ] the black swan - nassim taleb
 - [ ] shape jordan ellenberg
 - [ ] Awaken the Giant Within by Anthony Robbins.
-- [ ] The Sun is Also a Star - Nicola Yoon
 - [ ] Blindness by Jose Saramago.
 - [ ] Invisible Monsters by Chuck Palahniuk
 - [ ] the radium girls
@@ -135,7 +134,7 @@ kanban-plugin: basic
 - [ ] The House on the Cerulean Sea by TJ Klune is all about personal growth and radical acceptance and might be my favorite new book in 
 - [ ] piranesi
 - [ ] It's About Damn Time: How to Turn Being Underestimated into Your Greatest Advantage
-- [ ] Interview by Sophie Roell
+- [ ] Interview by Sophie Roell ?
 - [ ] Piranesi by Susanna Clarke and Chiwetel Ejiofor (narrator)
 - [ ] The Autobiography of Malcolm X by Malcolm X and assisted by Alex Haley, Laurence Fishburne (narrator)
 - [ ] The City We Became: A Novel (The Great Cities Trilogy) by N.K. Jemisin & Robin Miles (narrator)
