@@ -35,54 +35,12 @@ kanban-plugin: basic
 - [ ] The War of the Gazelle by Aisha Ibrahim ? 
 - [ ] Destinies: Concerto of the Holocaust and the Nakba by Rabai al-Madhoun ? 
 - [ ] The Mahzur by Dr. Henana Berjes ? 
+- [ ] Jouster series by Mercedes Lackey ?
+- [ ] The Tower of Shereen ? 
+- [ ] Ouroboros by Wael Abdelgawad ?
 
 ## in list - not yet added to storygraph
 
-- [ ] The Tower of Shereen ? 
-- [ ] Musa and the Blade by Q. Abdulllah Muhammad
-- [ ] The Light at the Bottom of the World by London Shah
-- [ ] The Forbidden Wish by Jessica Khoury
-- [ ] The Gilded Ones by Namina FOrna
-- [ ] Ouroboros by Wael Abdelgawad ?
-- [ ] The Jealous by Laury Silvers
-- [ ] Arabian Love Poems by Inzar Kabbani
-- [ ] The Labyrinth's Archivist by Day al-Mohamed
-- [ ] Utopia by Ahmed Khaled Towfik
-- [ ] Tied to Deceit by Neena H. Brar
-- [ ] The Tiger at Midnight by Swati Teerdhala
-- [ ] The Corpse Exhibition by Hassan Blasim
-- [ ] When Gravity Fails by George Alec Effinge
-- [ ] 1001 Nights
-- [ ] A Taste of Honey by Kai Ashante Wilson
-- [ ] The Bird King
-- [ ] Empire of Sand
-- [ ] The Faded Sun Trilogy by C.J. Cherryh
-- [ ] Engraved on the Eye by Saladin Ahmed
-- [ ] Court of Fives by Kate Elliott
-- [ ] Jouster series by Mercedes Lackey
-- [ ] Rebel of the Sands by Alwyn Hamilton
-- [ ] Ember in the Ashes
-- [ ] The Dervish House by Ian McDonald
-- [ ] "City of Screams" by James Rollins
-- [ ] Some of Italo Calvino's stories
-- [ ] The graphic novel Infidel by Pornsak Pichetshote
-- [ ] The Arabesk Trilogy by John Courtenay Greenwood
-- [ ] Osama by Lavie Tidhar
-- [ ] The Watch by Joydeep Roy-Bhattacharya Hogarth
-- [ ] Alif the Unseen by G. Willow Wilson
-- [ ] The Palace of Dreams by Ismail Kadare
-- [ ] The Lions of Al-Rassan
-- [ ] Years of Rice and Salt by Kim Stanley Robinson
-- [ ] Red Mars trilogy (some themes) by Kim Stanley Robinson
-- [ ] Mechanical Sky books by Donald Moffitt
-- [ ] Centenal series by Malka Older
-- [ ] Bel Dame Apocrypha by Kameron Hurley
-- [ ] The White Castle by Orhan Pamuk
-- [ ] Vathek by William Beckford
-- [ ] The Haunting of Tram Car 015 by P. Djeli Clark
-- [ ] Zendegi by Greg Egan
-- [ ] Arabesk trilogy by Jon Courtenay Grimwood
-- [ ] Dune by Frank Herbert (duh)
 - [ ] The Song of the Shattered Sands series by Bradley Beaulieu
 - [ ] The Hamzanama
 - [ ] The Walking Drum by Louis L'Amour
@@ -142,34 +100,24 @@ kanban-plugin: basic
 - [ ] Courtship Rite (1982) by Donald Kingsbury 
 - [ ] Hugo Award Nominee for Best Novel 
 - [ ] > Jo Walton remarked that Courtship Rite "is about a distant generation of colonists on a planet with no usable animals. This is the book with everything, where everything includes cannibalism, polyamory, evolution & getting tattoos so your skin will make more interesting leather when youre dead."
-- [ ] The Destructives by Matthew De Abaitua. I would put him under the sci-fi with more of a literary prose bent category. I liked this book because I thought it had a weird but well thought out post-singularity plot. That being said, it's been a while since I read it, so I'm fuzzy on the plot. It's got super intelligence's destroying most of the world (accidentally), weird drugs, advertising in the post singularity world, and pre singularity Silicon Valley types surviving out in Neptune I think. I guess I should probably reread it.
-- [ ] VURT
 - [ ] "Dancers at the End of Time." - Michael Moorcock
 - [ ] Ware Tetralogy by Rudy Rucker
 - [ ] _The Fortunate Fall_ by Raphael Carter. It's a cyberpunk novel set in a 22nd-century Russia that is apparently run not by AI, but by unconscious algorithms that no one understands or is able to resist. Such a well-written and profoundly unsettling novel.
 - [ ] Spider Robinsons Callahans Crosstime Saloon series.
-- [ ] Remnant Population by Elizabeth Moon.
-- [ ] When a colony is abandoned and its human population relocated back to Earth, the elderly Ofelia prefers to remain behind, eventually making contact with an intelligent native species. When the human authorities discover the existence of the natives and return, Ofelia has to step in to help humans and aliens reach an understanding.
-- [ ] Total Eclipse by John Brunner: An expedition to a nearby star seeks to discover what killed off the native species, in hopes of preventing the destruction of humanity. Xenoarchaeology & psychology take center stage, while the colonists fight to convince the Earth authorities to continue funding the expedition and allow the team to work unfettered, while struggling to survive in an alien environment.
 - [ ] _The Engines of God_ by Jack McDevitt
 - [ ] Mike Resnick Tales of the Galactic Sideshow series,  Santiago, the best space western ever written.
 - [ ] Half Past Human and The Godwhale by TJ Bass
 - [ ] Silver Metal Lover by Tanith Lee.
 - [ ] Michael Flynn book to the list, The Wreck of the River of Stars
 - [ ] Exercised: Why Something We Never Evolved to Do Is Healthy and Rewarding
-- [ ] Homer
-- [ ] The Iliad (Greek, 8th BCE)
 - [ ] The Odyssey (Greek, 8th BCE)
 - [ ] Virgil, The Aeneid (Latin, 29-19 BCE)
-- [ ] The Bible
 - [ ] Dante Alighieri, Comedia/The Divine Comedy (Italian, 1308-1320)
 - [ ] Chaucer, Canterbury Tales (English, 1475)
 - [ ] Loves Labours Lost (English, 1597)
 - [ ] King Lear (English, 1606)
-- [ ] Macbeth (English, 1611)
 - [ ] Miguel de Cervantes, Don Quixote (Spanish, 1605)
 - [ ] Moliere, The Misanthrope (French, 1666)
-- [ ] John Milton, Paradise Lost (English, 1667)
 - [ ] James Boswell, The Life of Samuel Johnson (English, 1791)
 - [ ] Johann Wolfgang von Goethe, Faust (German, 1772-1790)
 - [ ] William Wordsworth
@@ -196,7 +144,6 @@ kanban-plugin: basic
 - [ ] Murphy (English, 1938)
 - [ ] Waiting for Godot (English, 1953)
 - [ ] Maria Vale's Wolf Series.
-- [ ] Maggie Stiefvater's Scorpio Races
 - [ ] Bring on the Blessings, Beverly Jenkins
 - [ ] Cat Sebastian
 - [ ] T. Kingfisher
@@ -215,7 +162,6 @@ kanban-plugin: basic
 - [ ] Cormac McCarthy  The Road
 - [ ] Dave Eggers  The Circle
 - [ ] Erin Morgenstern  The Night Circus
-- [ ] Robert Galbraith (J.K. Rowling)  The Cuckoos Calling
 - [ ] Paul Strathern  Any Five books in his Philosophers in 90 Minutes Series
 - [ ] David Mitchell  Slade House
 - [ ] Kurt Vonnegut  Cats Cradle
@@ -249,7 +195,6 @@ kanban-plugin: basic
 - [ ] Ian McEwan  Atonement
 - [ ] BIG William Shakespeare  Julius Caesar
 - [ ] Arthur Miller  Death of a Salesman
-- [ ] Homer  Odyssey
 - [ ] Plato  Symposium
 - [ ] C.G. Jung  The Undiscovered Self
 - [ ] Alan Moore  From Hell
@@ -267,67 +212,1017 @@ kanban-plugin: basic
 - [ ] John Barth  The Floating Opera
 - [ ] James Joyce  Dubliners
 - [ ] Shusaku Endo  Silence
-- [ ] Isaac Asimov  I, Robot
-- [ ] Shan Sa  The Girl Who Played Go
-- [ ] Ha Jin  Waiting
-- [ ] David Mitchell  Ghostwritten
-- [ ] W. Somerset Maugham  The Razors Edge
-- [ ] Dave Eggers  Your Fathers, Where Are They? And The Prophets, Do They Live Forever?
-- [ ] David Foster Wallace  Brief Interviews with Hideous Men
-- [ ] Sophocles  Oedipus Rex
-- [ ] Oscar Wilde  The Importance of Being Earnest
-- [ ] Tennessee Williams  The Glass Menagerie
-- [ ] Unknown  Beowulf
-- [ ] BIG Homer  Iliad
-- [ ] Dante  Inferno
-- [ ] Alan Moore  Watchmen
-- [ ] Morton Hunt  The Story of Psychology
-- [ ] Sigmund Freud  On Dreams
-- [ ] Plato  Republic
-- [ ] Eric Hoffer  The True Believer: Thoughts on the Nature of Mass Movements
-- [ ] Elie Wiesel  Night
-- [ ] George Orwell  Homage to Catalonia
-- [ ] Jean-Jacque Rousseau  The Social Contract
-- [ ] Gabriel Garcia Marquez  One Hundred Years of Solitude
-- [ ] Charles Dickens  Great Expectations
-- [ ] Dave Eggers  A Hologram for the King
-- [ ] David Mitchell  Cloud Atlas
-- [ ] Christopher Isherwood  A Single Man
-- [ ] Daniel Kehlmann  F
-- [ ] Roddy Doyle  The Woman Who Walked Into Doors
-- [ ] David Mitchell  The Bone Clocks
-- [ ] Stefan Zweig  Chess Story
-- [ ] Christopher Isherwood  A Meeting by the River
-- [ ] John Fowles  The Collector
-- [ ] John Fante  1933 Was A Bad Year
-- [ ] Sophocles  Antigone
-- [ ] Kobo Abe  The Woman in the Dunes
-- [ ] Franz Kafka  The Metamorphosis
-- [ ] Charles Dickens  David Copperfield
-- [ ] Eugene O'Neill  Long Days Journey Into Night
-- [ ] Euripides  Medea
-- [ ] William Shakespeare  Othello
-- [ ] BIG John Milton  Paradise Lost
-- [ ] William Shakespeare  Hamlet
-- [ ] Friedrich von Schiller  Mary Stuart
-- [ ] William Shakespeare  King Lear
-- [ ] Friedrich Nietzsche  Thus Spoke Zarathustra
-- [ ] William Shakespeare - Coriolanus
-- [ ] Kahil Gibran  The Prophet
-- [ ] Fyodor Dostoevsky  Notes from Underground
-- [ ] Michio Kaku  The Future of the Mind
-- [ ] Richard Dawkins  The Selfish Gene
-- [ ] William Faulkner  The Sound and the Fury
-- [ ] Truman Capote  In Cold Blood
-- [ ] Franz Kafka  The Trial
-- [ ] Cormac McCarthy  Blood Meridian
-- [ ] Thomas Pynchon  The Crying of Lot 49
-- [ ] Aldous Huxley  Ape and Essence
-- [ ] Haruki Murakami  Kafka on the Shore
-- [ ] John Barth  The Sot-Weed Factor
-- [ ] Mark Twain  The Adventures of Huckleberry Finn
-- [ ] Knut Hamsun  Hunger
+The End of Overeating: Taking Control of the Insatiable American Appetite
 
+Prince of Thorns
+
+Shy Radicals: The Antisystemic Politics of the Militant Introvert
+
+Clean Code: A Handbook of Agile Software Craftsmanship
+
+Pandemic!: Covid-19 Shakes the World
+
+How to Win Friends and Influence People
+
+Brotopia: Breaking Up the Boys' Club of Silicon Valley
+
+Yes Please
+
+Spinning Silver
+
+Good Sugar Bad Sugar: Eat Yourself Free from Sugar and Carb Addiction
+
+The Spartan Court
+
+Burnout: Beat Fatigue to Thrive in an Overworked World (City Plans)
+
+Mindless Eating: Why We Eat More Than We Think
+
+The Immortal Life of Henrietta Lacks
+
+Middlegame
+
+Domain-Driven Design: Tackling Complexity in the Heart of Software
+
+The Eye of the World
+
+An Unkindness of Magicians
+
+Eyes of the Tailless Animals: Prison Memoirs of a North Korean Woman
+
+The Nightingale
+
+No Bad Kids: Toddler Discipline Without Shame
+
+The Black Prism
+
+The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos
+
+The Egg
+
+Apology of Socrates/Crito/The Republic
+
+The Wander Society
+
+Matched
+
+Everything Under
+
+The Natural World
+
+The Ninth Rain
+
+The Name of the Wind
+
+Five Children and It
+
+The Hate U Give
+
+War and Peace
+
+Design Patterns: Elements of Reusable Object-Oriented Software
+
+Refactoring: Improving the Design of Existing Code
+
+Gone Girl
+
+Lonesome Dove
+
+Ulysses
+
+Signs and Symbols (Stories of Vladimir Nabokov)
+
+The Emotional Eating Workbook: A Proven-Effective, Step-by-Step Guide to End Your Battle with Food and Satisfy Your Soul
+
+The Hobbit: Graphic Novel
+
+The Art of Being Grateful & Other Short Stories
+
+The Analects of Confucius
+
+The Problems of Philosophy
+
+Ramayana for Children
+
+Between the World and Me
+
+Seveneves
+
+Internment
+
+Thinking, Fast and Slow
+
+Mahabharata
+
+The Pale King
+
+The Ramayana: A Shortened Modern Prose Version of the Indian Epic
+
+The Power
+
+Works by Mikhail Bulgakov: The Master and Margarita
+
+Middlemarch
+
+In the Shadow of the Warlock Lord
+
+American Ways: A Guide for Foreigners in the United States
+
+Crooked Kingdom
+
+The Hakawati
+
+Nightblood
+
+Engraved on the Eye
+
+Cards on the Table
+
+The Naturalist
+
+Meet the Little Prince
+
+Crossed
+
+Buddhism for Mothers: A Calm Approach to Caring for Yourself and Your Children
+
+Choices: Inside the Making of Indian Foreign Policy
+
+The Story of Zahra
+
+Blindness
+
+Feeling Good: The New Mood Therapy
+
+Black Beauty
+
+Toxic Femininity in the Workplace: Office Gender Politics Are a Battlefield
+
+HBR Guide to Your Professional Growth
+
+Cleopatra
+
+The Woman Who Walked Into Doors
+
+A Burning
+
+Digital Fortress
+
+In Sheep's Clothing: Understanding and Dealing with Manipulative People
+
+Ragged Alice
+
+The Great Mental Models: General Thinking Concepts
+
+Food Junkies: The Truth About Food Addiction
+
+A Slip under the Microscope
+
+Gingerbread
+
+The Rise and Fall of the Dinosaurs: A New History of a Lost World
+
+Le Petit Nicolas
+
+I Have No Mouth & I Must Scream
+
+The Grapes of Wrath
+
+Radio Silence
+
+Is Everyone Hanging Out Without Me? (And Other Concerns)
+
+Do Androids Dream of Electric Sheep?
+
+Self-Knowledge
+
+The Gauntlet
+
+The Hungry Brain: Outsmarting the Instincts That Make Us Overeat
+
+The Handmaid's Tale: The Graphic Novel
+
+The Silence of the Girls
+
+A Framework for Understanding Poverty
+
+Bright Air Black
+
+The Defining Decade: Why Your Twenties Matter--And How to Make the Most of Them Now
+
+A Mosque Among the Stars
+
+Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened
+
+Twenty Love Poems and a Song of Despair
+
+The Foundation Trilogy
+
+Milkman
+
+But What If We're Wrong? Thinking About the Present As If It Were the Past
+
+Wide Awake: The Goddess Chronicles Book 1
+
+More Myself: A Journey
+
+The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+
+A Thousand Splendid Suns
+
+The Left Hand of Darkness
+
+The Cabin at the End of the World
+
+Coriolanus
+
+The Oresteia: Agamemnon, The Libation Bearers, The Eumenides
+
+The Lions of Al-Rassan
+
+A Deadly Education
+
+The Faded Sun Trilogy
+
+Kurt Vonnegut: The Last Interview and Other Conversations
+
+Blood Meridian, or the Evening Redness in the West
+
+First King of Shannara
+
+The Horse and His Boy
+
+The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work
+
+Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil War to World War II
+
+A Clash of Kings
+
+Why Loiter?: Women and Risk on Mumbai Streets
+
+A Game of Thrones
+
+Think and Grow Rich
+
+King Lear
+
+The Plum in the Golden Vase or, Chin P'ing Mei: Vol. One: The Gathering
+
+Circe and the Cyclops
+
+Scream Free Parenting
+
+Fool's Assassin
+
+Empire of Sand
+
+The Hunger Games
+
+Free Will
+
+A Sleight of Shadows
+
+Der Kleine Prinz. Miniaturausgabe
+
+The Hero of Ages
+
+The Life and Times of Hercule Poirot
+
+Divergent Series Complete Box Set
+
+Burn for Me
+
+Things Fall Apart
+
+A Vindication of the Rights of Woman
+
+Rise of the Warrior Cop: The Militarization of America's Police Forces
+
+Stoner
+
+Animal Farm
+
+Ender's Game
+
+The Wonderful Wizard Of Oz
+
+The Diary of a Young Girl
+
+Kâbus
+
+Habit Swap: Trade In Your Unhealthy Habits for Mindful Ones
+
+Lord of the Flies
+
+Ducks, Newburyport
+
+Clean Architecture
+
+Call Down the Hawk
+
+Dream, Plan, and Go: A Travel Guide to Inspire Your Independent Adventure
+
+Utopia
+
+Trident
+
+Allen Carr's Easyweigh to Lose Weight
+
+Digital Minimalism: Choosing a Focused Life in a Noisy World
+
+The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It
+
+A Closed and Common Orbit
+
+When Anger Hurts Your Kids: A Parent's Guide
+
+Jane Eyre
+
+The Reddening
+
+The Shadows
+
+It Doesn't Have to Be Crazy at Work
+
+Eragon
+
+Flow: The Psychology of Optimal Experience
+
+Expressive Writing: Words That Heal
+
+Hyperion / The Fall of Hyperion / Endymion / Rise of Endymion
+
+The Ice Master
+
+Finite and Infinite Games: A Vision of Life as Play and Possibility
+
+Sexual Politics
+
+Philosophical Investigations
+
+Brief Interviews with Hideous Men
+
+The Scholars
+
+The Persistence of Caste: The Khairlanji Murders and India's Hidden Apartheid
+
+Night
+
+The Talent Code: Unlocking the Secret of Skill in Sports, Art, Music, Math, and Just About Everything Else
+
+Recursion
+
+The Day Boy and the Night Girl
+
+Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity
+
+The Lucifer Effect: Understanding How Good People Turn Evil
+
+1001 Ideas That Changed the Way We Think
+
+House of Salt and Sorrows
+
+De Niro's Game
+
+Looking for Alaska
+
+The Complete Maus
+
+Salt Houses
+
+Hyperion
+
+Dear Ijeawele, or a Feminist Manifesto in Fifteen Suggestions
+
+The Buried Giant
+
+Strengths Finder 2.0
+
+Six Wakes
+
+Think and Grow Rich for Women: Using Your Power to Create Success and Significance
+
+The Handmaid's Tale
+
+Sapiens: A Brief History of Humankind
+
+The Fixer
+
+1-2-3 Magic: Effective Discipline for Children 2-12
+
+Sleeping Beauties
+
+The Honest Truth About Dishonesty: How We Lie to Everyone - Especially Ourselves
+
+Voices from Chernobyl: The Oral History of a Nuclear Disaster
+
+I Know Why the Caged Bird Sings
+
+The Invisible Orientation: An Introduction to Asexuality
+
+The Amber Spyglass
+
+Am I Ugly?
+
+Henry IV: Part 1
+
+Your Code As a Crime Scene: Use Forensic Techniques to Arrest Defects, Bottlenecks, and Bad Design in Your Programs
+
+Against Our Will: Men, Women and Rape
+
+2001: A Space Odyssey
+
+The Triumph of Seeds: How Grains, Nuts, Kernels, Pulses, and Pips Conquered the Plant Kingdom and Shaped Human History
+
+Pedro Páramo
+
+The Dead Girls Club
+
+All You Zombies
+
+The Language of Literature
+
+Voice Lessons for Parents: What to Say, How to Say it, and When to Listen
+
+Code Complete
+
+The Curious Incident of the Dog in the Night-Time
+
+Extracted
+
+Everlost
+
+Zero K
+
+Women in Tech: Practical Advice and Inspiring Stories from Successful Women in Tech to Take Your Career to the Next Level
+
+Starsight
+
+The Sun and Her Flowers
+
+Home and Work: Negotiating Boundaries through Everyday Life
+
+Edgedancer
+
+Six of Crows
+
+A Philosophy of Software Design
+
+The Forbidden Wish
+
+The Outsider
+
+The Old Man Who Read Love Stories
+
+Homo Deus: A History of Tomorrow
+
+Running with the Demon
+
+The Martian Chronicles
+
+Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+
+Hild
+
+Why We Buy: The Science of Shopping
+
+The Hungry Mind: The Origins of Curiosity in Childhood
+
+Life of Pi
+
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+
+It's About Damn Time: How to Turn Being Underestimated Into Your Greatest Advantage
+
+Big Summer
+
+Still Me
+
+Eugene Onegin: A Novel in Verse by Alexander Pushkin
+
+Borne
+
+The Scions of Shannara
+
+The Silent Patient
+
+9780190605001
+
+Down Girl: The Logic of Misogyny
+
+When the Moon Was Ours
+
+The Discovery of India
+
+The 4-Hour Workweek
+
+Don't Shoot the Dog!: The New Art of Teaching and Training
+
+Bottle of Lies : Ranbaxy and the Dark Side of Indian Pharma
+
+The Mothers
+
+On Tyranny: Twenty Lessons from the Twentieth Century
+
+The Story of the Amulet
+
+The Female Persuasion
+
+The Arabesk Trilogy
+
+The Labyrinth's Archivist
+
+Memories Of Anne Frank: Reflections of a Girlhood Friend
+
+I Hope You Get This Message
+
+Cheating Monkeys and Citizen Bees: The Nature of Cooperation in Animals and Humans
+
+Alice's Adventures in Wonderland / Through the Looking-Glass
+
+Ink
+
+Oathbringer
+
+The Russian Question at the End of the Twentieth Century
+
+Utopia, LOL?
+
+Everybody Loves a Good Drought
+
+Just Enough Software Architecture: A Risk-Driven Approach
+
+Suffer Little Children (Black Shuck Shadows Book 13)
+
+The Art of Happiness
+
+The Dispossessed
+
+The Bone Ships
+
+There Will Come Soft Rains
+
+The Girl and the Stars
+
+King Kong Theory
+
+The Cruel Prince
+
+Arcadia
+
+The Migration
+
+Getting Things Done: The Art of Stress-Free Productivity
+
+Let's Talk Money
+
+Descartes' Error: Emotion, Reason and the Human Brain
+
+The Hobbit, or There and Back Again
+
+The Life You Can Save: Acting Now to End World Poverty
+
+The Snows of Kilimanjaro
+
+The Sound and the Fury
+
+Predictably Irrational: The Hidden Forces That Shape Our Decisions
+
+The Catcher in the Rye
+
+The Gulag Archipelago 1918–1956
+
+The Fairy-Tale Detectives
+
+The Psychology of Money
+
+The Martian
+
+High Performance Browser Networking
+
+The Help
+
+Illustrated Family Encyclopedia
+
+Woman Hating
+
+The Yellow Wallpaper
+
+Uglies
+
+If I Had Your Face
+
+The Railway Children
+
+The Song of Achilles
+
+Brandwashed
+
+Invisible Monsters
+
+The Romance of the Three Kingdoms
+
+1984 and Animal Farm: George Orwell's Classics
+
+Pax Indica: India and the World of the 21st Century
+
+American Gods
+
+SOLID: The Software Design and Architecture Handbook
+
+The Secret Garden
+
+Charlatan: The Fraudulent Life of John Brinkley
+
+Your Money and Your Brain
+
+Neuromancer
+
+Snow Crash
+
+Anatomy of Terror: From the Death of bin Laden to the Rise of the Islamic State
+
+Two Treatises of Government
+
+Psycho-Cybernetics, A New Way to Get More Living Out of Life
+
+Leo the African
+
+The Art of Self-Directed Learning: 23 Tips for Giving Yourself an Unconventional Education
+
+Exhalation: Stories
+
+Anna Karenina
+
+Influence: The Psychology of Persuasion
+
+In Pursuit of the Unknown: 17 Equations That Changed the World
+
+Women Heroes and Dalit Assertion in North India: Culture, Identity and Politics
+
+No Visible Bruises: What We Don't Know About Domestic Violence Can Kill Us
+
+Extracts From: The Second Sex
+
+My Brilliant Friend
+
+Selected Stories by H.G. Wells (Masterpieces of World Fiction, #12)
+
+Angels & Demons
+
+Unsouled
+
+Apex Magazine Issue 105, February 2018
+
+Technology After Capitalism
+
+The Great Gatsby
+
+Anne Frank: The Biography
+
+The First 90 Days: Critical Success Strategies for New Leaders at All Levels
+
+Secrets of a Charmed Life
+
+Thus Spoke Zarathustra
+
+An American Marriage
+
+The Divide: American Injustice in the Age of the Wealth Gap
+
+The Black Swan: The Impact of the Highly Improbable
+
+Red Rising
+
+Tied to Deceit
+
+This Is How: Proven Aid in Overcoming Shyness, Molestation, Fatness, Spinsterhood, Grief, Disease, Lushery, Decrepitude & More. For Young and Old Alike.
+
+The Beautiful Poetry of Donald Trump
+
+Homeland Elegies
+
+She Said: Breaking the Sexual Harassment Story That Helped Ignite a Movement
+
+Unwind
+
+A Meeting by the River
+
+Golden Son
+
+Spaceman of Bohemia
+
+The Mental Load: A Feminist Comic
+
+The Hope of Elantris
+
+Schindler's List
+
+Lilac Girls
+
+A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution
+
+The Bird King
+
+Vox
+
+The Imperial Radch Boxed Trilogy: Ancillary Justice, Ancillary Sword, and Ancillary Mercy
+
+Fall and Rise: The Story of 9/11
+
+The Joy of Being Selfish: Why you need boundaries and how to set them
+
+Wings of Fire: An Autobiography
+
+The Elements of Eloquence: How to Turn the Perfect English Phrase
+
+Women & Power: A Manifesto
+
+Zen Pencils: Dream the Impossible Dream - Volume Two
+
+Les Misérables
+
+The Lion, the Witch and the Wardrobe
+
+Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead
+
+Till We Have Faces
+
+The Vanishing Stair
+
+The Art of Communicating
+
+The Haunting of Hill House
+
+The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
+
+Scar
+
+Venomous Touch: Notes on Caste, Culture and Politics
+
+And the Mountains Echoed
+
+After the Eclipse
+
+Monkey: The Journey to the West
+
+10 Minutes 38 Seconds in this Strange World
+
+Arabian Love Poems
+
+The Power of Positive Thinking
+
+The Patient Assassin SIGNED EDITION: A True Tale of Massacre, Revenge and the Raj
+
+A Programmer's Introduction to Mathematics
+
+The Ocean at the End of the Lane
+
+The Color Purple
+
+Matilda
+
+Imperial Life in the Emerald City: Inside Iraq's Green Zone
+
+Leviathan
+
+David Copperfield
+
+Midnight's Machines: A Political History of Technology in India
+
+The Fault in Our Stars
+
+The Magician's Nephew
+
+The Dervish House
+
+When Gravity Fails
+
+Man's Search for Meaning
+
+Deception Point
+
+The Sot-Weed Factor
+
+The Subtle Art of Not Giving a F*ck
+
+Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values
+
+Ain't I a Woman: Black Women and Feminism
+
+Dream of the Red Chamber
+
+The Creators: A History of Heroes of the Imagination
+
+Spark
+
+Otared
+
+Haunted by Fire: Essays on Caste, Class, Exploitation and Emancipation
+
+The King Must Die
+
+Guapa
+
+Brave New World
+
+The 7½ Deaths of Evelyn Hardcastle
+
+Switch: How to Change Things When Change Is Hard
+
+A Curse So Dark and Lonely
+
+Bullshit Jobs: A Theory
+
+The Pianist: The Extraordinary Story of One Man's Survival in Warsaw, 1939–45
+
+The Arabian Nights: Tales of 1001 Nights, Volume 1 of 3
+
+Zen: The Art of Simple Living
+
+Throne of the Crescent Moon
+
+Welcome to Your Authentic Indian Experience
+
+Slaughterhouse-Five
+
+The Nickel Boys
+
+The Lovely Bones
+
+Ape and Essence
+
+Does the Elephant Dance? Contemporary Indian Foreign Policy
+
+Reached
+
+Dalit Panthers: An Authoritative History
+
+Little Brother
+
+Ender's Game, Volume 1: Battle School
+
+Wanderers
+
+Khushwantnama: The Lessons of My Life
+
+When I Say No, I Feel Guilty: How to Cope - Using the Skills of Systematic Assertive Therapy
+
+Nice Girls Don't Get the Corner Office: 101 Unconscious Mistakes Women Make That Sabotage Their Careers
+
+The Jealous: A Sufi Mystery
+
+The Kite Runner
+
+The Tipping Point: How Little Things Can Make a Big Difference
+
+Taming Your Gremlin: A Surprisingly Simple Method for Getting Out of Your Own Way
+
+Gardens of the Moon
+
+Cryptonomicon
+
+Eleanor & Park
+
+The Poisonwood Bible
+
+The Count of Monte Cristo
+
+Full Disclosure
+
+Troy
+
+What We Talk About When We Talk About Love
+
+The Social Contract
+
+Bossypants
+
+Trick or Treatment: The Undeniable Facts about Alternative Medicine
+
+Ask for It: How Women Can Use the Power of Negotiation to Get What They Really Want
+
+59 Seconds: Think a Little, Change a Lot
+
+The Now Habit: A Strategic Program for Overcoming Procrastination and Enjoying Guilt-Free Play
+
+The Last Question
+
+Quiet: The Power of Introverts in a World That Can't Stop Talking
+
+Gender Queer: A Memoir
+
+Writers & Lovers
+
+The Plague Stones
+
+Ponies
+
+The Cranky Mom Fix: How to Get a Happier, More Peaceful Home by Slaying the Momster in All of Us
+
+Beyond The Last Blue Mountain: A Life Of J. R. D. Tata
+
+City of Screams
+
+The Chronicles of Narnia
+
+From the Ruins of Empire: The Revolt Against the West and the Remaking of Asia
+
+Freakonomics: A Rogue Economist Explores the Hidden Side of Everything
+
+A Whack on the Side of the Head: How You Can Be More Creative
+
+Penpal
+
+Cat Pictures Please and Other Stories
+
+The Burnout Society
+
+Home: Habitat, Range, Niche, Territory
+
+Bleeding Edge
+
+STET
+
+The Bone Clocks
+
+Documenting dissent: Contesting fables, contested memories, and dalit political discourse
+
+The Metamorphosis
+
+Site Reliability Engineering: How Google Runs Production Systems
+
+Lavinia
+
+The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory
+
+The New Jim Crow: Mass Incarceration in the Age of Colorblindness
+
+Harrison Bergeron
+
+The Scorpio Races
+
+Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School
+
+Remote: Office Not Required
+
+The Water Margin: Outlaws of the Marsh
+
+Ormeshadow
+
+The Joining
+
+Seneca de IRA - Seneca on Anger Translation: Seneca de IRA - Seneca on Anger Translation Fulltext
+
+Great Thinkers: Simple Tools from 60 Great Thinkers to Improve Your Life Today
+
+Accelerate: Building and Scaling High-Performing Technology Organizations
+
+Fahrenheit 451
+
+A Little Hatred
+
+Waiting for Godot
+
+Gödel's Proof
+
+Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones
+
+The Shadow of What Was Lost
+
+The Power of Now: A Guide to Spiritual Enlightenment
+
+Space Invaders
+
+9781473577251
+
+The Boy, the Mole, the Fox, and the Horse
+
+Alice's Adventures in Wonderland
+
+Society of the Mind
+
+The Subtle Knife
+
+Classic Science Fiction Stories
+
+The Autobiography of Malcolm X
+
+Musa And The Blade (Miraath Al-Kabeer Book 1)
+
+No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State
+
+A Fine Balance
+
+Stardust
+
+Not That Bad: Dispatches from Rape Culture
+
+JavaScript: The Good Parts
+
+The Collector
+
+Speech Sounds
 ## Snippetised  
 
 - [ ] [[4-hour workweek]]
