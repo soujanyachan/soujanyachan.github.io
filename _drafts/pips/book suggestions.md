@@ -27,31 +27,23 @@ kanban-plugin: basic
 - [ ] Red Mihrab by J. Austin Yoshino ?
 - [ ] The Second War of the Dog ?
 - [ ] Trilogy of Science Fiction by Larissa Sansour ?
+- [ ] The Last Days of the Pasha by Rasha Adly ?
+- [ ] The Russian Quarter by Khalil Alrez ?
+- [ ] Al-Mutanabbi's Rabat by Hassan Aourid ? 
+- [ ] The King of India by Jabbour Douaihy ?
+- [ ] Hammam Dhabab by Mohammed Eissa al-Mu'adab/Mohammed Eissa Mouaddeb ? 
+- [ ] The War of the Gazelle by Aisha Ibrahim ? 
+- [ ] Destinies: Concerto of the Holocaust and the Nakba by Rabai al-Madhoun ? 
+- [ ] The Mahzur by Dr. Henana Berjes ? 
 
 ## in list - not yet added to storygraph
 
-- [ ] The Last Days of the Pasha by Rasha Adly ?
-- [ ] The Spartan Court by Abdelouahab al-Alawi
-- [ ] The Russian Quarter by Khalil Alrez
-- [ ] Al-Mutanabbi's Rabat by Hassan Aourid
-- [ ] The King of India by Jabbour Douaihy
-- [ ] Hammam Dhabab by Mohammed Eissa al-Mu'adab/Mohammed Eissa Mouaddeb
-- [ ] The War of the Gazelle by Aisha Ibrahim
-- [ ] Destinies: Concerto of the Holocaust and the Nakba by Rabai al-Madhoun
-- [ ] The Mahzur by Dr. Henana Berjes
-- [ ] We Hunt the Flame (Sands of Arawiya series) by Hafsah Faizal
-- [ ] The Weight of OUr SKy by Hanna Alkaf
-- [ ] Internment by Samira Ahmed
-- [ ] The Tower of Shereen
-- [ ] The Candle and the Flame by Nafiza Azad
-- [ ] The Gauntlet series by Karuna Riazi
-- [ ] The Blood of Stars series by Elizabeth Lim
-- [ ] Star Daughter by Shveta Thakrar
+- [ ] The Tower of Shereen ? 
 - [ ] Musa and the Blade by Q. Abdulllah Muhammad
 - [ ] The Light at the Bottom of the World by London Shah
 - [ ] The Forbidden Wish by Jessica Khoury
 - [ ] The Gilded Ones by Namina FOrna
-- [ ] Ouroboros by Wael Abdelgawad
+- [ ] Ouroboros by Wael Abdelgawad ?
 - [ ] The Jealous by Laury Silvers
 - [ ] Arabian Love Poems by Inzar Kabbani
 - [ ] The Labyrinth's Archivist by Day al-Mohamed
