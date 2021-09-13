@@ -30,9 +30,7 @@ kanban-plugin: basic
 
 ## in list - not yet added to storygraph
 
-- [ ] Triangulum by Masande Ntshanga
-- [ ] Shy Radicals by Hamja Ahsan
-- [ ] The Last Days of the Pasha by Rasha Adly
+- [ ] The Last Days of the Pasha by Rasha Adly ?
 - [ ] The Spartan Court by Abdelouahab al-Alawi
 - [ ] The Russian Quarter by Khalil Alrez
 - [ ] Al-Mutanabbi's Rabat by Hassan Aourid
@@ -174,10 +172,7 @@ kanban-plugin: basic
 - [ ] The Bible
 - [ ] Dante Alighieri, Comedia/The Divine Comedy (Italian, 1308-1320)
 - [ ] Chaucer, Canterbury Tales (English, 1475)
-- [ ] Shakespeare
 - [ ] Loves Labours Lost (English, 1597)
-- [ ] Hamlet (English, 1603)
-- [ ] Othello (English, 1604)
 - [ ] King Lear (English, 1606)
 - [ ] Macbeth (English, 1611)
 - [ ] Miguel de Cervantes, Don Quixote (Spanish, 1605)
@@ -330,12 +325,6 @@ kanban-plugin: basic
 - [ ] Fyodor Dostoevsky  Notes from Underground
 - [ ] Michio Kaku  The Future of the Mind
 - [ ] Richard Dawkins  The Selfish Gene
-- [ ] Unknown  Gilgamesh
-- [ ] Jean-Paul Sartre  No Exit
-- [ ] Fyodor Dostoevsky  The Brothers Karamazov
-- [ ] Joseph Campbell  The Power of Myth
-- [ ] The Constitution of the United States
-- [ ] The Declaration of Independence
 - [ ] William Faulkner  The Sound and the Fury
 - [ ] Truman Capote  In Cold Blood
 - [ ] Franz Kafka  The Trial
@@ -346,20 +335,6 @@ kanban-plugin: basic
 - [ ] John Barth  The Sot-Weed Factor
 - [ ] Mark Twain  The Adventures of Huckleberry Finn
 - [ ] Knut Hamsun  Hunger
-- [ ] Raymond Carver  What We Talk About When We Talk About Love
-- [ ] Milan Kundera  The Unbearable Lightness of Being
-- [ ] Samuel Beckett Waiting for Godot
-- [ ] William Shakespeare  Macbeth
-- [ ] Thucydides  The History of the Peloponnesian War
-- [ ] BIG David Foster Wallace  Infinite Jest
-- [ ] Charles Dickens  A Tale of Two Cities
-- [ ] Jorge Luis Borges  Everything and Nothing
-- [ ] Aeschylus  The Oresteia (three plays)
-- [ ] William Shakespeare  The Tempest
-- [ ] William Shakespeare  Henry IV Part I
-- [ ] Leo Tolstoy  Anna Karenina
-- [ ] Alexandr Pushkin  Eugene Onegin
-- [ ] Albert Camus  The Myth of Sisyphus
 
 ## Snippetised  
 
