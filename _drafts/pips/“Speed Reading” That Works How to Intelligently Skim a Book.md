@@ -10,4 +10,3 @@ tags:
 - pivotal points - best arguments
 - read the end
 - listen to an interview
-
