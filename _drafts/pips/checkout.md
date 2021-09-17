@@ -344,6 +344,7 @@ kanban-plugin: basic
 
 ## websites
 
+- [ ] https://www.listennotes.com/
 - [ ] https://smalldev.tools/
 - [ ] https://gobyexample.com/
 - [ ] https://excalidraw.com/
