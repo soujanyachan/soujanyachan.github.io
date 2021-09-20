@@ -393,6 +393,8 @@ kanban-plugin: basic
 - [ ] I also recommend Clear and Vivid with Alan Alda which is all about communication and it’s  so conversational that even the adds are in the form of a conversation with his producer(?). Plus, Alan Alda is awesome and he has some pretty cool guests on as well. 
 - [ ] in our time
 - [ ] https://docs.google.com/document/d/1uGUq0XAMo5qSYDMBdWOFjWBt9USoAVbWxMjsrOGJgWk/mobilebasic
+- [ ] nic jackson go
+- [ ] justforfunc go
 
 
 ## done
