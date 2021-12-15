@@ -8,6 +8,15 @@ layout: page
 
 <div class="posts-list">
   {% for post in posts %}
+  {%- if post.categories contains 'chirps' -%}
+<div style="border: black 2px; background-color: #EAEAEA; z-index: -1; border-radius: 20px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); text-align: center; padding: 5px 20px;
+margin-bottom: 30px; margin-top: 30px">
+  {% if post.title %}
+  <h3 class="post-title">{{ post.title }}</h3>
+  {% endif %}
+   {{ post.content }}
+</div>
+  {% else %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}
@@ -86,6 +95,7 @@ layout: page
     {% endif %}
 
    </article>
+  {%- endif -%}
   {% endfor %}
 </div>
 
