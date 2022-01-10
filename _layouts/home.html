@@ -44,11 +44,11 @@ margin-bottom: 30px; margin-top: 30px">
     {% endif %}
 
     <a href="{{ post.url | absolute_url }}">
-      <h2 class="post-title">{{ post.title }}</h2>
+      <h2 class="post-title">{{ post.title | strip_html }}</h2>
 
       {% if post.subtitle %}
         <h3 class="post-subtitle">
-        {{ post.subtitle }}
+        {{ post.subtitle | strip_html }}
         </h3>
       {% endif %}
     </a>
@@ -77,7 +77,7 @@ margin-bottom: 30px; margin-top: 30px">
 
     <div class="post-entry">
       {% assign excerpt_length = site.excerpt_length | default: 50 %}
-      {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length }}
+      {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
       {% assign excerpt_word_count = post.excerpt | number_of_words %}
       {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
         <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
