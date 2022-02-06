@@ -1,0 +1,83 @@
+{
+  "main": {
+    "id": "0b2ed00745b31adb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c8e286e40427382",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a9fbb0522bb444a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ddfdd42b5fc03951",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "f2ffa4b3a7f1ad72",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f87d5404f969de55",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9ddff6b5ac65ec09",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "3c8e286e40427382",
+  "lastOpenFiles": [
+    "_drafts/pips/routine.md",
+    "_drafts/pips/efficiency is a disqualification.md",
+    "_drafts/pips/gender critical - contrapoints.md",
+    "_drafts/pips/how_in_bign.md",
+    "_drafts/pips/2021-08-10T11_43_12+05_30.md",
+    "_drafts/pips/Specification gaming examples in AI.md",
+    "_drafts/pips/2021-07-05T23-18-01+05-30.md",
+    "_drafts/pips/decrypting the alt-right - how to recognise a fascist.md",
+    "_drafts/pips/smiled_anyway.md",
+    "_drafts/pips/hp lovecraft quote.md"
+  ]
+}
