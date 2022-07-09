@@ -7,8 +7,12 @@
         "id": "3c8e286e40427382",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_drafts/pips/interview_questions_to_work_fit.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -54,6 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "_drafts/pips/interview_questions_to_work_fit.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -69,15 +74,15 @@
   },
   "active": "3c8e286e40427382",
   "lastOpenFiles": [
-    "_drafts/pips/routine.md",
-    "_drafts/pips/efficiency is a disqualification.md",
-    "_drafts/pips/gender critical - contrapoints.md",
-    "_drafts/pips/how_in_bign.md",
-    "_drafts/pips/2021-08-10T11_43_12+05_30.md",
-    "_drafts/pips/Specification gaming examples in AI.md",
-    "_drafts/pips/2021-07-05T23-18-01+05-30.md",
-    "_drafts/pips/decrypting the alt-right - how to recognise a fascist.md",
-    "_drafts/pips/smiled_anyway.md",
-    "_drafts/pips/hp lovecraft quote.md"
+    "_drafts/pips/interview_questions_to_work_fit.md",
+    "_drafts/pips/ice_cream_recipe.md",
+    "_drafts/pips/10 questions to ask in a job interview that will really expose a companys culture.md",
+    "_drafts/pips/2021-09-19T23_50_21+05_30.md",
+    "_drafts/pips/Docker Tutorial for Beginners FULL COURSE in 3 Hours - techwithnana.md",
+    "_drafts/pips/hp lovecraft quote.md",
+    "_drafts/pips/mental_trap.md",
+    "2022-06-13-19-02-10.md",
+    "_drafts/pips/autogynephilia - contrapoints.md",
+    "aboutme.md"
   ]
 }
