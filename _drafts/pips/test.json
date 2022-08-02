@@ -1,0 +1,33 @@
+{
+  "size": 100,
+  "query": {
+    "boosting": {
+      "positive": {
+        "match": {
+          "note.exact_word": {
+            "query": "hello"
+          }
+        }
+      },
+      "positive_boost": 3
+    },
+    "bool": {
+      "must": [
+        {
+          "match": {
+            "note.exact_word": {
+              "query": "hello"
+            }
+          }
+        },
+        {
+          "match": {
+            "note.exact_word": {
+              "query": "there"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
