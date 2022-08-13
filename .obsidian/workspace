@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/pips/emotional fitness and leadership - nesslabs.md",
+            "file": "_drafts/pips/solitary_activity.md",
             "mode": "source",
             "source": false
           }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_drafts/pips/emotional fitness and leadership - nesslabs.md",
+            "file": "_drafts/pips/solitary_activity.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -74,15 +74,15 @@
   },
   "active": "3c8e286e40427382",
   "lastOpenFiles": [
-    "chirps/_posts/2022-05-05-23-02-24.md",
-    "chirps/_posts/2022-04-27-20-11-15.md",
-    "_drafts/pips/grief.md",
-    "_drafts/pips/critical_theory_reading_list.md",
-    "_drafts/pips/2021-08-19T00_08_50+05_30.md",
-    "_drafts/pips/beauty - contrapoints.md",
-    "2022-01-02-13-34-00.md",
-    "_drafts/pips/Man Up Surviving Modern Masculinity.md",
-    "_drafts/pips/modern shakespeare sonnet 167.md",
-    "_drafts/pips/harvard experience youtube notes.md"
+    "_drafts/pips/why an obsession with saftey creates sick minds and a sick society.md",
+    "_drafts/pips/women_socialisation.md",
+    "_drafts/pips/webserial recs.md",
+    "_drafts/pips/List of Awesome Research Articles on Computer Science and Technology.md",
+    "_drafts/pips/golang_spec.md",
+    "_drafts/pips/how_long_should_take.md",
+    "_drafts/pips/2021-08-14T07_37_15+05_30.md",
+    "_drafts/pips/Building RESTful APIs with Go - packt.md",
+    "_drafts/pips/emotional fitness and leadership - nesslabs.md",
+    "chirps/_posts/2022-05-05-23-02-24.md"
   ]
 }
