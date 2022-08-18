@@ -29,5 +29,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "_drafts/pips",
   "attachmentFolderPath": "_drafts/pics",
-  "spellcheck": true
+  "spellcheck": true,
+  "promptDelete": false,
+  "showFrontmatter": true
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/pips/solitary_activity.md",
+            "file": "_drafts/pips/How MDN autocomplete search works.md",
             "mode": "source",
             "source": false
           }
@@ -46,7 +46,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "f87d5404f969de55",
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_drafts/pips/solitary_activity.md",
+            "file": "_drafts/pips/How MDN autocomplete search works.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -74,15 +74,15 @@
   },
   "active": "3c8e286e40427382",
   "lastOpenFiles": [
-    "_drafts/pips/why an obsession with saftey creates sick minds and a sick society.md",
-    "_drafts/pips/women_socialisation.md",
-    "_drafts/pips/webserial recs.md",
-    "_drafts/pips/List of Awesome Research Articles on Computer Science and Technology.md",
-    "_drafts/pips/golang_spec.md",
-    "_drafts/pips/how_long_should_take.md",
-    "_drafts/pips/2021-08-14T07_37_15+05_30.md",
-    "_drafts/pips/Building RESTful APIs with Go - packt.md",
-    "_drafts/pips/emotional fitness and leadership - nesslabs.md",
-    "chirps/_posts/2022-05-05-23-02-24.md"
+    "chirps/_posts/2022-07-03-00-15-26.md",
+    "chirps/_posts/2022-03-25-14-03-18.md",
+    "_drafts/pips/2021-07-10-18-01-42.md",
+    "_drafts/pips/psy_first_aid.md",
+    "chirps/_posts/2022-08-15-08-35-05.md",
+    "_drafts/pips/where do women get power under patriarchy.md",
+    "chirps/_posts/2021-12-24-18-27-52.md",
+    "_drafts/pips/memorisation_not_equal_intelligence.md",
+    "_drafts/pips/quiet.md",
+    "_drafts/pips/wlb when no kids.md"
   ]
 }
