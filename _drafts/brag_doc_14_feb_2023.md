@@ -61,9 +61,6 @@ Supported services+inbox xmpp reliability implementation
 Mentored for template format change and sending notification on report creation
 features are multi region ready and have a regular engg planning meetings tracked on jira.
 
-
-
-
 okrs
 - Elevate platform stability and security
   - *Resolution of critical and high issues reported by Snyk for inbox microservices

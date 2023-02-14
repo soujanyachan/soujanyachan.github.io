@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d62a39357cff99a",
+        "id": "39428a90ccf6455d",
         "type": "tabs",
         "children": [
           {
-            "id": "3c8e286e40427382",
+            "id": "ae8ee6b426547ced",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,8 +80,9 @@
     ],
     "currentTab": 0
   },
-  "active": "3c8e286e40427382",
+  "active": "ae8ee6b426547ced",
   "lastOpenFiles": [
+    "_drafts/brag_doc_14_feb_2023.md",
     "_drafts/pips/work_smart_not_hard?.md",
     "chirps/_posts/2022-07-24-19-53-49.md",
     "_drafts/pips/reason for sports.md",
@@ -90,7 +91,6 @@
     "_drafts/pips/effort-accuracy tradeoff.md",
     "chirps/_posts/2022-05-21-20-34-09.md",
     "chirps/_posts/2022-08-18-10-29-50.md",
-    "_drafts/pips/technical management.md",
-    "_drafts/pips/2021-09-19T22_17_50+05_30.md"
+    "_drafts/pips/technical management.md"
   ]
 }
