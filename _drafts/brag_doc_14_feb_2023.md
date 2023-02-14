@@ -1,3 +1,7 @@
+---
+type: Journal
+---
+
 1. translation: offload the computation to a worker
 2. /internal/message/bulkUpdateMessageWithTranslations
 3. on prem tickets
