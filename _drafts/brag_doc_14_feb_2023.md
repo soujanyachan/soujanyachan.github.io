@@ -27,33 +27,36 @@
 27. added multiple scripts and apis for dev exp for debugging and on call.
 
 
+#DRAFT
 
 Handled on-call in a rotation, in the beginning of the year focussed more on on-prem and multiregion rellated issues. Now more related to bugs and general knowledge gap issues.
-Implemented and maintained the dyte integration, also adding new features such as the symbl-based translation and transcription and upgrades.
-Implemented message search using elastic search
-Provided support for the detailed search
-Provided multiple tutorials and wrote extensive documentation to help with liquibase migrations
+
+Implementation 
+Implemented and maintained the video calling dyte integration, also adding new features such as the symbl-based translation and transcription and upgrades.
+Implemented message search using elastic search - Message search pipeline - Exact Match Search 
 Implemented proactive notifications
 Implemented no code email ticketing v1
-Mentored for de integration
 Implemented notifications e2e
-Supported services+inbox xmpp reliability implementation
 Implemented the changes for human_takeover for the active learning project, this way the transfer to agent is tagged in the messages
 Refactored ticket API in all controllers for the da team for push to druid
-Mentored for template format change and sending notification on report creation
 Implemented events changes for both chat and ticketing
 Implemented debug logs -
 Implemented a basic canned responses search from the ui side
 Implemented workflow builder in golang from scratch.
 
-Storage of webRTC video call participants events for tracking and billing purposes
-Message search pipeline - Exact Match Search
-Workflow Builder
+support/leadership 
+Provided support for the detailed search
+Provided multiple tutorials and wrote extensive documentation to help with liquibase migrations
+Mentored for de integration
+Supported services+inbox xmpp reliability implementation
+Mentored for template format change and sending notification on report creation
 video calling revamp? - settings in ui
 better metrics tracking
 Fixing chat names in transcript and in bot messages using profile and cdp names.
 cdp integration with the help of cdp team
 sip calling poc
+
+
 
 
 okrs
@@ -72,4 +75,3 @@ okrs
   - end to end sprint planning on jira
   - reduction in spillover of stories / issues sprint on sprint
   - every feature should have one dev doc and one customer facing doc
-
