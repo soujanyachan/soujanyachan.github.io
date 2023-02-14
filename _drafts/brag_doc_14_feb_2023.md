@@ -77,3 +77,4 @@ okrs
   - end to end sprint planning on jira
   - reduction in spillover of stories / issues sprint on sprint
   - every feature should have one dev doc and one customer facing doc
+  -
