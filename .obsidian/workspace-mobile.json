@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "0b2ed00745b31adb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d62a39357cff99a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c8e286e40427382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/brag_doc_14_feb_2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a9fbb0522bb444a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ddfdd42b5fc03951",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f2ffa4b3a7f1ad72",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "brag",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "f87d5404f969de55",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9ddff6b5ac65ec09",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_drafts/brag_doc_14_feb_2023.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "3c8e286e40427382",
+  "lastOpenFiles": [
+    "_drafts/pips/work_smart_not_hard?.md",
+    "chirps/_posts/2022-07-24-19-53-49.md",
+    "_drafts/pips/reason for sports.md",
+    "chirps/_posts/2022-09-09-10-38-41.md",
+    "_drafts/pips/How MDN autocomplete search works.md",
+    "_drafts/pips/effort-accuracy tradeoff.md",
+    "chirps/_posts/2022-05-21-20-34-09.md",
+    "chirps/_posts/2022-08-18-10-29-50.md",
+    "_drafts/pips/technical management.md",
+    "_drafts/pips/2021-09-19T22_17_50+05_30.md"
+  ]
+}
