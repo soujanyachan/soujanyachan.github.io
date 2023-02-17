@@ -43,6 +43,12 @@ Implemented events changes for both chat and ticketing
 Implemented debug logs -
 Implemented a basic canned responses search from the ui side
 Implemented workflow builder in golang from scratch.
+video calling revamp? - settings in ui
+better metrics tracking
+Fixing chat names in transcript and in bot messages using profile and cdp names.
+cdp integration with the help of cdp team
+sip calling poc
+
 
 support/leadership 
 Provided support for the detailed search
@@ -50,12 +56,11 @@ Provided multiple tutorials and wrote extensive documentation to help with liqui
 Mentored for de integration
 Supported services+inbox xmpp reliability implementation
 Mentored for template format change and sending notification on report creation
-video calling revamp? - settings in ui
-better metrics tracking
-Fixing chat names in transcript and in bot messages using profile and cdp names.
-cdp integration with the help of cdp team
-sip calling poc
 
+Tech debt
+test coverage
+  - regular dev planning/implementation details 
+  - end to end dev planning on jira
 
 
 
@@ -64,7 +69,7 @@ okrs
   - *Resolution of critical and high issues reported by Snyk for inbox microservices
   - *All (relevant) features should be onprem ready
   - *All (relevant) features should be multi-region ready
-- e2e engineering plannign
+- e2e engineering planning 
   - No. of late days for feature deployment
   - no of bugs in post prod
   - time bw planned and actual of feat dev
