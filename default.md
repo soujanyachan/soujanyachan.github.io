@@ -1,1 +1,0 @@
-data -> pips (ideas/quotes), pubs (lit/article/video/book), -> plants
