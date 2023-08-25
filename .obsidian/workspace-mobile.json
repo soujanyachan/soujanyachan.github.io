@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "39428a90ccf6455d",
+        "id": "c5f2d3b410df321c",
         "type": "tabs",
         "children": [
           {
-            "id": "ae8ee6b426547ced",
+            "id": "8b556604fa755e84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/brag_doc_14_feb_2023.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -44,17 +40,25 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "brag",
+            "query": "Quick to volunteer",
             "matchingCase": false,
             "explainSearch": false,
-            "collapseAll": false,
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical"
           }
         }
+      },
+      {
+        "id": "1190b9c64abd518f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "f87d5404f969de55",
@@ -66,7 +70,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_drafts/brag_doc_14_feb_2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -80,17 +83,46 @@
     ],
     "currentTab": 0
   },
-  "active": "ae8ee6b426547ced",
+  "left-ribbon": {
+    "hiddenItems": {
+      "smart-random-note:Open Random Note from Search": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "8b556604fa755e84",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-08-25 13.49.07.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2023-08-25 13.02.46.excalidraw.md",
+    "_drafts/pips/ineuron.md",
+    "soujanyachan.github.io/_drafts/pips/2023-04-16-09-51-29.md",
+    "soujanyachan.github.io/chirps/_posts/2023-04-13-20-43-28.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-31-10-37-02.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-31-10-36-48.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-31-10-36-29.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-21-13-24-06.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-20-11-00-12.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-19-12-43-02.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-18-19-44-21.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-18-19-42-05.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-17-13-14-38.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-13-14-50-19.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-09-13-42-19.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-07-09-15-36.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-03-23-20-08.md",
+    "soujanyachan.github.io/chirps/_posts/2023-02-22-19-34-40.md",
+    "soujanyachan.github.io/2023-02-17-22-24-01.md",
+    "soujanyachan.github.io/chirps/_posts/2022-01-14-09-12-31.md",
+    "chirps/_posts/2022-01-14-09-12-31.md",
+    "soujanyachan.github.io/_drafts/pips/2023-02-19-18-57-32.md",
     "_drafts/brag_doc_14_feb_2023.md",
-    "_drafts/pips/work_smart_not_hard?.md",
-    "chirps/_posts/2022-07-24-19-53-49.md",
-    "_drafts/pips/reason for sports.md",
-    "chirps/_posts/2022-09-09-10-38-41.md",
-    "_drafts/pips/How MDN autocomplete search works.md",
-    "_drafts/pips/effort-accuracy tradeoff.md",
-    "chirps/_posts/2022-05-21-20-34-09.md",
-    "chirps/_posts/2022-08-18-10-29-50.md",
-    "_drafts/pips/technical management.md"
+    "_drafts/pips/2022-09-23-11-48-42.md",
+    "_drafts/pips/2022-08-12-14-28-05.md"
   ]
 }
