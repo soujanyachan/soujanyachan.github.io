@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "0b2ed00745b31adb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5f2d3b410df321c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b556604fa755e84",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d79694305f42acfa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/lcspeed.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a9fbb0522bb444a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ddfdd42b5fc03951",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f2ffa4b3a7f1ad72",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Quick to volunteer",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1190b9c64abd518f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f87d5404f969de55",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9ddff6b5ac65ec09",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Excalidraw/lcspeed.excalidraw.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "smart-random-note:Open Random Note from Search": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "ddfdd42b5fc03951",
+  "lastOpenFiles": [
+    "2023-09-04-14-34-53.md",
+    "Excalidraw/lcspeed.excalidraw.md",
+    "Excalidraw/lc97-2023-08-25 16.34.00.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-29 21.45.11.excalidraw.md",
+    "_drafts/pics/Pasted Image 20230826220309_635.png",
+    "_drafts/pics/Pasted Image 20230826220248_631.png",
+    "Excalidraw/lc646 2023-08-26 21.13.49.excalidraw.md",
+    "Excalidraw/cmudb2023-08-25 14.37.35.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-25 13.49.07.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2023-08-25 13.02.46.excalidraw.md",
+    "_drafts/pips/ineuron.md",
+    "soujanyachan.github.io/_drafts/pips/2023-04-16-09-51-29.md",
+    "soujanyachan.github.io/chirps/_posts/2023-04-13-20-43-28.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-31-10-37-02.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-31-10-36-48.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-31-10-36-29.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-21-13-24-06.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-20-11-00-12.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-19-12-43-02.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-18-19-44-21.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-18-19-42-05.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-17-13-14-38.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-13-14-50-19.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-09-13-42-19.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-07-09-15-36.md",
+    "soujanyachan.github.io/chirps/_posts/2023-03-03-23-20-08.md",
+    "soujanyachan.github.io/chirps/_posts/2023-02-22-19-34-40.md",
+    "soujanyachan.github.io/2023-02-17-22-24-01.md"
+  ]
+}
