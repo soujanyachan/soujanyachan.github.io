@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "d79694305f42acfa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/lcspeed.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,6 +81,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Excalidraw/lcspeed.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -95,8 +107,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b556604fa755e84",
+  "active": "d79694305f42acfa",
   "lastOpenFiles": [
+    "Excalidraw/lcspeed.excalidraw.md",
+    "Excalidraw/lc97-2023-08-25 16.34.00.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-29 21.45.11.excalidraw.md",
+    "_drafts/pics/Pasted Image 20230826220309_635.png",
+    "_drafts/pics/Pasted Image 20230826220248_631.png",
+    "Excalidraw/lc646 2023-08-26 21.13.49.excalidraw.md",
+    "Excalidraw/cmudb2023-08-25 14.37.35.excalidraw.md",
     "Excalidraw/Drawing 2023-08-25 13.49.07.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2023-08-25 13.02.46.excalidraw.md",
@@ -118,11 +137,6 @@
     "soujanyachan.github.io/chirps/_posts/2023-03-03-23-20-08.md",
     "soujanyachan.github.io/chirps/_posts/2023-02-22-19-34-40.md",
     "soujanyachan.github.io/2023-02-17-22-24-01.md",
-    "soujanyachan.github.io/chirps/_posts/2022-01-14-09-12-31.md",
-    "chirps/_posts/2022-01-14-09-12-31.md",
-    "soujanyachan.github.io/_drafts/pips/2023-02-19-18-57-32.md",
-    "_drafts/brag_doc_14_feb_2023.md",
-    "_drafts/pips/2022-09-23-11-48-42.md",
-    "_drafts/pips/2022-08-12-14-28-05.md"
+    "soujanyachan.github.io/chirps/_posts/2022-01-14-09-12-31.md"
   ]
 }
