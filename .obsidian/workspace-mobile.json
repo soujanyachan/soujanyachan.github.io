@@ -16,12 +16,14 @@
             }
           },
           {
-            "id": "d79694305f42acfa",
+            "id": "274472c9c11f24e7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/lcspeed.excalidraw.md"
+                "file": "_drafts/pips/hello there testing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -81,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/lcspeed.excalidraw.md",
+            "file": "_drafts/pips/hello there testing.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,7 +99,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "smart-random-note:Open Random Note from Search": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -107,10 +108,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ddfdd42b5fc03951",
+  "active": "274472c9c11f24e7",
   "lastOpenFiles": [
-    "2023-09-04-14-34-53.md",
+    "_drafts/pips/hello there testing.md",
     "Excalidraw/lcspeed.excalidraw.md",
+    "2023-09-04-14-34-53.md",
     "Excalidraw/lc97-2023-08-25 16.34.00.excalidraw.md",
     "Excalidraw/Drawing 2023-08-29 21.45.11.excalidraw.md",
     "_drafts/pics/Pasted Image 20230826220309_635.png",
@@ -136,7 +138,6 @@
     "soujanyachan.github.io/chirps/_posts/2023-03-09-13-42-19.md",
     "soujanyachan.github.io/chirps/_posts/2023-03-07-09-15-36.md",
     "soujanyachan.github.io/chirps/_posts/2023-03-03-23-20-08.md",
-    "soujanyachan.github.io/chirps/_posts/2023-02-22-19-34-40.md",
-    "soujanyachan.github.io/2023-02-17-22-24-01.md"
+    "soujanyachan.github.io/chirps/_posts/2023-02-22-19-34-40.md"
   ]
 }
