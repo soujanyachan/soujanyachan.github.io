@@ -11,8 +11,12 @@
             "id": "f0add7c111990e75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023-10-01-13-18-46.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -71,6 +75,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "2023-10-01-13-18-46.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -95,9 +100,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f0add7c111990e75",
+  "active": "ddfdd42b5fc03951",
   "lastOpenFiles": [
     "2023-10-05-00-09-13.md",
+    "2023-09-14-18-39-09.md",
     "_drafts/pips/hello there testing 123.md",
     "Excalidraw/lcspeed.excalidraw.md",
     "2023-09-04-14-34-53.md",
@@ -124,7 +130,6 @@
     "soujanyachan.github.io/chirps/_posts/2023-03-17-13-14-38.md",
     "soujanyachan.github.io/chirps/_posts/2023-03-13-14-50-19.md",
     "soujanyachan.github.io/chirps/_posts/2023-03-09-13-42-19.md",
-    "soujanyachan.github.io/chirps/_posts/2023-03-07-09-15-36.md",
-    "soujanyachan.github.io/chirps/_posts/2023-03-03-23-20-08.md"
+    "soujanyachan.github.io/chirps/_posts/2023-03-07-09-15-36.md"
   ]
 }
