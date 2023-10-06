@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c5f2d3b410df321c",
+        "id": "736c531a8edfe161",
         "type": "tabs",
         "children": [
           {
-            "id": "8b556604fa755e84",
+            "id": "f0add7c111990e75",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "274472c9c11f24e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/pips/hello there testing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -83,7 +71,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_drafts/pips/hello there testing.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,9 +95,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "274472c9c11f24e7",
+  "active": "f0add7c111990e75",
   "lastOpenFiles": [
-    "_drafts/pips/hello there testing.md",
+    "2023-10-05-00-09-13.md",
+    "_drafts/pips/hello there testing 123.md",
     "Excalidraw/lcspeed.excalidraw.md",
     "2023-09-04-14-34-53.md",
     "Excalidraw/lc97-2023-08-25 16.34.00.excalidraw.md",
@@ -137,7 +125,6 @@
     "soujanyachan.github.io/chirps/_posts/2023-03-13-14-50-19.md",
     "soujanyachan.github.io/chirps/_posts/2023-03-09-13-42-19.md",
     "soujanyachan.github.io/chirps/_posts/2023-03-07-09-15-36.md",
-    "soujanyachan.github.io/chirps/_posts/2023-03-03-23-20-08.md",
-    "soujanyachan.github.io/chirps/_posts/2023-02-22-19-34-40.md"
+    "soujanyachan.github.io/chirps/_posts/2023-03-03-23-20-08.md"
   ]
 }
