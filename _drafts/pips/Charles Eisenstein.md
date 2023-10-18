@@ -1,0 +1,1 @@
+The inner desolation mirrors the outer. … That inner sickness, that soul sickness, reflects the outer sickness of ecosystems. Could there ultimately be any doubt that the global climate reflects the social climate, the political climate, the economic climate, and the psychic climate?”
