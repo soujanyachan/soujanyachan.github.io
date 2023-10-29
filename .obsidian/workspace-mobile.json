@@ -14,6 +14,18 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "7c5f60f5df132e72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/pips/29 Oct 22 07 09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "stacked": true
@@ -97,6 +109,7 @@
   },
   "active": "95ceb1e5df74509f",
   "lastOpenFiles": [
+    "_drafts/pips/29 Oct 22 07 09.md",
     "_drafts/pics/Screenshot_20231022-132931.png",
     "_drafts/pips/Charles Eisenstein.md",
     "Excalidraw/Drawing 2023-10-10 22.23.00.excalidraw.md",
