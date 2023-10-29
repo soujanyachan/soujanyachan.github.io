@@ -16,18 +16,19 @@
             }
           },
           {
-            "id": "7c5f60f5df132e72",
+            "id": "990f3b60ab03048d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/pips/29 Oct 22 07 09.md",
+                "file": "_drafts/pips/purpose.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -83,6 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "_drafts/pips/purpose.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,8 +109,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95ceb1e5df74509f",
+  "active": "990f3b60ab03048d",
   "lastOpenFiles": [
+    "_drafts/pips/purpose.md",
     "_drafts/pips/29 Oct 22 07 09.md",
     "_drafts/pics/Screenshot_20231022-132931.png",
     "_drafts/pips/Charles Eisenstein.md",
@@ -137,7 +140,6 @@
     "soujanyachan.github.io/chirps/_posts/2023-03-21-13-24-06.md",
     "soujanyachan.github.io/chirps/_posts/2023-03-20-11-00-12.md",
     "soujanyachan.github.io/chirps/_posts/2023-03-19-12-43-02.md",
-    "soujanyachan.github.io/chirps/_posts/2023-03-18-19-44-21.md",
-    "soujanyachan.github.io/chirps/_posts/2023-03-18-19-42-05.md"
+    "soujanyachan.github.io/chirps/_posts/2023-03-18-19-44-21.md"
   ]
 }
