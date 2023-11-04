@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b30ce01838ac352b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-04 19.16.13.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_drafts/pips/202311041323.md",
+            "file": "Excalidraw/Drawing 2023-11-04 19.16.13.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,9 +111,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "72b89030172b2f55",
+  "active": "b30ce01838ac352b",
   "lastOpenFiles": [
     "_drafts/pips/202311041323.md",
+    "Excalidraw/Drawing 2023-11-04 19.16.13.excalidraw.md",
     "_drafts/pips/2023-11-04-10-23-41.md",
     "_drafts/pips/2023-11-04-13-09-07.md",
     "_drafts/pips/2023-11-04-13-21-51.md",
@@ -127,7 +139,6 @@
     "_drafts/pips/2021-08-05T00-04-04+05-30.md",
     "_drafts/pips/new year resolution - theme.md",
     "_drafts/pips/purpose.md",
-    "_drafts/pips/29 Oct 22 07 09.md",
     "_drafts/pics/Screenshot_20231022-132931.png",
     "_drafts/pics/Pasted Image 20230826220309_635.png",
     "_drafts/pics/Pasted Image 20230826220248_631.png",
