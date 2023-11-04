@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0653afa4578e2f2e",
+        "id": "5c8b1e26808d8c1c",
         "type": "tabs",
         "children": [
           {
-            "id": "bbfdcf9046facf46",
+            "id": "72b89030172b2f55",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/pips/202311041323.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,6 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "_drafts/pips/202311041323.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -92,11 +96,20 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "bbfdcf9046facf46",
+  "active": "72b89030172b2f55",
   "lastOpenFiles": [
+    "_drafts/pips/202311041323.md",
+    "_drafts/pips/2023-11-04-10-23-41.md",
+    "_drafts/pips/2023-11-04-13-09-07.md",
+    "_drafts/pips/2023-11-04-13-21-51.md",
+    "_drafts/pips/2023-11-04-10-13-15.md",
+    "_drafts/pips/2023-11-04-10-11-35.md",
+    "_drafts/pips/2023-11-04-09-52-00.md",
+    "_drafts/pips/2023-11-04-09-51-59.md",
     "_drafts/pips/011137 31 oct.md",
     "_drafts/pips/234727 mon 30 oct.md",
     "_drafts/pips/guns_germs_steel_historian_pov.md",
@@ -116,14 +129,6 @@
     "_drafts/pips/purpose.md",
     "_drafts/pips/29 Oct 22 07 09.md",
     "_drafts/pics/Screenshot_20231022-132931.png",
-    "_drafts/pips/Charles Eisenstein.md",
-    "Excalidraw/Drawing 2023-10-10 22.23.00.excalidraw.md",
-    "2023-10-01-13-18-46.md",
-    "2023-10-05-00-09-13.md",
-    "2023-09-14-18-39-09.md",
-    "_drafts/pips/hello there testing 123.md",
-    "Excalidraw/lcspeed.excalidraw.md",
-    "2023-09-04-14-34-53.md",
     "_drafts/pics/Pasted Image 20230826220309_635.png",
     "_drafts/pics/Pasted Image 20230826220248_631.png",
     "Excalidraw"
