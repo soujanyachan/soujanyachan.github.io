@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1b4fefebce4f9d11",
+        "id": "bbcbddfe279b9567",
         "type": "tabs",
         "children": [
           {
-            "id": "59daf5a9a4785c4f",
+            "id": "b10eb73cda4085a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/pips/202311051303.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -74,7 +70,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_drafts/pips/202311051303.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -83,6 +78,14 @@
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
           }
+        }
+      },
+      {
+        "id": "bd22d488c6c3c138",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
         }
       }
     ],
@@ -97,11 +100,13 @@
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "59daf5a9a4785c4f",
+  "active": "b10eb73cda4085a9",
   "lastOpenFiles": [
+    "_drafts/pips/flashcards.md",
     "_drafts/pips/202311051303.md",
     "_drafts/pips/202311051301.md",
     "_drafts/pips/202311041323.md",
@@ -130,7 +135,6 @@
     "_drafts/pips/best career path isnt a straight line.md",
     "_drafts/chirps/_posts/2022-03-11-18-02-08.md",
     "_drafts/pips/cringe - contrapoints.md",
-    "_drafts/pips/ga_course.md",
     "_drafts/pics/Screenshot_20231022-132931.png",
     "_drafts/pics/Pasted Image 20230826220309_635.png",
     "_drafts/pics/Pasted Image 20230826220248_631.png",
