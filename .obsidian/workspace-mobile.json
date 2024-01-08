@@ -4,18 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "cbf83c00a92c142a",
+        "id": "980c57bdc0d9f10d",
         "type": "tabs",
         "children": [
           {
-            "id": "685c55ddc26597ff",
+            "id": "ff4ba0bbc4fd5565",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "0cfb08d516a612c6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-08 20.14.26.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,6 +81,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Excalidraw/Drawing 2024-01-08 20.14.26.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -99,13 +111,16 @@
       "command-palette:Open command palette": true,
       "markdown-importer:Open format converter": true,
       "random-note:Open random note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "685c55ddc26597ff",
+  "active": "0cfb08d516a612c6",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-08 20.14.26.excalidraw.md",
+    "Excalidraw/webrtc for the curious.excalidraw.md",
+    "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "_drafts/pips/202311152216.md",
@@ -135,7 +150,6 @@
     "_drafts/chirps/_posts/2023-06-11-09-09-38.md",
     "_drafts/chirps/_posts/2022-06-26-13-39-07.md",
     "_drafts/pips/fire_calc.md",
-    "_drafts/pips/best career path isnt a straight line.md",
     "_drafts/pics/Screenshot_20231022-132931.png",
     "_drafts/pics/Pasted Image 20230826220309_635.png",
     "_drafts/pics/Pasted Image 20230826220248_631.png",
