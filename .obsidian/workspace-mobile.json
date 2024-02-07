@@ -14,19 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "0cfb08d516a612c6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-08 20.14.26.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +70,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-01-08 20.14.26.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +81,7 @@
         }
       },
       {
-        "id": "bd22d488c6c3c138",
+        "id": "0818241bd3d3e803",
         "type": "leaf",
         "state": {
           "type": "review-queue-list-view",
@@ -116,7 +104,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0cfb08d516a612c6",
+  "active": "0818241bd3d3e803",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-01-08 20.14.26.excalidraw.md",
     "Excalidraw/webrtc for the curious.excalidraw.md",
